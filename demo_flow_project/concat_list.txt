@@ -1,0 +1,4 @@
+file 'C:/Users/dat/Downloads/video genflow/demo_flow_project/clips/scene_1.mp4'
+file 'C:/Users/dat/Downloads/video genflow/demo_flow_project/clips/scene_2.mp4'
+file 'C:/Users/dat/Downloads/video genflow/demo_flow_project/clips/scene_3.mp4'
+file 'C:/Users/dat/Downloads/video genflow/demo_flow_project/clips/scene_4.mp4'

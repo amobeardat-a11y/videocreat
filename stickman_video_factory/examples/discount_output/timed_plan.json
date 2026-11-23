@@ -1,0 +1,269 @@
+{
+  "title": "Giảm 50% rồi tăng 50% có về giá cũ không?",
+  "cast": [
+    {
+      "id": "nam",
+      "name": "Nam",
+      "voice_style": "comic_male",
+      "color": "orange"
+    },
+    {
+      "id": "minh",
+      "name": "Minh",
+      "voice_style": "calm_male",
+      "color": "teal"
+    }
+  ],
+  "duration": 47.0,
+  "scenes": [
+    {
+      "index": 0,
+      "title": "MỘT MÓN HỜI?",
+      "start": 0.0,
+      "end": 16.0,
+      "voice_rate": 1.0
+    },
+    {
+      "index": 1,
+      "title": "MỐC TÍNH ĐÃ ĐỔI",
+      "start": 16.0,
+      "end": 35.0,
+      "voice_rate": 1.0
+    },
+    {
+      "index": 2,
+      "title": "KẾT LUẬN",
+      "start": 35.0,
+      "end": 47.0,
+      "voice_rate": 1.0
+    }
+  ],
+  "lines": [
+    {
+      "speaker": "nam",
+      "text": "Áo một trăm nghìn, giảm năm mươi phần trăm rồi tăng năm mươi phần trăm. Về giá cũ chứ?",
+      "pose": "calculate_discount",
+      "expression": "curious",
+      "visual": {
+        "type": "store",
+        "headline": "CỬA HÀNG CỦA NAM",
+        "subtext": "GIẢM 50%"
+      },
+      "index": 0,
+      "scene": 0,
+      "visual_start": 1.32,
+      "start": 1.32,
+      "end": 6.76
+    },
+    {
+      "speaker": "minh",
+      "text": "Không. Sau khi giảm, áo chỉ còn năm mươi nghìn.",
+      "pose": "point_side",
+      "visual": {
+        "type": "compare",
+        "title": "BƯỚC ĐẦU TIÊN",
+        "left": {
+          "title": "GIÁ GỐC",
+          "value": "100.000đ"
+        },
+        "right": {
+          "title": "SAU GIẢM",
+          "value": "50.000đ"
+        }
+      },
+      "index": 1,
+      "scene": 0,
+      "visual_start": 8.0,
+      "start": 8.0,
+      "end": 10.64
+    },
+    {
+      "speaker": "nam",
+      "text": "Nhưng tăng năm mươi phần trăm là thêm năm mươi nghìn mà?",
+      "pose": "confused",
+      "expression": "confused",
+      "effect": "thought",
+      "index": 2,
+      "scene": 0,
+      "visual": {
+        "type": "compare",
+        "title": "BƯỚC ĐẦU TIÊN",
+        "left": {
+          "title": "GIÁ GỐC",
+          "value": "100.000đ"
+        },
+        "right": {
+          "title": "SAU GIẢM",
+          "value": "50.000đ"
+        }
+      },
+      "visual_start": 8.0,
+      "start": 11.88,
+      "end": 14.6
+    },
+    {
+      "speaker": "minh",
+      "text": "Năm mươi phần trăm của năm mươi nghìn là hai mươi lăm nghìn.",
+      "pose": "write_formula",
+      "visual": {
+        "type": "equation",
+        "title": "TÍNH TRÊN GIÁ MỚI",
+        "formula": "50.000 × 50% = 25.000",
+        "notes": [
+          "Giá mới làm mốc để tính phần tăng"
+        ]
+      },
+      "index": 3,
+      "scene": 1,
+      "visual_start": 17.832,
+      "start": 17.832,
+      "end": 20.712
+    },
+    {
+      "speaker": "nam",
+      "text": "Vậy giá cuối cùng là bảy mươi lăm nghìn?",
+      "pose": "surprised",
+      "expression": "surprised",
+      "effect": "surprise",
+      "move_x": -20,
+      "visual": {
+        "type": "steps",
+        "title": "HAI PHÉP TÍNH",
+        "items": [
+          "100.000đ",
+          "Giảm 50% còn 50.000đ",
+          "Tăng 50% thành 75.000đ"
+        ]
+      },
+      "index": 4,
+      "scene": 1,
+      "visual_start": 22.464,
+      "start": 22.464,
+      "end": 24.704
+    },
+    {
+      "speaker": "minh",
+      "text": "Đúng. Mỗi lần phần trăm được tính trên một mức giá khác nhau.",
+      "pose": "explain_open",
+      "expression": "talk",
+      "index": 5,
+      "scene": 1,
+      "visual": {
+        "type": "steps",
+        "title": "HAI PHÉP TÍNH",
+        "items": [
+          "100.000đ",
+          "Giảm 50% còn 50.000đ",
+          "Tăng 50% thành 75.000đ"
+        ]
+      },
+      "visual_start": 22.464,
+      "start": 26.456,
+      "end": 29.496
+    },
+    {
+      "speaker": "nam",
+      "text": "Thế mà tao tưởng được miễn phí!",
+      "pose": "facepalm",
+      "expression": "embarrassed",
+      "index": 6,
+      "scene": 1,
+      "visual": {
+        "type": "steps",
+        "title": "HAI PHÉP TÍNH",
+        "items": [
+          "100.000đ",
+          "Giảm 50% còn 50.000đ",
+          "Tăng 50% thành 75.000đ"
+        ]
+      },
+      "visual_start": 22.464,
+      "start": 31.248,
+      "end": 33.088
+    },
+    {
+      "speaker": "minh",
+      "text": "Giảm năm mươi phần trăm rồi tăng năm mươi phần trăm sẽ còn bảy mươi lăm phần trăm giá ban đầu.",
+      "pose": "point_side",
+      "visual": {
+        "type": "compare",
+        "title": "KẾT QUẢ",
+        "left": {
+          "title": "BAN ĐẦU",
+          "value": "100%"
+        },
+        "right": {
+          "title": "CUỐI CÙNG",
+          "value": "75%"
+        }
+      },
+      "index": 7,
+      "scene": 2,
+      "visual_start": 35.352,
+      "start": 35.352,
+      "end": 39.752
+    },
+    {
+      "speaker": "nam",
+      "text": "Tức là cuối cùng vẫn giảm hai mươi lăm phần trăm.",
+      "pose": "nod",
+      "expression": "happy",
+      "index": 8,
+      "scene": 2,
+      "visual": {
+        "type": "compare",
+        "title": "KẾT QUẢ",
+        "left": {
+          "title": "BAN ĐẦU",
+          "value": "100%"
+        },
+        "right": {
+          "title": "CUỐI CÙNG",
+          "value": "75%"
+        }
+      },
+      "visual_start": 35.352,
+      "start": 40.024,
+      "end": 42.744
+    },
+    {
+      "speaker": "minh",
+      "text": "Chính xác.",
+      "pose": "nod",
+      "expression": "happy",
+      "index": 9,
+      "scene": 2,
+      "visual": {
+        "type": "compare",
+        "title": "KẾT QUẢ",
+        "left": {
+          "title": "BAN ĐẦU",
+          "value": "100%"
+        },
+        "right": {
+          "title": "CUỐI CÙNG",
+          "value": "75%"
+        }
+      },
+      "visual_start": 35.352,
+      "start": 43.016,
+      "end": 43.656
+    },
+    {
+      "speaker": "nam",
+      "text": "Toán không cho tao làm giàu dễ thế rồi!",
+      "pose": "shrug",
+      "expression": "laugh",
+      "visual": {
+        "type": "end",
+        "headline": "PHẦN TRĂM LUÔN CÓ MỐC TÍNH",
+        "subtext": "100.000đ → 50.000đ → 75.000đ"
+      },
+      "index": 10,
+      "scene": 2,
+      "visual_start": 43.928,
+      "start": 43.928,
+      "end": 46.568
+    }
+  ]
+}

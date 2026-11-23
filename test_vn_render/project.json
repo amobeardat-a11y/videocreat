@@ -1,0 +1,153 @@
+{
+  "version": 1,
+  "style": "B1",
+  "width": 1280,
+  "height": 720,
+  "fps": 30,
+  "font": "viet_font.ttf",
+  "voice": {"path": "voice.wav", "lead": 0, "tail": 0},
+  "reference_review": {
+    "author_id": "viet-director",
+    "capability": {
+      "mode": "limited",
+      "environment": "Local Vietnamese test",
+      "limitations": [
+        {
+          "capability": "story-specific layered art",
+          "observed": "Fixture uses supplied engineering props",
+          "impact": "Test run"
+        }
+      ]
+    }
+  },
+  "captions": [
+    {"start": 0.2, "end": 2.52, "text": "Bạn muốn làm video triệu view mà không cần lộ mặt?"},
+    {"start": 2.87, "end": 5.11, "text": "Hãy bắt đầu ngay với phong cách hoạt hình người que."},
+    {"start": 5.46, "end": 8.58, "text": "Chỉ cần kịch bản hay, hình vẽ tối giản và giọng đọc AI."},
+    {"start": 8.93, "end": 11.33, "text": "Đây là video thử nghiệm hoàn chỉnh trên máy của bạn."}
+  ],
+  "shots": [
+    {
+      "start": 0,
+      "end": 2.8,
+      "layers": [
+        {"type": "text", "text": "KÊNH TRIỆU VIEW.", "x": 95, "y": 110, "size": 52, "bold": true},
+        {"type": "text", "text": "KHÔNG CẦN LỘ MẶT.", "x": 95, "y": 185, "size": 52, "bold": true, "color": "#EC4338"},
+        {"type": "pose", "pose": 1, "x": 720, "y": 35, "w": 445},
+        {
+          "id": "s1-yt",
+          "type": "image",
+          "path": "@b1/youtube-crayon.png",
+          "x": 120,
+          "y": 300,
+          "w": 270,
+          "motion": {"role": "prop", "reason": "YouTube logo slides in"},
+          "keys": [{"t": 0, "x": 100}, {"t": 1.5, "x": 120}]
+        },
+        {
+          "id": "s1-cam",
+          "type": "image",
+          "path": "@b1/camera-handdrawn.png",
+          "x": 405,
+          "y": 335,
+          "w": 160,
+          "motion": {"role": "prop", "reason": "Camera tilts slightly"},
+          "keys": [{"t": 1.4, "angle": -0.08}, {"t": 2.7, "angle": 0.05}]
+        }
+      ]
+    },
+    {
+      "start": 2.8,
+      "end": 5.4,
+      "layers": [
+        {"type": "text", "text": "HOẠT HÌNH NGƯỜI QUE.", "x": 100, "y": 110, "size": 52, "bold": true},
+        {"type": "pose", "pose": 0, "x": 650, "y": 15, "w": 465},
+        {
+          "id": "s2-bulb",
+          "type": "image",
+          "path": "@b1/idea-bulb-crayon.png",
+          "x": 120,
+          "y": 275,
+          "w": 170,
+          "motion": {"role": "prop", "reason": "Idea bulb floats up"},
+          "keys": [{"t": 0.1, "y": 290}, {"t": 1.8, "y": 275}]
+        },
+        {
+          "id": "s2-note",
+          "type": "image",
+          "path": "@b1/idea-note-crayon.png",
+          "x": 360,
+          "y": 300,
+          "w": 170,
+          "motion": {"role": "prop", "reason": "Note rotates into view"},
+          "keys": [{"t": 1.7, "angle": -0.07}, {"t": 2.5, "angle": 0}]
+        }
+      ]
+    },
+    {
+      "start": 5.4,
+      "end": 8.8,
+      "layers": [
+        {"type": "text", "text": "KỊCH BẢN & GIỌNG ĐỌC AI.", "x": 95, "y": 115, "size": 50, "bold": true},
+        {"type": "pose", "pose": 2, "x": 70, "y": 45, "w": 435},
+        {
+          "id": "s3-clap",
+          "type": "image",
+          "path": "@b1/clapper-crayon.png",
+          "x": 570,
+          "y": 260,
+          "w": 180,
+          "motion": {"role": "prop", "reason": "Clapper moves"},
+          "keys": [{"t": 0.1, "x": 550}, {"t": 1.7, "x": 570}]
+        },
+        {
+          "id": "s3-cal",
+          "type": "image",
+          "path": "@b1/calendar-crayon.png",
+          "x": 570,
+          "y": 260,
+          "w": 180,
+          "motion": {"role": "prop", "reason": "Calendar moves"},
+          "keys": [{"t": 1.6, "x": 570}, {"t": 3.3, "x": 590}]
+        }
+      ]
+    },
+    {
+      "start": 8.8,
+      "end": 11.48,
+      "layers": [
+        {"type": "text", "text": "THỬ NGHIỆM THÀNH CÔNG!", "x": 95, "y": 110, "size": 52, "bold": true, "color": "#0F9D58"},
+        {"type": "pose", "pose": 0, "x": 700, "y": 35, "w": 445},
+        {
+          "id": "s4-open",
+          "type": "image",
+          "path": "@b1/open-source-crayon.png",
+          "x": 180,
+          "y": 295,
+          "w": 195,
+          "motion": {"role": "prop", "reason": "Open source logo appears"},
+          "keys": [{"t": 0.1, "x": 160}, {"t": 1.5, "x": 180}]
+        },
+        {
+          "id": "s4-yt",
+          "type": "image",
+          "path": "@b1/youtube-crayon.png",
+          "x": 420,
+          "y": 290,
+          "w": 270,
+          "motion": {"role": "prop", "reason": "YouTube logo moves in"},
+          "keys": [{"t": 1.4, "x": 420}, {"t": 2.6, "x": 440}]
+        }
+      ]
+    }
+  ],
+  "ambience": [
+    {"path": "voice.wav", "start": 0, "end": 11.48, "gain": 0.0001}
+  ],
+  "sfx": [
+    {"time": 0.2, "kind": "tap", "gain": 0.05},
+    {"time": 2.8, "kind": "pop", "gain": 0.05},
+    {"time": 5.4, "kind": "paper", "gain": 0.05},
+    {"time": 8.8, "kind": "chime", "gain": 0.05}
+  ]
+}

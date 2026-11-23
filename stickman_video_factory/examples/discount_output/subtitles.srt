@@ -1,0 +1,63 @@
+1
+00:00:01,320 --> 00:00:04,840
+Nam: Áo một trăm nghìn, giảm năm mươi phần trăm rồi tăng năm
+
+2
+00:00:04,840 --> 00:00:06,760
+Nam: mươi phần trăm. Về giá cũ chứ?
+
+3
+00:00:08,000 --> 00:00:10,640
+Minh: Không. Sau khi giảm, áo chỉ còn năm mươi nghìn.
+
+4
+00:00:11,880 --> 00:00:14,452
+Nam: Nhưng tăng năm mươi phần trăm là thêm năm mươi nghìn
+
+5
+00:00:14,452 --> 00:00:14,600
+Nam: mà?
+
+6
+00:00:17,832 --> 00:00:20,419
+Minh: Năm mươi phần trăm của năm mươi nghìn là hai mươi lăm
+
+7
+00:00:20,419 --> 00:00:20,712
+Minh: nghìn.
+
+8
+00:00:22,464 --> 00:00:24,704
+Nam: Vậy giá cuối cùng là bảy mươi lăm nghìn?
+
+9
+00:00:26,456 --> 00:00:29,243
+Minh: Đúng. Mỗi lần phần trăm được tính trên một mức giá khác
+
+10
+00:00:29,243 --> 00:00:29,496
+Minh: nhau.
+
+11
+00:00:31,248 --> 00:00:33,088
+Nam: Thế mà tao tưởng được miễn phí!
+
+12
+00:00:35,352 --> 00:00:37,907
+Minh: Giảm năm mươi phần trăm rồi tăng năm mươi phần trăm sẽ
+
+13
+00:00:37,907 --> 00:00:39,752
+Minh: còn bảy mươi lăm phần trăm giá ban đầu.
+
+14
+00:00:40,024 --> 00:00:42,744
+Nam: Tức là cuối cùng vẫn giảm hai mươi lăm phần trăm.
+
+15
+00:00:43,016 --> 00:00:43,656
+Minh: Chính xác.
+
+16
+00:00:43,928 --> 00:00:46,568
+Nam: Toán không cho tao làm giàu dễ thế rồi!

@@ -1,0 +1,1388 @@
+{
+  "fingerprint": "37f2a05643671552f2d484080f59e33008d2e89b904e076676bfc058c7b2773c",
+  "preview_seconds": 20,
+  "output": "C:\\Users\\dat\\Downloads\\video genflow\\project_1_equals_2\\output\\preview.mp4",
+  "output_sha256": "013da095265808f5b719d0f14e66e11d78dfa69716bbdccf463a2b0794cf99fd",
+  "original_voice_sha256": "cbfcb2f8a7019bb89622d0dea5864d62f6c8631851fd6f77aaad841d5b436ffd",
+  "original_voice_duration": 109,
+  "voice_rate": "unchanged; leading/trailing padding only",
+  "frames": 480,
+  "duration": 20,
+  "cache_hits": 7,
+  "shot_count": 7,
+  "full_decode": "pass",
+  "caption_count": 12,
+  "human_review": "required; technical checks are not acceptance",
+  "inputs": [
+    {
+      "path": "C:\\Users\\dat\\Downloads\\video genflow\\project_1_equals_2\\math_assets\\eq_1.png",
+      "sha256": "f8cb631d49f93455250831ead8b2f92c7cf1a514ff58f82076d5faf2e62fe30f"
+    },
+    {
+      "path": "C:\\Users\\dat\\Downloads\\video genflow\\project_1_equals_2\\viet_font.ttf",
+      "sha256": "bfb7bb691513f12e734dc346c03a03f784912432d7e3fa8e56efcf906fe86b3d"
+    },
+    {
+      "path": "C:\\Users\\dat\\Downloads\\video genflow\\project_1_equals_2\\voice.wav",
+      "sha256": "cbfcb2f8a7019bb89622d0dea5864d62f6c8631851fd6f77aaad841d5b436ffd"
+    },
+    {
+      "path": "C:\\Users\\dat\\Downloads\\video genflow\\stickman-video-director\\skills\\directing-stickman-videos\\assets\\b1\\approved-2026-10-23-contact-sheet.png",
+      "sha256": "0bc85b4c8ca938b01d346fcca9af06e608ea56e6d82ea993860647166b7b530e"
+    },
+    {
+      "path": "C:\\Users\\dat\\Downloads\\video genflow\\stickman-video-director\\skills\\directing-stickman-videos\\assets\\b1\\approved-2026-10-23-motion-sheet.png",
+      "sha256": "7bb8664e837e44604387f258522fd2251bac5ddf7347ed02297f211dc45ced73"
+    },
+    {
+      "path": "C:\\Users\\dat\\Downloads\\video genflow\\stickman-video-director\\skills\\directing-stickman-videos\\assets\\b1\\approved-2026-10-23.mp4",
+      "sha256": "111c241a836a0c26b27df2cbff3ba5697b97460dbb873b68dd2f6eda2383b3fc"
+    },
+    {
+      "path": "C:\\Users\\dat\\Downloads\\video genflow\\stickman-video-director\\skills\\directing-stickman-videos\\assets\\b1\\approved-2026-10-24-longform-contact-sheet.jpg",
+      "sha256": "18690bd4a1d94cdc611bced722899cd0cae3f3e114120cedc79e0ab717b4c99e"
+    },
+    {
+      "path": "C:\\Users\\dat\\Downloads\\video genflow\\stickman-video-director\\skills\\directing-stickman-videos\\assets\\b1\\approved-baseline.json",
+      "sha256": "8948fb69c87d0b85f3927cd773e6afda47596ea8aeb39d031abc313fb48af2d5"
+    },
+    {
+      "path": "C:\\Users\\dat\\Downloads\\video genflow\\stickman-video-director\\skills\\directing-stickman-videos\\assets\\b1\\approved-production-standard.json",
+      "sha256": "a8ee78a831aaf31f2e37c09d34dbb3da7c8c2abac2b47a7a245843ade191b757"
+    },
+    {
+      "path": "C:\\Users\\dat\\Downloads\\video genflow\\stickman-video-director\\skills\\directing-stickman-videos\\assets\\b1\\character-pose-sheet-v6.png",
+      "sha256": "94b601f640112314965525f49536f87942c577e1e5556a11503b19ed00777bb7"
+    },
+    {
+      "path": "C:\\Users\\dat\\Downloads\\video genflow\\stickman-video-director\\skills\\directing-stickman-videos\\assets\\b1\\idea-bulb-crayon.png",
+      "sha256": "439ac0f851ce3dc3ecace97e522c0c18bf1ffada833bff93905f9dd91b9f5db7"
+    },
+    {
+      "path": "C:\\Users\\dat\\Downloads\\video genflow\\stickman-video-director\\skills\\directing-stickman-videos\\assets\\b1\\idea-note-crayon.png",
+      "sha256": "078a53c4b1efa343bdc033371129e62dcab80e752884725202c3d7d79e3b9739"
+    },
+    {
+      "path": "C:\\Users\\dat\\Downloads\\video genflow\\stickman-video-director\\skills\\directing-stickman-videos\\assets\\fonts\\NotoSans.ttf",
+      "sha256": "bfb7bb691513f12e734dc346c03a03f784912432d7e3fa8e56efcf906fe86b3d"
+    }
+  ],
+  "local_motion": {
+    "intervals": [
+      {
+        "id": "prop-0",
+        "start": 0,
+        "end": 2.15,
+        "reason": "Biểu tượng chuyển động theo câu thoại",
+        "changed_pixels": 8112
+      },
+      {
+        "id": "prop-0",
+        "start": 2.15,
+        "end": 4.09,
+        "reason": "Biểu tượng chuyển động theo câu thoại",
+        "changed_pixels": 5235
+      },
+      {
+        "id": "prop-1",
+        "start": 4.295,
+        "end": 6.025,
+        "reason": "Biểu tượng chuyển động theo câu thoại",
+        "changed_pixels": 8052
+      },
+      {
+        "id": "prop-1",
+        "start": 6.025,
+        "end": 7.5649999999999995,
+        "reason": "Biểu tượng chuyển động theo câu thoại",
+        "changed_pixels": 6346
+      },
+      {
+        "id": "prop-2",
+        "start": 7.764,
+        "end": 9.224,
+        "reason": "Biểu tượng chuyển động theo câu thoại",
+        "changed_pixels": 8112
+      },
+      {
+        "id": "prop-2",
+        "start": 9.224,
+        "end": 10.474,
+        "reason": "Biểu tượng chuyển động theo câu thoại",
+        "changed_pixels": 5254
+      },
+      {
+        "id": "prop-3",
+        "start": 10.675,
+        "end": 12.335,
+        "reason": "Biểu tượng chuyển động theo câu thoại",
+        "changed_pixels": 8052
+      },
+      {
+        "id": "prop-3",
+        "start": 12.335,
+        "end": 13.785,
+        "reason": "Biểu tượng chuyển động theo câu thoại",
+        "changed_pixels": 6251
+      },
+      {
+        "id": "prop-4",
+        "start": 13.985,
+        "end": 14.555,
+        "reason": "Biểu tượng chuyển động theo câu thoại",
+        "changed_pixels": 8112
+      },
+      {
+        "id": "prop-4",
+        "start": 14.555,
+        "end": 14.934999999999999,
+        "reason": "Biểu tượng chuyển động theo câu thoại",
+        "changed_pixels": 3388
+      },
+      {
+        "id": "prop-5",
+        "start": 15.135,
+        "end": 16.384999999999998,
+        "reason": "Biểu tượng chuyển động theo câu thoại",
+        "changed_pixels": 8052
+      },
+      {
+        "id": "prop-5",
+        "start": 16.384999999999998,
+        "end": 17.445,
+        "reason": "Biểu tượng chuyển động theo câu thoại",
+        "changed_pixels": 6256
+      },
+      {
+        "id": "prop-6",
+        "start": 17.645,
+        "end": 19.855,
+        "reason": "Biểu tượng chuyển động theo câu thoại",
+        "changed_pixels": 8082
+      }
+    ],
+    "windows": [
+      {
+        "start": 0,
+        "end": 2.25,
+        "id": "prop-0",
+        "changed_pixels": 8112
+      },
+      {
+        "start": 0.25,
+        "end": 2.5,
+        "id": "prop-0",
+        "changed_pixels": 7916
+      },
+      {
+        "start": 0.5,
+        "end": 2.75,
+        "id": "prop-0",
+        "changed_pixels": 7434
+      },
+      {
+        "start": 0.75,
+        "end": 3,
+        "id": "prop-0",
+        "changed_pixels": 6586
+      },
+      {
+        "start": 1,
+        "end": 3.25,
+        "id": "prop-0",
+        "changed_pixels": 5602
+      },
+      {
+        "start": 1.25,
+        "end": 3.5,
+        "id": "prop-0",
+        "changed_pixels": 4502
+      },
+      {
+        "start": 1.5,
+        "end": 3.75,
+        "id": "prop-0",
+        "changed_pixels": 3337
+      },
+      {
+        "start": 1.75,
+        "end": 4,
+        "id": "prop-0",
+        "changed_pixels": 2082
+      },
+      {
+        "start": 2,
+        "end": 4.25,
+        "id": "prop-0",
+        "changed_pixels": 849
+      },
+      {
+        "start": 2.25,
+        "end": 4.5,
+        "id": "prop-0",
+        "changed_pixels": 5235
+      },
+      {
+        "start": 2.5,
+        "end": 4.75,
+        "id": "prop-0",
+        "changed_pixels": 4965
+      },
+      {
+        "start": 2.75,
+        "end": 5,
+        "id": "prop-0",
+        "changed_pixels": 4499
+      },
+      {
+        "start": 3,
+        "end": 5.25,
+        "id": "prop-0",
+        "changed_pixels": 3807
+      },
+      {
+        "start": 3.25,
+        "end": 5.5,
+        "id": "prop-0",
+        "changed_pixels": 3085
+      },
+      {
+        "start": 3.5,
+        "end": 5.75,
+        "id": "prop-0",
+        "changed_pixels": 2333
+      },
+      {
+        "start": 3.75,
+        "end": 6,
+        "id": "prop-0",
+        "changed_pixels": 1335
+      },
+      {
+        "start": 4,
+        "end": 6.25,
+        "id": "prop-0",
+        "changed_pixels": 292
+      },
+      {
+        "start": 4.25,
+        "end": 6.5,
+        "id": "prop-1",
+        "changed_pixels": 8052
+      },
+      {
+        "start": 4.5,
+        "end": 6.75,
+        "id": "prop-1",
+        "changed_pixels": 7942
+      },
+      {
+        "start": 4.75,
+        "end": 7,
+        "id": "prop-1",
+        "changed_pixels": 7475
+      },
+      {
+        "start": 5,
+        "end": 7.25,
+        "id": "prop-1",
+        "changed_pixels": 6740
+      },
+      {
+        "start": 5.25,
+        "end": 7.5,
+        "id": "prop-1",
+        "changed_pixels": 5770
+      },
+      {
+        "start": 5.5,
+        "end": 7.75,
+        "id": "prop-1",
+        "changed_pixels": 4494
+      },
+      {
+        "start": 5.75,
+        "end": 8,
+        "id": "prop-1",
+        "changed_pixels": 2369
+      },
+      {
+        "start": 6,
+        "end": 8.25,
+        "id": "prop-1",
+        "changed_pixels": 6346
+      },
+      {
+        "start": 6.25,
+        "end": 8.5,
+        "id": "prop-1",
+        "changed_pixels": 6202
+      },
+      {
+        "start": 6.5,
+        "end": 8.75,
+        "id": "prop-1",
+        "changed_pixels": 5701
+      },
+      {
+        "start": 6.75,
+        "end": 9,
+        "id": "prop-1",
+        "changed_pixels": 4982
+      },
+      {
+        "start": 7,
+        "end": 9.25,
+        "id": "prop-1",
+        "changed_pixels": 3907
+      },
+      {
+        "start": 7.25,
+        "end": 9.5,
+        "id": "prop-1",
+        "changed_pixels": 2148
+      },
+      {
+        "start": 7.5,
+        "end": 9.75,
+        "id": "prop-1",
+        "changed_pixels": 263
+      },
+      {
+        "start": 7.75,
+        "end": 10,
+        "id": "prop-2",
+        "changed_pixels": 8112
+      },
+      {
+        "start": 8,
+        "end": 10.25,
+        "id": "prop-2",
+        "changed_pixels": 7778
+      },
+      {
+        "start": 8.25,
+        "end": 10.5,
+        "id": "prop-2",
+        "changed_pixels": 6710
+      },
+      {
+        "start": 8.5,
+        "end": 10.75,
+        "id": "prop-2",
+        "changed_pixels": 5255
+      },
+      {
+        "start": 8.75,
+        "end": 11,
+        "id": "prop-2",
+        "changed_pixels": 3517
+      },
+      {
+        "start": 9,
+        "end": 11.25,
+        "id": "prop-2",
+        "changed_pixels": 1682
+      },
+      {
+        "start": 9.25,
+        "end": 11.5,
+        "id": "prop-2",
+        "changed_pixels": 5254
+      },
+      {
+        "start": 9.5,
+        "end": 11.75,
+        "id": "prop-2",
+        "changed_pixels": 4889
+      },
+      {
+        "start": 9.75,
+        "end": 12,
+        "id": "prop-2",
+        "changed_pixels": 3963
+      },
+      {
+        "start": 10,
+        "end": 12.25,
+        "id": "prop-2",
+        "changed_pixels": 2782
+      },
+      {
+        "start": 10.25,
+        "end": 12.5,
+        "id": "prop-2",
+        "changed_pixels": 1345
+      },
+      {
+        "start": 10.5,
+        "end": 12.75,
+        "id": "prop-3",
+        "changed_pixels": 8052
+      },
+      {
+        "start": 10.75,
+        "end": 13,
+        "id": "prop-3",
+        "changed_pixels": 8036
+      },
+      {
+        "start": 11,
+        "end": 13.25,
+        "id": "prop-3",
+        "changed_pixels": 7736
+      },
+      {
+        "start": 11.25,
+        "end": 13.5,
+        "id": "prop-3",
+        "changed_pixels": 7076
+      },
+      {
+        "start": 11.5,
+        "end": 13.75,
+        "id": "prop-3",
+        "changed_pixels": 6209
+      },
+      {
+        "start": 11.75,
+        "end": 14,
+        "id": "prop-3",
+        "changed_pixels": 4928
+      },
+      {
+        "start": 12,
+        "end": 14.25,
+        "id": "prop-3",
+        "changed_pixels": 3025
+      },
+      {
+        "start": 12.25,
+        "end": 14.5,
+        "id": "prop-3",
+        "changed_pixels": 770
+      },
+      {
+        "start": 12.5,
+        "end": 14.75,
+        "id": "prop-3",
+        "changed_pixels": 6251
+      },
+      {
+        "start": 12.75,
+        "end": 15,
+        "id": "prop-3",
+        "changed_pixels": 5800
+      },
+      {
+        "start": 13,
+        "end": 15.25,
+        "id": "prop-3",
+        "changed_pixels": 5051
+      },
+      {
+        "start": 13.25,
+        "end": 15.5,
+        "id": "prop-3",
+        "changed_pixels": 3921
+      },
+      {
+        "start": 13.5,
+        "end": 15.75,
+        "id": "prop-3",
+        "changed_pixels": 2076
+      },
+      {
+        "start": 13.75,
+        "end": 16,
+        "id": "prop-4",
+        "changed_pixels": 8112
+      },
+      {
+        "start": 14,
+        "end": 16.25,
+        "id": "prop-4",
+        "changed_pixels": 8098
+      },
+      {
+        "start": 14.25,
+        "end": 16.5,
+        "id": "prop-4",
+        "changed_pixels": 5604
+      },
+      {
+        "start": 14.5,
+        "end": 16.75,
+        "id": "prop-4",
+        "changed_pixels": 1118
+      },
+      {
+        "start": 14.75,
+        "end": 17,
+        "id": "prop-4",
+        "changed_pixels": 3388
+      },
+      {
+        "start": 15,
+        "end": 17.25,
+        "id": "prop-5",
+        "changed_pixels": 8052
+      },
+      {
+        "start": 15.25,
+        "end": 17.5,
+        "id": "prop-5",
+        "changed_pixels": 8011
+      },
+      {
+        "start": 15.5,
+        "end": 17.75,
+        "id": "prop-5",
+        "changed_pixels": 7363
+      },
+      {
+        "start": 15.75,
+        "end": 18,
+        "id": "prop-5",
+        "changed_pixels": 6227
+      },
+      {
+        "start": 16,
+        "end": 18.25,
+        "id": "prop-5",
+        "changed_pixels": 4522
+      },
+      {
+        "start": 16.25,
+        "end": 18.5,
+        "id": "prop-5",
+        "changed_pixels": 1643
+      },
+      {
+        "start": 16.5,
+        "end": 18.75,
+        "id": "prop-5",
+        "changed_pixels": 6256
+      },
+      {
+        "start": 16.75,
+        "end": 19,
+        "id": "prop-5",
+        "changed_pixels": 5535
+      },
+      {
+        "start": 17,
+        "end": 19.25,
+        "id": "prop-5",
+        "changed_pixels": 4340
+      },
+      {
+        "start": 17.25,
+        "end": 19.5,
+        "id": "prop-5",
+        "changed_pixels": 1943
+      },
+      {
+        "start": 17.5,
+        "end": 19.75,
+        "id": "prop-6",
+        "changed_pixels": 8082
+      },
+      {
+        "start": 17.75,
+        "end": 20,
+        "id": "prop-6",
+        "changed_pixels": 8080
+      }
+    ],
+    "sample_step": 0.25,
+    "max_window": 2.25,
+    "limits": "Bounded isolated-layer pixel change, with text/shadows excluded and ancestors frozen; geometry is conservative. Causal action, final visibility/occlusion, semantic captions and sound still require playback review"
+  },
+  "audio_tracks": {
+    "ambience": 1,
+    "dialogue": 0,
+    "file_sfx": 0,
+    "cuts": 0
+  },
+  "reference_review": {
+    "schema": 1,
+    "status": "pending_independent_review",
+    "style": "B1",
+    "output": "C:\\Users\\dat\\Downloads\\video genflow\\project_1_equals_2\\output\\preview.mp4",
+    "output_sha256": "013da095265808f5b719d0f14e66e11d78dfa69716bbdccf463a2b0794cf99fd",
+    "project_fingerprint": "37f2a05643671552f2d484080f59e33008d2e89b904e076676bfc058c7b2773c",
+    "project_inputs": {
+      "file": "C:\\Users\\dat\\Downloads\\video genflow\\project_1_equals_2\\project.json",
+      "inputs": [
+        {
+          "path": "C:\\Users\\dat\\Downloads\\video genflow\\project_1_equals_2\\math_assets\\eq_1.png",
+          "sha256": "f8cb631d49f93455250831ead8b2f92c7cf1a514ff58f82076d5faf2e62fe30f"
+        },
+        {
+          "path": "C:\\Users\\dat\\Downloads\\video genflow\\project_1_equals_2\\viet_font.ttf",
+          "sha256": "bfb7bb691513f12e734dc346c03a03f784912432d7e3fa8e56efcf906fe86b3d"
+        },
+        {
+          "path": "C:\\Users\\dat\\Downloads\\video genflow\\project_1_equals_2\\voice.wav",
+          "sha256": "cbfcb2f8a7019bb89622d0dea5864d62f6c8631851fd6f77aaad841d5b436ffd"
+        },
+        {
+          "path": "C:\\Users\\dat\\Downloads\\video genflow\\stickman-video-director\\skills\\directing-stickman-videos\\assets\\b1\\approved-2026-10-23-contact-sheet.png",
+          "sha256": "0bc85b4c8ca938b01d346fcca9af06e608ea56e6d82ea993860647166b7b530e"
+        },
+        {
+          "path": "C:\\Users\\dat\\Downloads\\video genflow\\stickman-video-director\\skills\\directing-stickman-videos\\assets\\b1\\approved-2026-10-23-motion-sheet.png",
+          "sha256": "7bb8664e837e44604387f258522fd2251bac5ddf7347ed02297f211dc45ced73"
+        },
+        {
+          "path": "C:\\Users\\dat\\Downloads\\video genflow\\stickman-video-director\\skills\\directing-stickman-videos\\assets\\b1\\approved-2026-10-23.mp4",
+          "sha256": "111c241a836a0c26b27df2cbff3ba5697b97460dbb873b68dd2f6eda2383b3fc"
+        },
+        {
+          "path": "C:\\Users\\dat\\Downloads\\video genflow\\stickman-video-director\\skills\\directing-stickman-videos\\assets\\b1\\approved-2026-10-24-longform-contact-sheet.jpg",
+          "sha256": "18690bd4a1d94cdc611bced722899cd0cae3f3e114120cedc79e0ab717b4c99e"
+        },
+        {
+          "path": "C:\\Users\\dat\\Downloads\\video genflow\\stickman-video-director\\skills\\directing-stickman-videos\\assets\\b1\\approved-baseline.json",
+          "sha256": "8948fb69c87d0b85f3927cd773e6afda47596ea8aeb39d031abc313fb48af2d5"
+        },
+        {
+          "path": "C:\\Users\\dat\\Downloads\\video genflow\\stickman-video-director\\skills\\directing-stickman-videos\\assets\\b1\\approved-production-standard.json",
+          "sha256": "a8ee78a831aaf31f2e37c09d34dbb3da7c8c2abac2b47a7a245843ade191b757"
+        },
+        {
+          "path": "C:\\Users\\dat\\Downloads\\video genflow\\stickman-video-director\\skills\\directing-stickman-videos\\assets\\b1\\character-pose-sheet-v6.png",
+          "sha256": "94b601f640112314965525f49536f87942c577e1e5556a11503b19ed00777bb7"
+        },
+        {
+          "path": "C:\\Users\\dat\\Downloads\\video genflow\\stickman-video-director\\skills\\directing-stickman-videos\\assets\\b1\\idea-bulb-crayon.png",
+          "sha256": "439ac0f851ce3dc3ecace97e522c0c18bf1ffada833bff93905f9dd91b9f5db7"
+        },
+        {
+          "path": "C:\\Users\\dat\\Downloads\\video genflow\\stickman-video-director\\skills\\directing-stickman-videos\\assets\\b1\\idea-note-crayon.png",
+          "sha256": "078a53c4b1efa343bdc033371129e62dcab80e752884725202c3d7d79e3b9739"
+        },
+        {
+          "path": "C:\\Users\\dat\\Downloads\\video genflow\\stickman-video-director\\skills\\directing-stickman-videos\\assets\\fonts\\NotoSans.ttf",
+          "sha256": "bfb7bb691513f12e734dc346c03a03f784912432d7e3fa8e56efcf906fe86b3d"
+        }
+      ]
+    },
+    "plan_sha256": "d7db1c323f710fda9cca30c67bb7bd52996ada03696ffab4ce883082774154ad",
+    "scope": {
+      "start": 0,
+      "end": 20
+    },
+    "metadata": {
+      "width": 1280,
+      "height": 720,
+      "fps": 24,
+      "average_fps": 24,
+      "duration": 20,
+      "frames": 480,
+      "frame_timing_sha256": "83841c6be777a8f97adad6c3b269b96be76959b702d79b99dc4426c1d1157216",
+      "max_step_error": 6.66666667349658e-7,
+      "video_codec": "h264",
+      "audio": [
+        {
+          "codec": "aac",
+          "sample_rate": 48000,
+          "channels": 1
+        }
+      ]
+    },
+    "plan": {
+      "schema": 1,
+      "style": "B1",
+      "author_id": "viet-flow-studio",
+      "capability": {
+        "environment": "Local Math Comedy Animation",
+        "limitations": [
+          {
+            "capability": "story-specific layered art",
+            "impact": "Hoàn thiện video mượt mà",
+            "observed": "Sử dụng bộ vẽ vector người que tối ưu theo kịch bản"
+          }
+        ],
+        "mode": "limited"
+      },
+      "width": 1280,
+      "height": 720,
+      "fps": 24,
+      "scope_start": 0,
+      "scope_end": 20,
+      "frame_count": 480,
+      "shots": [
+        {
+          "id": "shot-0",
+          "index": 0,
+          "source_id": null,
+          "start": 0,
+          "end": 4.295,
+          "start_frame": 0,
+          "end_frame": 104,
+          "phases": {
+            "start": 0,
+            "mid": 51,
+            "end": 103
+          },
+          "shot_sha256": "518497c39a49791c7c151b60023d66fd9fd7219028abc28f4c1decd786be38de"
+        },
+        {
+          "id": "shot-1",
+          "index": 1,
+          "source_id": null,
+          "start": 4.295,
+          "end": 7.764,
+          "start_frame": 104,
+          "end_frame": 187,
+          "phases": {
+            "start": 104,
+            "mid": 145,
+            "end": 186
+          },
+          "shot_sha256": "cae1d4f62bd7c4c6e7e277427edb04d01237f01122211bac6c4babfd7340e159"
+        },
+        {
+          "id": "shot-2",
+          "index": 2,
+          "source_id": null,
+          "start": 7.764,
+          "end": 10.675,
+          "start_frame": 187,
+          "end_frame": 257,
+          "phases": {
+            "start": 187,
+            "mid": 221,
+            "end": 256
+          },
+          "shot_sha256": "5ae483ebaf127be6f2b53b315ce9fc8af65dfa84919fc8a2c2ccb497ec720c29"
+        },
+        {
+          "id": "shot-3",
+          "index": 3,
+          "source_id": null,
+          "start": 10.675,
+          "end": 13.985,
+          "start_frame": 257,
+          "end_frame": 336,
+          "phases": {
+            "start": 257,
+            "mid": 296,
+            "end": 335
+          },
+          "shot_sha256": "f9edc64c70f49335587e67332c39552bf64818f03cb14cfb9caa6984dca49341"
+        },
+        {
+          "id": "shot-4",
+          "index": 4,
+          "source_id": null,
+          "start": 13.985,
+          "end": 15.135,
+          "start_frame": 336,
+          "end_frame": 364,
+          "phases": {
+            "start": 336,
+            "mid": 349,
+            "end": 363
+          },
+          "shot_sha256": "ffca3b7ed15e7611c7ede5dd4003926a548855c1782b7cb4a62d774f2f9bb002"
+        },
+        {
+          "id": "shot-5",
+          "index": 5,
+          "source_id": null,
+          "start": 15.135,
+          "end": 17.645,
+          "start_frame": 364,
+          "end_frame": 424,
+          "phases": {
+            "start": 364,
+            "mid": 393,
+            "end": 423
+          },
+          "shot_sha256": "76f8fdc19e79b3e1d261511e421601e8c38dd62c1509a8abf97860ade1dd7163"
+        },
+        {
+          "id": "shot-6",
+          "index": 6,
+          "source_id": null,
+          "start": 17.645,
+          "end": 20,
+          "start_frame": 424,
+          "end_frame": 480,
+          "phases": {
+            "start": 424,
+            "mid": 451,
+            "end": 479
+          },
+          "shot_sha256": "c36ee86fd10bf3c8508df4d4f94f762f65ed6ff94397c22297a5528b6f69ea9d"
+        }
+      ],
+      "caption_sha256": "328991971472c6bd7277ac0669ef697a97dc6f40604f91efd213bac39f986fee",
+      "reference_ids": [
+        "b1-ryan-v4",
+        "b1-ryan-contact-sheet",
+        "b1-ryan-motion-sheet",
+        "b1-full-v4-contact-sheet"
+      ],
+      "checks": [
+        "drawing_character",
+        "semantic_acting",
+        "contact_continuity",
+        "composition_evidence",
+        "typography_captions",
+        "timing_pacing",
+        "sound"
+      ],
+      "limits": [
+        "Hashes, decoded artifacts and complete coverage establish current-media provenance, not aesthetic equivalence.",
+        "Reviewer identity, independence, actual viewing/listening and capability limitations are declarations, not authenticated facts.",
+        "Independent agent review does not imply human approval or user acceptance.",
+        "Sample-target review compares the available approved examples, not identical plots, voices, pixels or unavailable originals.",
+        "B3 endpoint geometry and authored intentions are diagnostics. Each graphic and motion event still needs actual-MP4 independent review; wrong relationships and meaningless motion cannot receive a limited-capability waiver.",
+        "The complete approved Full V4 film is unavailable in this bundle; only sampled long-form compositions are comparable."
+      ]
+    },
+    "references": [
+      {
+        "id": "b1-ryan-v4",
+        "path": "C:\\Users\\dat\\Downloads\\video genflow\\stickman-video-director\\skills\\directing-stickman-videos\\assets\\b1\\approved-2026-10-23.mp4",
+        "sha256": "111c241a836a0c26b27df2cbff3ba5697b97460dbb873b68dd2f6eda2383b3fc",
+        "kind": "video",
+        "role": "approved_baseline",
+        "duration": 21.3,
+        "has_audio": true,
+        "required_comparison": true,
+        "limitations": []
+      },
+      {
+        "id": "b1-ryan-contact-sheet",
+        "path": "C:\\Users\\dat\\Downloads\\video genflow\\stickman-video-director\\skills\\directing-stickman-videos\\assets\\b1\\approved-2026-10-23-contact-sheet.png",
+        "sha256": "0bc85b4c8ca938b01d346fcca9af06e608ea56e6d82ea993860647166b7b530e",
+        "kind": "image",
+        "role": "approved_baseline",
+        "duration": null,
+        "has_audio": false,
+        "required_comparison": false,
+        "limitations": [
+          "Static sheet cannot demonstrate continuous motion, subtitle timing or listening."
+        ]
+      },
+      {
+        "id": "b1-ryan-motion-sheet",
+        "path": "C:\\Users\\dat\\Downloads\\video genflow\\stickman-video-director\\skills\\directing-stickman-videos\\assets\\b1\\approved-2026-10-23-motion-sheet.png",
+        "sha256": "7bb8664e837e44604387f258522fd2251bac5ddf7347ed02297f211dc45ced73",
+        "kind": "image",
+        "role": "approved_baseline",
+        "duration": null,
+        "has_audio": false,
+        "required_comparison": false,
+        "limitations": [
+          "Static sheet cannot demonstrate continuous motion, subtitle timing or listening."
+        ]
+      },
+      {
+        "id": "b1-full-v4-contact-sheet",
+        "path": "C:\\Users\\dat\\Downloads\\video genflow\\stickman-video-director\\skills\\directing-stickman-videos\\assets\\b1\\approved-2026-10-24-longform-contact-sheet.jpg",
+        "sha256": "18690bd4a1d94cdc611bced722899cd0cae3f3e114120cedc79e0ab717b4c99e",
+        "kind": "image",
+        "role": "approved_longform_sampled_sheet",
+        "duration": null,
+        "has_audio": false,
+        "required_comparison": false,
+        "limitations": [
+          "Full V4 film is not bundled. This sampled sheet cannot establish continuous long-form motion or audio."
+        ]
+      }
+    ],
+    "reference_manifests": [
+      {
+        "path": "C:\\Users\\dat\\Downloads\\video genflow\\stickman-video-director\\skills\\directing-stickman-videos\\assets\\b1\\approved-baseline.json",
+        "sha256": "8948fb69c87d0b85f3927cd773e6afda47596ea8aeb39d031abc313fb48af2d5"
+      },
+      {
+        "path": "C:\\Users\\dat\\Downloads\\video genflow\\stickman-video-director\\skills\\directing-stickman-videos\\assets\\b1\\approved-production-standard.json",
+        "sha256": "a8ee78a831aaf31f2e37c09d34dbb3da7c8c2abac2b47a7a245843ade191b757"
+      }
+    ],
+    "artifacts": [
+      {
+        "id": "shot-0-start",
+        "shot": "shot-0",
+        "type": "png",
+        "phase": "start",
+        "frame_index": 0,
+        "source_time": 0,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-0-start.png",
+        "sha256": "bdc12326f5f9965ae6fe5b596419024876857826fb6f14850746e940e6726fc9"
+      },
+      {
+        "id": "shot-0-mid",
+        "shot": "shot-0",
+        "type": "png",
+        "phase": "mid",
+        "frame_index": 51,
+        "source_time": 2.125,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-0-mid.png",
+        "sha256": "3829d290eedb45bafe3d4cdde03d8769db1d29d48094e68b1721dac7154b2e76"
+      },
+      {
+        "id": "shot-0-end",
+        "shot": "shot-0",
+        "type": "png",
+        "phase": "end",
+        "frame_index": 103,
+        "source_time": 4.291667,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-0-end.png",
+        "sha256": "719ad6500e092cb4a16074aa9e91a505fc9d34c6cebc06aed1ab9177e59afa2a"
+      },
+      {
+        "id": "shot-0-continuous",
+        "shot": "shot-0",
+        "type": "clip",
+        "start_frame": 0,
+        "end_frame": 104,
+        "source_start": 0,
+        "source_end": 4.333333,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "audio": "source",
+        "file": "shot-0-continuous.mp4",
+        "sha256": "e9234642ff325696caf59ffc13086d8b7ffb0b752d0e15feea30c73eeb69d90e"
+      },
+      {
+        "id": "shot-1-start",
+        "shot": "shot-1",
+        "type": "png",
+        "phase": "start",
+        "frame_index": 104,
+        "source_time": 4.333333,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-1-start.png",
+        "sha256": "d49c9de95a12597132f27964eec6c70c39f2b8c1a62405ce04fc4d3c6a58caac"
+      },
+      {
+        "id": "shot-1-mid",
+        "shot": "shot-1",
+        "type": "png",
+        "phase": "mid",
+        "frame_index": 145,
+        "source_time": 6.041667,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-1-mid.png",
+        "sha256": "4e5d0ddca3c4f2b2c570771392eb8defb508c79941cadd2ce72815fe46575e4d"
+      },
+      {
+        "id": "shot-1-end",
+        "shot": "shot-1",
+        "type": "png",
+        "phase": "end",
+        "frame_index": 186,
+        "source_time": 7.75,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-1-end.png",
+        "sha256": "a99f4e24909475a0bc238532c8b26e627460fa8e8b6a5fe6fa3c22e38a8919f8"
+      },
+      {
+        "id": "shot-1-continuous",
+        "shot": "shot-1",
+        "type": "clip",
+        "start_frame": 104,
+        "end_frame": 187,
+        "source_start": 4.333333,
+        "source_end": 7.791667,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "audio": "source",
+        "file": "shot-1-continuous.mp4",
+        "sha256": "5531c21ddd0e77867478467540adc23b093aa94fb64426d1736b09beded8a74e"
+      },
+      {
+        "id": "shot-2-start",
+        "shot": "shot-2",
+        "type": "png",
+        "phase": "start",
+        "frame_index": 187,
+        "source_time": 7.791667,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-2-start.png",
+        "sha256": "95136857d9336795d83b1497233599cfb4c875d8c0a76fe7c9b27bb0471ce1b6"
+      },
+      {
+        "id": "shot-2-mid",
+        "shot": "shot-2",
+        "type": "png",
+        "phase": "mid",
+        "frame_index": 221,
+        "source_time": 9.208333,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-2-mid.png",
+        "sha256": "e197474a7f25c0040c5a8e639bd7e04e5d321b29648188c24adbd1b85f7e76ae"
+      },
+      {
+        "id": "shot-2-end",
+        "shot": "shot-2",
+        "type": "png",
+        "phase": "end",
+        "frame_index": 256,
+        "source_time": 10.666667,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-2-end.png",
+        "sha256": "5c5f6d55b7c7f644639440cf9f27df035a2ab01aee5305766e9154e4caa73327"
+      },
+      {
+        "id": "shot-2-continuous",
+        "shot": "shot-2",
+        "type": "clip",
+        "start_frame": 187,
+        "end_frame": 257,
+        "source_start": 7.791667,
+        "source_end": 10.708333,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "audio": "source",
+        "file": "shot-2-continuous.mp4",
+        "sha256": "e810a28afb2269a0699c5f0729177741c5c4f41ffe734828962f5c6d59d7b0c4"
+      },
+      {
+        "id": "shot-3-start",
+        "shot": "shot-3",
+        "type": "png",
+        "phase": "start",
+        "frame_index": 257,
+        "source_time": 10.708333,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-3-start.png",
+        "sha256": "f2ce4390ab32c501eff444e070ea53f9588b055af87eae375dd25270387fd554"
+      },
+      {
+        "id": "shot-3-mid",
+        "shot": "shot-3",
+        "type": "png",
+        "phase": "mid",
+        "frame_index": 296,
+        "source_time": 12.333333,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-3-mid.png",
+        "sha256": "c123f75929c81f5b595504e03fc84b3cbcd843eb3a2c356501afe3d0bff3c2e6"
+      },
+      {
+        "id": "shot-3-end",
+        "shot": "shot-3",
+        "type": "png",
+        "phase": "end",
+        "frame_index": 335,
+        "source_time": 13.958333,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-3-end.png",
+        "sha256": "0d9c5238f83952ab3ead6bc56dab5d18dd28dc1536b8138b68748a11bc9ca068"
+      },
+      {
+        "id": "shot-3-continuous",
+        "shot": "shot-3",
+        "type": "clip",
+        "start_frame": 257,
+        "end_frame": 336,
+        "source_start": 10.708333,
+        "source_end": 14,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "audio": "source",
+        "file": "shot-3-continuous.mp4",
+        "sha256": "5437fb7fff2b2585360a8d575a4deca56f11e1e9c07b6873aa0b07fc2283e5a3"
+      },
+      {
+        "id": "shot-4-start",
+        "shot": "shot-4",
+        "type": "png",
+        "phase": "start",
+        "frame_index": 336,
+        "source_time": 14,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-4-start.png",
+        "sha256": "581a8a5104b71d6e8295239d4b72f6700d1dd22f33660b02e74fe4a307cb6908"
+      },
+      {
+        "id": "shot-4-mid",
+        "shot": "shot-4",
+        "type": "png",
+        "phase": "mid",
+        "frame_index": 349,
+        "source_time": 14.541667,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-4-mid.png",
+        "sha256": "691c6b41f4d511f9902418b5a34845df0ea88cc9a40ef19e1229ff598f93783e"
+      },
+      {
+        "id": "shot-4-end",
+        "shot": "shot-4",
+        "type": "png",
+        "phase": "end",
+        "frame_index": 363,
+        "source_time": 15.125,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-4-end.png",
+        "sha256": "8d204f4c29e18fc455cf6e8d1bb29fce49186425aac77ff06cc99e2c8ea5ee46"
+      },
+      {
+        "id": "shot-4-continuous",
+        "shot": "shot-4",
+        "type": "clip",
+        "start_frame": 336,
+        "end_frame": 364,
+        "source_start": 14,
+        "source_end": 15.166667,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "audio": "source",
+        "file": "shot-4-continuous.mp4",
+        "sha256": "987c2836cfd5f4c8637b3b60d4e8d0fe05b93138585e2de44bb355bd734b405a"
+      },
+      {
+        "id": "shot-5-start",
+        "shot": "shot-5",
+        "type": "png",
+        "phase": "start",
+        "frame_index": 364,
+        "source_time": 15.166667,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-5-start.png",
+        "sha256": "8876c4f59d69ddcad6bf97c2423ceb49c8fef025eb66bc2380573315defaa584"
+      },
+      {
+        "id": "shot-5-mid",
+        "shot": "shot-5",
+        "type": "png",
+        "phase": "mid",
+        "frame_index": 393,
+        "source_time": 16.375,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-5-mid.png",
+        "sha256": "e69b55346b038fe63a57b175388d339e5d99f7e56fcb7badac5ae99685f6426b"
+      },
+      {
+        "id": "shot-5-end",
+        "shot": "shot-5",
+        "type": "png",
+        "phase": "end",
+        "frame_index": 423,
+        "source_time": 17.625,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-5-end.png",
+        "sha256": "791d5f19ceff7c4d31381ae7343c1aa4522e1c94436a4207de9ff2b6c3b5ffb9"
+      },
+      {
+        "id": "shot-5-continuous",
+        "shot": "shot-5",
+        "type": "clip",
+        "start_frame": 364,
+        "end_frame": 424,
+        "source_start": 15.166667,
+        "source_end": 17.666667,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "audio": "source",
+        "file": "shot-5-continuous.mp4",
+        "sha256": "7e8b773be3618a677fd0c35b89b2790ad32e2a5287aef192071627f60202b71e"
+      },
+      {
+        "id": "shot-6-start",
+        "shot": "shot-6",
+        "type": "png",
+        "phase": "start",
+        "frame_index": 424,
+        "source_time": 17.666667,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-6-start.png",
+        "sha256": "d2554a914b34bf66bac6d147f2bf0d74b81ceb6af3f96481efbe85db2912a35c"
+      },
+      {
+        "id": "shot-6-mid",
+        "shot": "shot-6",
+        "type": "png",
+        "phase": "mid",
+        "frame_index": 451,
+        "source_time": 18.791667,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-6-mid.png",
+        "sha256": "1611d21c286edee4ce60d659c6118ac0e699b0906038f9780bfa1105d624187f"
+      },
+      {
+        "id": "shot-6-end",
+        "shot": "shot-6",
+        "type": "png",
+        "phase": "end",
+        "frame_index": 479,
+        "source_time": 19.958333,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-6-end.png",
+        "sha256": "8dd84cb862e68c464a0933cf1afcaf987465cab23a1cc146f7575057c2ccb207"
+      },
+      {
+        "id": "shot-6-continuous",
+        "shot": "shot-6",
+        "type": "clip",
+        "start_frame": 424,
+        "end_frame": 480,
+        "source_start": 17.666667,
+        "source_end": 20,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "audio": "source",
+        "file": "shot-6-continuous.mp4",
+        "sha256": "5b4504e08f149f91709d6ad5e58653125c882ec9b0f3a1b903195bcdcac7aa6a"
+      }
+    ],
+    "evidence_dir": "C:\\Users\\dat\\Downloads\\video genflow\\project_1_equals_2\\output\\preview-reference",
+    "ledger_file": "C:\\Users\\dat\\Downloads\\video genflow\\project_1_equals_2\\output\\preview-reference\\evidence.json",
+    "template_file": "C:\\Users\\dat\\Downloads\\video genflow\\project_1_equals_2\\output\\preview-reference\\review-template.json",
+    "limits": [
+      "Hashes, decoded artifacts and complete coverage establish current-media provenance, not aesthetic equivalence.",
+      "Reviewer identity, independence, actual viewing/listening and capability limitations are declarations, not authenticated facts.",
+      "Independent agent review does not imply human approval or user acceptance.",
+      "Sample-target review compares the available approved examples, not identical plots, voices, pixels or unavailable originals.",
+      "B3 endpoint geometry and authored intentions are diagnostics. Each graphic and motion event still needs actual-MP4 independent review; wrong relationships and meaningless motion cannot receive a limited-capability waiver.",
+      "The complete approved Full V4 film is unavailable in this bundle; only sampled long-form compositions are comparable."
+    ]
+  },
+  "visual_acceptance": "pending_independent_review",
+  "delivery_ready": false
+}

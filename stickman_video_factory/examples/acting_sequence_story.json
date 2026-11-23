@@ -1,0 +1,32 @@
+{
+  "title": "Tìm lại ý tưởng",
+  "cast": [
+    {"id": "an", "name": "An", "voice_style": "comic_male", "color": "orange"}
+  ],
+  "scenes": [
+    {
+      "title": "TÌM LẠI Ý TƯỞNG",
+      "target_seconds": 18,
+      "lines": [
+        {
+          "speaker": "an",
+          "text": "Khoan đã, mình vừa nghĩ ra một điều hay nhưng quên mất rồi.",
+          "acting_sequence": "search_and_discover",
+          "visual": {"type": "text", "headline": "Ý TƯỞNG ĐÂU RỒI?", "subtext": "Tìm lại manh mối"}
+        },
+        {
+          "speaker": "an",
+          "text": "À, nhớ rồi! Chỉ cần chia vấn đề thành hai bước nhỏ.",
+          "acting_sequence": "explain_with_numbers",
+          "visual": {"type": "steps", "title": "CHIA NHỎ VẤN ĐỀ", "items": ["Tìm dữ kiện", "Giải từng bước"]}
+        },
+        {
+          "speaker": "an",
+          "text": "Làm được rồi. Hóa ra cách này đơn giản hơn mình tưởng.",
+          "acting_sequence": "small_victory",
+          "visual": {"type": "text", "headline": "LÀM ĐƯỢC RỒI!", "subtext": "Một chiến thắng nhỏ"}
+        }
+      ]
+    }
+  ]
+}

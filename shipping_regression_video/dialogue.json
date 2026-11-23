@@ -1,0 +1,121 @@
+{
+  "title": "AI KHÔNG BIẾT GIÁ SHIP, NHƯNG LẠI DÁM DỰ ĐOÁN?",
+  "scenes": [
+    {
+      "title": "AI CÓ BIẾT ĐỌC SUY NGHĨ KHÔNG?",
+      "start": 0,
+      "end": 35,
+      "lines": [
+        ["Nam", "Tao vừa phát hiện một cách làm giàu.", "desk"],
+        ["Minh", "Lại đa cấp à?", "desk"],
+        ["Nam", "Không. Tao muốn dự đoán phí ship của đối thủ để đặt giá cạnh tranh. Nhưng tao chỉ có dữ liệu của bốn đơn hàng.", "table"],
+        ["Minh", "Đưa đây.", "table"],
+        ["Nam", "Đố mày đơn 5 km bao nhiêu tiền?", "question"],
+        ["Minh", "Khoảng 28 nghìn.", "answer"],
+        ["Nam", "Mày hack hệ thống à?", "hack"],
+        ["Minh", "Không. Linear Regression.", "answer"],
+        ["Nam", "Mày vừa đọc tên một loại thuốc đúng không?", "medicine"],
+        ["Minh", "Hồi quy tuyến tính. Nó dùng dữ liệu để tìm ra một mối quan hệ gần đúng giữa hai đại lượng.", "definition"]
+      ]
+    },
+    {
+      "title": "ĐƯỜNG THẲNG BIẾT SUY NGHĨ?",
+      "start": 35,
+      "end": 80,
+      "lines": [
+        ["Minh", "Giả sử trục ngang là khoảng cách, trục dọc là phí ship. Mỗi đơn hàng là một điểm.", "scatter"],
+        ["Nam", "Rồi AI làm gì?", "scatter"],
+        ["Minh", "Tìm một đường thẳng phù hợp với những điểm này.", "line"],
+        ["Minh", "x là khoảng cách. w là hệ số góc. b là hệ số chặn. Còn y mũ là giá trị dự đoán.", "formula"],
+        ["Nam", "Thế w và b bằng bao nhiêu?", "formula"],
+        ["Minh", "Đấy là thứ mô hình phải học từ dữ liệu.", "learn"],
+        ["Nam", "Tao chọn w bằng 100, b bằng 500 được không?", "badline"],
+        ["Minh", "Được. Với 1 km, mày dự đoán phí ship 600 nghìn.", "badline"],
+        ["Nam", "Ship bằng trực thăng à?", "helicopter"],
+        ["Minh", "Đấy. Chọn bừa thì có thể sai rất xa.", "badline"]
+      ]
+    },
+    {
+      "title": "AI BIẾT MÌNH SAI BẰNG CÁCH NÀO?",
+      "start": 80,
+      "end": 135,
+      "lines": [
+        ["Nam", "Nhưng AI có mắt đâu mà biết đường nào đúng?", "scatter"],
+        ["Minh", "Nó không cần mắt. Nó có hàm mất mát, gọi là Loss Function.", "loss"],
+        ["Minh", "Giả sử đơn 2 km có phí thật là 19 nghìn, nhưng mô hình dự đoán 17 nghìn. Sai lệch là 2 nghìn.", "residual"],
+        ["Nam", "Sai thì sửa.", "residual"],
+        ["Minh", "Nói dễ nhỉ. Có hàng triệu đơn hàng, làm sao biết sửa thế nào?", "many"],
+        ["Minh", "Một cách phổ biến là dùng Mean Squared Error.", "mse"],
+        ["Nam", "Sao phải bình phương sai số?", "mse"],
+        ["Minh", "Vì nếu không bình phương, lỗi âm với lỗi dương có thể triệt tiêu nhau. Ngoài ra, bình phương làm lỗi lớn bị phạt nặng hơn.", "square"],
+        ["Nam", "Ví dụ?", "square"],
+        ["Minh", "Sai 2 thì bình phương là 4. Sai 10 thì bình phương là 100.", "compare"],
+        ["Nam", "À, tức là càng sai lớn càng bị phạt nặng.", "compare"],
+        ["Minh", "Chính xác. Mô hình tìm w và b sao cho tổng bình phương các sai số nhỏ nhất.", "minimize"],
+        ["Nam", "Giống cuộc đời nhỉ. Không cần hoàn hảo, chỉ cần ít sai nhất.", "life"],
+        ["Minh", "Khác một chút. Cuộc đời đôi khi sai một lần là hết cơ hội tính trung bình.", "life"],
+        ["Nam", "Sao đang học AI mà mày chuyển sang dạy đạo lý?", "awkward"]
+      ]
+    },
+    {
+      "title": "AI HỌC NHƯ THẾ NÀO?",
+      "start": 135,
+      "end": 185,
+      "lines": [
+        ["Nam", "Nhưng cụ thể nó sửa w và b kiểu gì?", "valley"],
+        ["Minh", "Một phương pháp là Gradient Descent.", "valley"],
+        ["Minh", "Tưởng tượng MSE là độ cao của một ngọn đồi. Ta muốn xuống vị trí thấp nhất.", "valley"],
+        ["Nam", "Thế cứ chạy xuống dốc?", "valley"],
+        ["Minh", "Gần như thế. Ta tính đạo hàm để biết hướng thay đổi w và b làm MSE giảm, rồi cập nhật.", "update"],
+        ["Nam", "Alpha là gì?", "alpha"],
+        ["Minh", "Learning Rate. Nó quyết định độ lớn mỗi bước cập nhật.", "alpha"],
+        ["Nam", "Alpha càng lớn thì học càng nhanh?", "bigstep"],
+        ["Minh", "Không hẳn. Lớn quá có thể nhảy qua điểm tối ưu, thậm chí khiến sai số tăng hoặc không hội tụ.", "bigstep"],
+        ["Nam", "Như đi xuống cầu thang mà nhảy một phát mười bậc?", "stairs"],
+        ["Minh", "Đúng. Mày sẽ học được bài học về trọng lực trước khi học xong AI.", "stairs"],
+        ["Minh", "Với dữ liệu này, nghiệm bình phương tối thiểu là y dự đoán bằng 3 phẩy 2 nhân x cộng 12. Đơn vị là nghìn đồng.", "fit"],
+        ["Nam", "Tức là thêm 1 km thì giá dự đoán tăng 3.200 đồng?", "slope"],
+        ["Minh", "Đúng theo mô hình. Còn 12 nghìn là phí dự đoán khi khoảng cách bằng 0, không nhất thiết là mức phí mở đơn thật ngoài đời.", "intercept"],
+        ["Nam", "Và 5 km là 28 nghìn!", "predict"],
+        ["Minh", "Chính xác về mặt tính toán.", "predict"]
+      ]
+    },
+    {
+      "title": "KHI AI ĐÚNG TOÁN NHƯNG SAI ĐỜI",
+      "start": 185,
+      "end": 235,
+      "lines": [
+        ["Nam", "AI nói 28 nghìn. Để xem!", "phone"],
+        ["Nam", "NĂM MƯƠI LĂM NGHÌN?!", "shock"],
+        ["Nam", "AI của mày ngu rồi!", "shock"],
+        ["Minh", "Ngoài trời đang mưa rất to đúng không?", "rain"],
+        ["Nam", "Ừ.", "rain"],
+        ["Minh", "Đơn đang giờ cao điểm đúng không?", "rush"],
+        ["Nam", "Ừ.", "rush"],
+        ["Minh", "Dữ liệu ban đầu của mày có thông tin về trời mưa với giờ cao điểm không?", "missing"],
+        ["Nam", "...Không.", "missing"],
+        ["Minh", "Vậy tại sao mày đòi nó biết?", "missing"],
+        ["Minh", "Mô hình chỉ được học mối liên hệ giữa khoảng cách và giá. Nó chưa được cung cấp các yếu tố khác có thể tác động đến phí ship.", "features"],
+        ["Nam", "Thế phải làm gì?", "features"],
+        ["Minh", "Thu thập thêm dữ liệu, thêm đặc trưng phù hợp, chẳng hạn thời tiết và giờ đặt hàng. Ta có thể dùng Multiple Linear Regression.", "multiple"],
+        ["Nam", "Vậy cứ thêm thật nhiều dữ liệu là AI sẽ biết tất cả?", "multiple"],
+        ["Minh", "Không. Dữ liệu tốt giúp mô hình có cơ hội dự đoán tốt hơn, nhưng không bảo đảm nó đúng. Còn phải kiểm tra trên dữ liệu chưa từng dùng để huấn luyện.", "test"]
+      ]
+    },
+    {
+      "title": "CÂU KẾT",
+      "start": 235,
+      "end": 260,
+      "lines": [
+        ["Nam", "Tức là AI không thật sự hiểu giá ship?", "summary"],
+        ["Minh", "Nó học những quy luật thống kê trong dữ liệu, chứ không tự động hiểu toàn bộ cơ chế vận hành của thế giới.", "summary"],
+        ["Nam", "Thế một mô hình có MSE rất thấp vẫn có thể dự đoán sai?", "summary"],
+        ["Minh", "Có. Đặc biệt khi dữ liệu mới khác dữ liệu huấn luyện, hoặc khi mô hình thiếu những biến cần thiết.", "summary"],
+        ["Nam", "Hiểu rồi. Dữ liệu không đủ mà tự tin quá thì rất nguy hiểm.", "summary"],
+        ["Minh", "Đúng.", "summary"],
+        ["Nam", "Giống mày lúc bảo 28 nghìn ấy.", "joke"],
+        ["Nam", "Nhưng 55 nghìn tiền ship là sự thật tuyệt đối nhé!", "end"]
+      ]
+    }
+  ]
+}

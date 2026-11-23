@@ -1,0 +1,2303 @@
+{
+  "version": 1,
+  "style": "B1",
+  "width": 1280,
+  "height": 720,
+  "fps": 24,
+  "font": "viet_font.ttf",
+  "voice": {
+    "path": "voice.wav",
+    "lead": 0,
+    "tail": 0
+  },
+  "reference_review": {
+    "author_id": "viet-flow-studio",
+    "capability": {
+      "mode": "limited",
+      "environment": "Local Math Comedy Animation",
+      "limitations": [
+        {
+          "capability": "story-specific layered art",
+          "observed": "Sử dụng bộ vẽ vector người que tối ưu theo kịch bản",
+          "impact": "Hoàn thiện video mượt mà"
+        }
+      ]
+    }
+  },
+  "captions": [
+    {
+      "start": 0.2,
+      "end": 1.948,
+      "text": "Thầy! Em vừa phát hiện ra một sai"
+    },
+    {
+      "start": 1.948,
+      "end": 4.12,
+      "text": "lầm của toán học kéo dài hàng nghìn năm!"
+    },
+    {
+      "start": 4.469,
+      "end": 5.837,
+      "text": "Lần trước em cũng nói thế"
+    },
+    {
+      "start": 5.837,
+      "end": 7.589,
+      "text": "khi phát hiện máy tính hết pin."
+    },
+    {
+      "start": 7.94,
+      "end": 8.933,
+      "text": "Lần này khác! Em đã"
+    },
+    {
+      "start": 8.933,
+      "end": 10.5,
+      "text": "chứng minh được một bằng hai!"
+    },
+    {
+      "start": 10.849,
+      "end": 12.299,
+      "text": "Thế mày có một triệu thì"
+    },
+    {
+      "start": 12.299,
+      "end": 13.81,
+      "text": "bằng tao có hai triệu à?"
+    },
+    {
+      "start": 14.16,
+      "end": 14.96,
+      "text": "Chính xác!"
+    },
+    {
+      "start": 15.31,
+      "end": 17.469,
+      "text": "Thế trả tao hai triệu mày nợ đi."
+    },
+    {
+      "start": 17.82,
+      "end": 19.608,
+      "text": "Giả sử a bằng b. Nhân hai vế với"
+    },
+    {
+      "start": 19.608,
+      "end": 21.899,
+      "text": "a, ta được: a bình phương bằng a nhân b."
+    },
+    {
+      "start": 22.25,
+      "end": 23.055,
+      "text": "Trừ hai vế cho b"
+    },
+    {
+      "start": 23.055,
+      "end": 24.414,
+      "text": "bình phương: a bình phương"
+    },
+    {
+      "start": 24.414,
+      "end": 25.546,
+      "text": "trừ b bình phương bằng"
+    },
+    {
+      "start": 25.546,
+      "end": 26.73,
+      "text": "a b trừ b bình phương."
+    },
+    {
+      "start": 27.079,
+      "end": 29.288,
+      "text": "Phân tích thành nhân tử: a trừ b nhân"
+    },
+    {
+      "start": 29.288,
+      "end": 31.079,
+      "text": "a cộng b bằng b nhân a trừ b."
+    },
+    {
+      "start": 31.429,
+      "end": 33.022,
+      "text": "Chia hai vế cho a trừ b,"
+    },
+    {
+      "start": 33.022,
+      "end": 34.549,
+      "text": "ta có a cộng b bằng b."
+    },
+    {
+      "start": 34.899,
+      "end": 36.151,
+      "text": "Vì a bằng b nên hai b"
+    },
+    {
+      "start": 36.151,
+      "end": 37.939,
+      "text": "bằng b. Suy ra: Hai bằng một!"
+    },
+    {
+      "start": 38.289,
+      "end": 39.57,
+      "text": "Toán học đã bị đánh bại!"
+    },
+    {
+      "start": 39.92,
+      "end": 41.761,
+      "text": "Tao vừa chứng kiến một đứa học sinh"
+    },
+    {
+      "start": 41.761,
+      "end": 43.759,
+      "text": "cấp ba xóa sổ nền văn minh nhân loại."
+    },
+    {
+      "start": 44.109,
+      "end": 44.993,
+      "text": "Minh, em làm lại"
+    },
+    {
+      "start": 44.993,
+      "end": 46.429,
+      "text": "bước chia này được không?"
+    },
+    {
+      "start": 46.78,
+      "end": 48.27,
+      "text": "Dạ được. Hai vế cùng có a"
+    },
+    {
+      "start": 48.27,
+      "end": 49.82,
+      "text": "trừ b thì chia đi thôi ạ."
+    },
+    {
+      "start": 50.17,
+      "end": 52.329,
+      "text": "Nhưng ban đầu em giả sử a bằng b mà?"
+    },
+    {
+      "start": 52.679,
+      "end": 53.24,
+      "text": "Vâng."
+    },
+    {
+      "start": 53.59,
+      "end": 55.35,
+      "text": "Vậy a trừ b bằng bao nhiêu?"
+    },
+    {
+      "start": 55.7,
+      "end": 56.579,
+      "text": "Bằng... Không."
+    },
+    {
+      "start": 56.929,
+      "end": 58.689,
+      "text": "Vậy em vừa chia cho số mấy?"
+    },
+    {
+      "start": 59.039,
+      "end": 60.445,
+      "text": "Em xin phép thu hồi phát"
+    },
+    {
+      "start": 60.445,
+      "end": 62.32,
+      "text": "biểu về nền văn minh nhân loại."
+    },
+    {
+      "start": 62.67,
+      "end": 63.815,
+      "text": "Nhưng thầy... Chỉ sai"
+    },
+    {
+      "start": 63.815,
+      "end": 65.069,
+      "text": "đúng một bước thôi mà."
+    },
+    {
+      "start": 65.42,
+      "end": 66.875,
+      "text": "Đúng. Và một bước đó khiến tất"
+    },
+    {
+      "start": 66.875,
+      "end": 68.62,
+      "text": "cả những bước sau trở nên vô nghĩa."
+    },
+    {
+      "start": 68.969,
+      "end": 70.373,
+      "text": "Em có biết điều thú vị nhất"
+    },
+    {
+      "start": 70.373,
+      "end": 72.09,
+      "text": "ở chứng minh của em là gì không?"
+    },
+    {
+      "start": 72.439,
+      "end": 74.519,
+      "text": "Là em suýt giành giải Nobel Toán học ạ?"
+    },
+    {
+      "start": 74.87,
+      "end": 75.898,
+      "text": "Là em đã tin nó. Em"
+    },
+    {
+      "start": 75.898,
+      "end": 77.576,
+      "text": "biết biến đổi biểu thức, nhưng"
+    },
+    {
+      "start": 77.576,
+      "end": 79.011,
+      "text": "em chưa từng hỏi liệu phép"
+    },
+    {
+      "start": 79.011,
+      "end": 80.39,
+      "text": "tính đó có hợp lệ không."
+    },
+    {
+      "start": 80.739,
+      "end": 81.85900000000001,
+      "text": "Vì em thấy nó đúng..."
+    },
+    {
+      "start": 82.209,
+      "end": 83.40899999999999,
+      "text": "Và em muốn nó đúng."
+    },
+    {
+      "start": 83.76,
+      "end": 85.92,
+      "text": "Thế sau vụ này mày rút ra được gì?"
+    },
+    {
+      "start": 86.269,
+      "end": 87.87,
+      "text": "Rằng không được chia cho không."
+    },
+    {
+      "start": 88.219,
+      "end": 88.78,
+      "text": "Hết?"
+    },
+    {
+      "start": 89.129,
+      "end": 90.206,
+      "text": "Không. Tao đã dành cả"
+    },
+    {
+      "start": 90.206,
+      "end": 91.386,
+      "text": "buổi để tìm cách chứng"
+    },
+    {
+      "start": 91.386,
+      "end": 92.591,
+      "text": "minh mình đúng, thay vì"
+    },
+    {
+      "start": 92.591,
+      "end": 93.84899999999999,
+      "text": "tìm xem mình sai ở đâu."
+    },
+    {
+      "start": 94.2,
+      "end": 95.87899999999999,
+      "text": "Đấy mới là điều em vừa học được."
+    },
+    {
+      "start": 96.22999999999999,
+      "end": 97.8,
+      "text": "Hay đấy. Nhưng hai triệu"
+    },
+    {
+      "start": 97.8,
+      "end": 99.10900000000001,
+      "text": "mày nợ tao thì sao?"
+    },
+    {
+      "start": 99.459,
+      "end": 100.496,
+      "text": "Áp dụng kiến thức mới,"
+    },
+    {
+      "start": 100.496,
+      "end": 101.628,
+      "text": "tao quyết định kiểm tra"
+    },
+    {
+      "start": 101.628,
+      "end": 102.687,
+      "text": "lại giả thiết ban đầu:"
+    },
+    {
+      "start": 102.687,
+      "end": 103.939,
+      "text": "Rằng tao có vay tiền mày!"
+    },
+    {
+      "start": 104.28999999999999,
+      "end": 106.334,
+      "text": "Người học thuộc tìm cách đi đến đáp án."
+    },
+    {
+      "start": 106.334,
+      "end": 107.618,
+      "text": "Người hiểu toán tìm cách"
+    },
+    {
+      "start": 107.618,
+      "end": 108.84899999999999,
+      "text": "kiểm tra từng bước đi."
+    }
+  ],
+  "shots": [
+    {
+      "start": 0.0,
+      "end": 4.295,
+      "layers": [
+        {
+          "type": "pose",
+          "pose": 1,
+          "x": 700,
+          "y": 60,
+          "w": 420
+        },
+        {
+          "id": "prop-0",
+          "type": "image",
+          "path": "@b1/idea-note-crayon.png",
+          "x": 200,
+          "y": 320,
+          "w": 160,
+          "motion": {
+            "role": "prop",
+            "reason": "Biểu tượng chuyển động theo câu thoại"
+          },
+          "keys": [
+            {
+              "t": 0.0,
+              "x": 190,
+              "angle": -0.04
+            },
+            {
+              "t": 2.15,
+              "x": 210,
+              "angle": 0.02
+            },
+            {
+              "t": 4.09,
+              "x": 200,
+              "angle": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 4.295,
+      "end": 7.764,
+      "layers": [
+        {
+          "type": "pose",
+          "pose": 0,
+          "x": 720,
+          "y": 60,
+          "w": 420
+        },
+        {
+          "id": "prop-1",
+          "type": "image",
+          "path": "@b1/idea-bulb-crayon.png",
+          "x": 200,
+          "y": 320,
+          "w": 160,
+          "motion": {
+            "role": "prop",
+            "reason": "Biểu tượng chuyển động theo câu thoại"
+          },
+          "keys": [
+            {
+              "t": 0.0,
+              "x": 190,
+              "angle": -0.04
+            },
+            {
+              "t": 1.73,
+              "x": 210,
+              "angle": 0.02
+            },
+            {
+              "t": 3.27,
+              "x": 200,
+              "angle": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 7.764,
+      "end": 10.675,
+      "layers": [
+        {
+          "type": "pose",
+          "pose": 2,
+          "x": 700,
+          "y": 60,
+          "w": 420
+        },
+        {
+          "id": "prop-2",
+          "type": "image",
+          "path": "@b1/idea-note-crayon.png",
+          "x": 200,
+          "y": 320,
+          "w": 160,
+          "motion": {
+            "role": "prop",
+            "reason": "Biểu tượng chuyển động theo câu thoại"
+          },
+          "keys": [
+            {
+              "t": 0.0,
+              "x": 190,
+              "angle": -0.04
+            },
+            {
+              "t": 1.46,
+              "x": 210,
+              "angle": 0.02
+            },
+            {
+              "t": 2.71,
+              "x": 200,
+              "angle": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 10.675,
+      "end": 13.985,
+      "layers": [
+        {
+          "type": "pose",
+          "pose": 0,
+          "x": 680,
+          "y": 60,
+          "w": 420
+        },
+        {
+          "id": "prop-3",
+          "type": "image",
+          "path": "@b1/idea-bulb-crayon.png",
+          "x": 200,
+          "y": 320,
+          "w": 160,
+          "motion": {
+            "role": "prop",
+            "reason": "Biểu tượng chuyển động theo câu thoại"
+          },
+          "keys": [
+            {
+              "t": 0.0,
+              "x": 190,
+              "angle": -0.04
+            },
+            {
+              "t": 1.66,
+              "x": 210,
+              "angle": 0.02
+            },
+            {
+              "t": 3.11,
+              "x": 200,
+              "angle": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 13.985,
+      "end": 15.135,
+      "layers": [
+        {
+          "type": "pose",
+          "pose": 1,
+          "x": 700,
+          "y": 60,
+          "w": 420
+        },
+        {
+          "id": "prop-4",
+          "type": "image",
+          "path": "@b1/idea-note-crayon.png",
+          "x": 200,
+          "y": 320,
+          "w": 160,
+          "motion": {
+            "role": "prop",
+            "reason": "Biểu tượng chuyển động theo câu thoại"
+          },
+          "keys": [
+            {
+              "t": 0.0,
+              "x": 190,
+              "angle": -0.04
+            },
+            {
+              "t": 0.57,
+              "x": 210,
+              "angle": 0.02
+            },
+            {
+              "t": 0.95,
+              "x": 200,
+              "angle": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 15.135,
+      "end": 17.645,
+      "layers": [
+        {
+          "type": "pose",
+          "pose": 2,
+          "x": 680,
+          "y": 60,
+          "w": 420
+        },
+        {
+          "id": "prop-5",
+          "type": "image",
+          "path": "@b1/idea-bulb-crayon.png",
+          "x": 200,
+          "y": 320,
+          "w": 160,
+          "motion": {
+            "role": "prop",
+            "reason": "Biểu tượng chuyển động theo câu thoại"
+          },
+          "keys": [
+            {
+              "t": 0.0,
+              "x": 190,
+              "angle": -0.04
+            },
+            {
+              "t": 1.25,
+              "x": 210,
+              "angle": 0.02
+            },
+            {
+              "t": 2.31,
+              "x": 200,
+              "angle": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 17.645,
+      "end": 22.075,
+      "layers": [
+        {
+          "id": "math-tex-6",
+          "type": "image",
+          "path": "math_assets/eq_1.png",
+          "x": 80,
+          "y": 80,
+          "w": 420
+        },
+        {
+          "type": "pose",
+          "pose": 1,
+          "x": 700,
+          "y": 60,
+          "w": 420
+        },
+        {
+          "id": "prop-6",
+          "type": "image",
+          "path": "@b1/idea-note-crayon.png",
+          "x": 200,
+          "y": 320,
+          "w": 160,
+          "motion": {
+            "role": "prop",
+            "reason": "Biểu tượng chuyển động theo câu thoại"
+          },
+          "keys": [
+            {
+              "t": 0.0,
+              "x": 190,
+              "angle": -0.04
+            },
+            {
+              "t": 2.21,
+              "x": 210,
+              "angle": 0.02
+            },
+            {
+              "t": 4.23,
+              "x": 200,
+              "angle": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 22.075,
+      "end": 26.904,
+      "layers": [
+        {
+          "id": "math-tex-7",
+          "type": "image",
+          "path": "math_assets/eq_2.png",
+          "x": 80,
+          "y": 80,
+          "w": 420
+        },
+        {
+          "type": "pose",
+          "pose": 2,
+          "x": 700,
+          "y": 60,
+          "w": 420
+        },
+        {
+          "id": "prop-7",
+          "type": "image",
+          "path": "@b1/idea-bulb-crayon.png",
+          "x": 200,
+          "y": 320,
+          "w": 160,
+          "motion": {
+            "role": "prop",
+            "reason": "Biểu tượng chuyển động theo câu thoại"
+          },
+          "keys": [
+            {
+              "t": 0.0,
+              "x": 190,
+              "angle": -0.04
+            },
+            {
+              "t": 2.41,
+              "x": 210,
+              "angle": 0.02
+            },
+            {
+              "t": 4.63,
+              "x": 200,
+              "angle": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 26.904,
+      "end": 31.254,
+      "layers": [
+        {
+          "id": "math-tex-8",
+          "type": "image",
+          "path": "math_assets/eq_3.png",
+          "x": 80,
+          "y": 80,
+          "w": 420
+        },
+        {
+          "type": "pose",
+          "pose": 1,
+          "x": 700,
+          "y": 60,
+          "w": 420
+        },
+        {
+          "id": "prop-8",
+          "type": "image",
+          "path": "@b1/idea-note-crayon.png",
+          "x": 200,
+          "y": 320,
+          "w": 160,
+          "motion": {
+            "role": "prop",
+            "reason": "Biểu tượng chuyển động theo câu thoại"
+          },
+          "keys": [
+            {
+              "t": 0.0,
+              "x": 190,
+              "angle": -0.04
+            },
+            {
+              "t": 2.17,
+              "x": 210,
+              "angle": 0.02
+            },
+            {
+              "t": 4.15,
+              "x": 200,
+              "angle": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 31.254,
+      "end": 34.724,
+      "layers": [
+        {
+          "id": "math-tex-9",
+          "type": "image",
+          "path": "math_assets/eq_4.png",
+          "x": 80,
+          "y": 80,
+          "w": 420
+        },
+        {
+          "type": "pose",
+          "pose": 2,
+          "x": 700,
+          "y": 60,
+          "w": 420
+        },
+        {
+          "id": "prop-9",
+          "type": "image",
+          "path": "@b1/idea-bulb-crayon.png",
+          "x": 200,
+          "y": 320,
+          "w": 160,
+          "motion": {
+            "role": "prop",
+            "reason": "Biểu tượng chuyển động theo câu thoại"
+          },
+          "keys": [
+            {
+              "t": 0.0,
+              "x": 190,
+              "angle": -0.04
+            },
+            {
+              "t": 1.74,
+              "x": 210,
+              "angle": 0.02
+            },
+            {
+              "t": 3.27,
+              "x": 200,
+              "angle": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 34.724,
+      "end": 38.114,
+      "layers": [
+        {
+          "id": "math-tex-10",
+          "type": "image",
+          "path": "math_assets/eq_5.png",
+          "x": 80,
+          "y": 80,
+          "w": 420
+        },
+        {
+          "type": "pose",
+          "pose": 1,
+          "x": 700,
+          "y": 60,
+          "w": 420
+        },
+        {
+          "id": "prop-10",
+          "type": "image",
+          "path": "@b1/idea-note-crayon.png",
+          "x": 200,
+          "y": 320,
+          "w": 160,
+          "motion": {
+            "role": "prop",
+            "reason": "Biểu tượng chuyển động theo câu thoại"
+          },
+          "keys": [
+            {
+              "t": 0.0,
+              "x": 190,
+              "angle": -0.04
+            },
+            {
+              "t": 1.7,
+              "x": 210,
+              "angle": 0.02
+            },
+            {
+              "t": 3.19,
+              "x": 200,
+              "angle": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 38.114,
+      "end": 39.745,
+      "layers": [
+        {
+          "id": "math-tex-11",
+          "type": "image",
+          "path": "math_assets/eq_6.png",
+          "x": 80,
+          "y": 80,
+          "w": 420
+        },
+        {
+          "type": "pose",
+          "pose": 1,
+          "x": 700,
+          "y": 60,
+          "w": 420
+        },
+        {
+          "id": "prop-11",
+          "type": "image",
+          "path": "@b1/idea-bulb-crayon.png",
+          "x": 200,
+          "y": 320,
+          "w": 160,
+          "motion": {
+            "role": "prop",
+            "reason": "Biểu tượng chuyển động theo câu thoại"
+          },
+          "keys": [
+            {
+              "t": 0.0,
+              "x": 190,
+              "angle": -0.04
+            },
+            {
+              "t": 0.82,
+              "x": 210,
+              "angle": 0.02
+            },
+            {
+              "t": 1.43,
+              "x": 200,
+              "angle": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 39.745,
+      "end": 43.934,
+      "layers": [
+        {
+          "id": "math-tex-12",
+          "type": "image",
+          "path": "math_assets/eq_7.png",
+          "x": 80,
+          "y": 80,
+          "w": 420
+        },
+        {
+          "type": "pose",
+          "pose": 0,
+          "x": 680,
+          "y": 60,
+          "w": 420
+        },
+        {
+          "id": "prop-12",
+          "type": "image",
+          "path": "@b1/idea-note-crayon.png",
+          "x": 200,
+          "y": 320,
+          "w": 160,
+          "motion": {
+            "role": "prop",
+            "reason": "Biểu tượng chuyển động theo câu thoại"
+          },
+          "keys": [
+            {
+              "t": 0.0,
+              "x": 190,
+              "angle": -0.04
+            },
+            {
+              "t": 2.09,
+              "x": 210,
+              "angle": 0.02
+            },
+            {
+              "t": 3.99,
+              "x": 200,
+              "angle": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 43.934,
+      "end": 46.605,
+      "layers": [
+        {
+          "id": "math-tex-13",
+          "type": "image",
+          "path": "math_assets/eq_5.png",
+          "x": 80,
+          "y": 80,
+          "w": 420
+        },
+        {
+          "type": "pose",
+          "pose": 0,
+          "x": 720,
+          "y": 60,
+          "w": 420
+        },
+        {
+          "id": "prop-13",
+          "type": "image",
+          "path": "@b1/idea-bulb-crayon.png",
+          "x": 200,
+          "y": 320,
+          "w": 160,
+          "motion": {
+            "role": "prop",
+            "reason": "Biểu tượng chuyển động theo câu thoại"
+          },
+          "keys": [
+            {
+              "t": 0.0,
+              "x": 190,
+              "angle": -0.04
+            },
+            {
+              "t": 1.34,
+              "x": 210,
+              "angle": 0.02
+            },
+            {
+              "t": 2.47,
+              "x": 200,
+              "angle": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 46.605,
+      "end": 49.995,
+      "layers": [
+        {
+          "id": "math-tex-14",
+          "type": "image",
+          "path": "math_assets/eq_5.png",
+          "x": 80,
+          "y": 80,
+          "w": 420
+        },
+        {
+          "type": "pose",
+          "pose": 1,
+          "x": 700,
+          "y": 60,
+          "w": 420
+        },
+        {
+          "id": "prop-14",
+          "type": "image",
+          "path": "@b1/idea-note-crayon.png",
+          "x": 200,
+          "y": 320,
+          "w": 160,
+          "motion": {
+            "role": "prop",
+            "reason": "Biểu tượng chuyển động theo câu thoại"
+          },
+          "keys": [
+            {
+              "t": 0.0,
+              "x": 190,
+              "angle": -0.04
+            },
+            {
+              "t": 1.7,
+              "x": 210,
+              "angle": 0.02
+            },
+            {
+              "t": 3.19,
+              "x": 200,
+              "angle": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 49.995,
+      "end": 52.504,
+      "layers": [
+        {
+          "id": "math-tex-15",
+          "type": "image",
+          "path": "math_assets/eq_1.png",
+          "x": 80,
+          "y": 80,
+          "w": 420
+        },
+        {
+          "type": "pose",
+          "pose": 0,
+          "x": 720,
+          "y": 60,
+          "w": 420
+        },
+        {
+          "id": "prop-15",
+          "type": "image",
+          "path": "@b1/idea-bulb-crayon.png",
+          "x": 200,
+          "y": 320,
+          "w": 160,
+          "motion": {
+            "role": "prop",
+            "reason": "Biểu tượng chuyển động theo câu thoại"
+          },
+          "keys": [
+            {
+              "t": 0.0,
+              "x": 190,
+              "angle": -0.04
+            },
+            {
+              "t": 1.25,
+              "x": 210,
+              "angle": 0.02
+            },
+            {
+              "t": 2.31,
+              "x": 200,
+              "angle": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 52.504,
+      "end": 53.415,
+      "layers": [
+        {
+          "id": "math-tex-16",
+          "type": "image",
+          "path": "math_assets/eq_1.png",
+          "x": 80,
+          "y": 80,
+          "w": 420
+        },
+        {
+          "type": "pose",
+          "pose": 0,
+          "x": 700,
+          "y": 60,
+          "w": 420
+        },
+        {
+          "id": "prop-16",
+          "type": "image",
+          "path": "@b1/idea-note-crayon.png",
+          "x": 200,
+          "y": 320,
+          "w": 160,
+          "motion": {
+            "role": "prop",
+            "reason": "Biểu tượng chuyển động theo câu thoại"
+          },
+          "keys": [
+            {
+              "t": 0.0,
+              "x": 190,
+              "angle": -0.04
+            },
+            {
+              "t": 0.46,
+              "x": 210,
+              "angle": 0.02
+            },
+            {
+              "t": 0.71,
+              "x": 200,
+              "angle": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 53.415,
+      "end": 55.525,
+      "layers": [
+        {
+          "id": "math-tex-17",
+          "type": "image",
+          "path": "math_assets/eq_8.png",
+          "x": 80,
+          "y": 80,
+          "w": 420
+        },
+        {
+          "type": "pose",
+          "pose": 0,
+          "x": 720,
+          "y": 60,
+          "w": 420
+        },
+        {
+          "id": "prop-17",
+          "type": "image",
+          "path": "@b1/idea-bulb-crayon.png",
+          "x": 200,
+          "y": 320,
+          "w": 160,
+          "motion": {
+            "role": "prop",
+            "reason": "Biểu tượng chuyển động theo câu thoại"
+          },
+          "keys": [
+            {
+              "t": 0.0,
+              "x": 190,
+              "angle": -0.04
+            },
+            {
+              "t": 1.05,
+              "x": 210,
+              "angle": 0.02
+            },
+            {
+              "t": 1.91,
+              "x": 200,
+              "angle": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 55.525,
+      "end": 56.754,
+      "layers": [
+        {
+          "id": "math-tex-18",
+          "type": "image",
+          "path": "math_assets/eq_8.png",
+          "x": 80,
+          "y": 80,
+          "w": 420
+        },
+        {
+          "type": "pose",
+          "pose": 2,
+          "x": 700,
+          "y": 60,
+          "w": 420
+        },
+        {
+          "id": "prop-18",
+          "type": "image",
+          "path": "@b1/idea-note-crayon.png",
+          "x": 200,
+          "y": 320,
+          "w": 160,
+          "motion": {
+            "role": "prop",
+            "reason": "Biểu tượng chuyển động theo câu thoại"
+          },
+          "keys": [
+            {
+              "t": 0.0,
+              "x": 190,
+              "angle": -0.04
+            },
+            {
+              "t": 0.61,
+              "x": 210,
+              "angle": 0.02
+            },
+            {
+              "t": 1.03,
+              "x": 200,
+              "angle": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 56.754,
+      "end": 58.864,
+      "layers": [
+        {
+          "id": "math-tex-19",
+          "type": "image",
+          "path": "math_assets/eq_9.png",
+          "x": 80,
+          "y": 80,
+          "w": 420
+        },
+        {
+          "type": "pose",
+          "pose": 0,
+          "x": 720,
+          "y": 60,
+          "w": 420
+        },
+        {
+          "id": "prop-19",
+          "type": "image",
+          "path": "@b1/idea-bulb-crayon.png",
+          "x": 200,
+          "y": 320,
+          "w": 160,
+          "motion": {
+            "role": "prop",
+            "reason": "Biểu tượng chuyển động theo câu thoại"
+          },
+          "keys": [
+            {
+              "t": 0.0,
+              "x": 190,
+              "angle": -0.04
+            },
+            {
+              "t": 1.05,
+              "x": 210,
+              "angle": 0.02
+            },
+            {
+              "t": 1.91,
+              "x": 200,
+              "angle": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 58.864,
+      "end": 62.495,
+      "layers": [
+        {
+          "id": "math-tex-20",
+          "type": "image",
+          "path": "math_assets/eq_8.png",
+          "x": 80,
+          "y": 80,
+          "w": 420
+        },
+        {
+          "type": "pose",
+          "pose": 0,
+          "x": 680,
+          "y": 60,
+          "w": 420
+        },
+        {
+          "id": "prop-20",
+          "type": "image",
+          "path": "@b1/idea-note-crayon.png",
+          "x": 200,
+          "y": 320,
+          "w": 160,
+          "motion": {
+            "role": "prop",
+            "reason": "Biểu tượng chuyển động theo câu thoại"
+          },
+          "keys": [
+            {
+              "t": 0.0,
+              "x": 190,
+              "angle": -0.04
+            },
+            {
+              "t": 1.82,
+              "x": 210,
+              "angle": 0.02
+            },
+            {
+              "t": 3.43,
+              "x": 200,
+              "angle": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 62.495,
+      "end": 65.245,
+      "layers": [
+        {
+          "id": "math-tex-21",
+          "type": "image",
+          "path": "math_assets/eq_9.png",
+          "x": 80,
+          "y": 80,
+          "w": 420
+        },
+        {
+          "type": "pose",
+          "pose": 2,
+          "x": 700,
+          "y": 60,
+          "w": 420
+        },
+        {
+          "id": "prop-21",
+          "type": "image",
+          "path": "@b1/idea-bulb-crayon.png",
+          "x": 200,
+          "y": 320,
+          "w": 160,
+          "motion": {
+            "role": "prop",
+            "reason": "Biểu tượng chuyển động theo câu thoại"
+          },
+          "keys": [
+            {
+              "t": 0.0,
+              "x": 190,
+              "angle": -0.04
+            },
+            {
+              "t": 1.38,
+              "x": 210,
+              "angle": 0.02
+            },
+            {
+              "t": 2.55,
+              "x": 200,
+              "angle": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 65.245,
+      "end": 68.794,
+      "layers": [
+        {
+          "id": "math-tex-22",
+          "type": "image",
+          "path": "math_assets/eq_9.png",
+          "x": 80,
+          "y": 80,
+          "w": 420
+        },
+        {
+          "type": "pose",
+          "pose": 0,
+          "x": 720,
+          "y": 60,
+          "w": 420
+        },
+        {
+          "id": "prop-22",
+          "type": "image",
+          "path": "@b1/idea-note-crayon.png",
+          "x": 200,
+          "y": 320,
+          "w": 160,
+          "motion": {
+            "role": "prop",
+            "reason": "Biểu tượng chuyển động theo câu thoại"
+          },
+          "keys": [
+            {
+              "t": 0.0,
+              "x": 190,
+              "angle": -0.04
+            },
+            {
+              "t": 1.77,
+              "x": 210,
+              "angle": 0.02
+            },
+            {
+              "t": 3.35,
+              "x": 200,
+              "angle": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 68.794,
+      "end": 72.264,
+      "layers": [
+        {
+          "id": "math-tex-23",
+          "type": "image",
+          "path": "math_assets/eq_9.png",
+          "x": 80,
+          "y": 80,
+          "w": 420
+        },
+        {
+          "type": "pose",
+          "pose": 0,
+          "x": 720,
+          "y": 60,
+          "w": 420
+        },
+        {
+          "id": "prop-23",
+          "type": "image",
+          "path": "@b1/idea-bulb-crayon.png",
+          "x": 200,
+          "y": 320,
+          "w": 160,
+          "motion": {
+            "role": "prop",
+            "reason": "Biểu tượng chuyển động theo câu thoại"
+          },
+          "keys": [
+            {
+              "t": 0.0,
+              "x": 190,
+              "angle": -0.04
+            },
+            {
+              "t": 1.74,
+              "x": 210,
+              "angle": 0.02
+            },
+            {
+              "t": 3.27,
+              "x": 200,
+              "angle": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 72.264,
+      "end": 74.695,
+      "layers": [
+        {
+          "id": "math-tex-24",
+          "type": "image",
+          "path": "math_assets/eq_9.png",
+          "x": 80,
+          "y": 80,
+          "w": 420
+        },
+        {
+          "type": "pose",
+          "pose": 1,
+          "x": 700,
+          "y": 60,
+          "w": 420
+        },
+        {
+          "id": "prop-24",
+          "type": "image",
+          "path": "@b1/idea-note-crayon.png",
+          "x": 200,
+          "y": 320,
+          "w": 160,
+          "motion": {
+            "role": "prop",
+            "reason": "Biểu tượng chuyển động theo câu thoại"
+          },
+          "keys": [
+            {
+              "t": 0.0,
+              "x": 190,
+              "angle": -0.04
+            },
+            {
+              "t": 1.22,
+              "x": 210,
+              "angle": 0.02
+            },
+            {
+              "t": 2.23,
+              "x": 200,
+              "angle": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 74.695,
+      "end": 80.565,
+      "layers": [
+        {
+          "id": "math-tex-25",
+          "type": "image",
+          "path": "math_assets/eq_9.png",
+          "x": 80,
+          "y": 80,
+          "w": 420
+        },
+        {
+          "type": "pose",
+          "pose": 0,
+          "x": 720,
+          "y": 60,
+          "w": 420
+        },
+        {
+          "id": "prop-25",
+          "type": "image",
+          "path": "@b1/idea-bulb-crayon.png",
+          "x": 200,
+          "y": 320,
+          "w": 160,
+          "motion": {
+            "role": "prop",
+            "reason": "Biểu tượng chuyển động theo câu thoại"
+          },
+          "keys": [
+            {
+              "t": 0.0,
+              "x": 190,
+              "angle": -0.04
+            },
+            {
+              "t": 2.94,
+              "x": 210,
+              "angle": 0.02
+            },
+            {
+              "t": 5.67,
+              "x": 200,
+              "angle": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 80.565,
+      "end": 82.034,
+      "layers": [
+        {
+          "id": "math-tex-26",
+          "type": "image",
+          "path": "math_assets/eq_9.png",
+          "x": 80,
+          "y": 80,
+          "w": 420
+        },
+        {
+          "type": "pose",
+          "pose": 2,
+          "x": 700,
+          "y": 60,
+          "w": 420
+        },
+        {
+          "id": "prop-26",
+          "type": "image",
+          "path": "@b1/idea-note-crayon.png",
+          "x": 200,
+          "y": 320,
+          "w": 160,
+          "motion": {
+            "role": "prop",
+            "reason": "Biểu tượng chuyển động theo câu thoại"
+          },
+          "keys": [
+            {
+              "t": 0.0,
+              "x": 190,
+              "angle": -0.04
+            },
+            {
+              "t": 0.73,
+              "x": 210,
+              "angle": 0.02
+            },
+            {
+              "t": 1.27,
+              "x": 200,
+              "angle": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 82.034,
+      "end": 83.584,
+      "layers": [
+        {
+          "id": "math-tex-27",
+          "type": "image",
+          "path": "math_assets/eq_9.png",
+          "x": 80,
+          "y": 80,
+          "w": 420
+        },
+        {
+          "type": "pose",
+          "pose": 0,
+          "x": 720,
+          "y": 60,
+          "w": 420
+        },
+        {
+          "id": "prop-27",
+          "type": "image",
+          "path": "@b1/idea-bulb-crayon.png",
+          "x": 200,
+          "y": 320,
+          "w": 160,
+          "motion": {
+            "role": "prop",
+            "reason": "Biểu tượng chuyển động theo câu thoại"
+          },
+          "keys": [
+            {
+              "t": 0.0,
+              "x": 190,
+              "angle": -0.04
+            },
+            {
+              "t": 0.78,
+              "x": 210,
+              "angle": 0.02
+            },
+            {
+              "t": 1.35,
+              "x": 200,
+              "angle": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 83.584,
+      "end": 86.095,
+      "layers": [
+        {
+          "id": "math-tex-28",
+          "type": "image",
+          "path": "math_assets/eq_10.png",
+          "x": 80,
+          "y": 80,
+          "w": 420
+        },
+        {
+          "type": "pose",
+          "pose": 0,
+          "x": 680,
+          "y": 60,
+          "w": 420
+        },
+        {
+          "id": "prop-28",
+          "type": "image",
+          "path": "@b1/idea-note-crayon.png",
+          "x": 200,
+          "y": 320,
+          "w": 160,
+          "motion": {
+            "role": "prop",
+            "reason": "Biểu tượng chuyển động theo câu thoại"
+          },
+          "keys": [
+            {
+              "t": 0.0,
+              "x": 190,
+              "angle": -0.04
+            },
+            {
+              "t": 1.26,
+              "x": 210,
+              "angle": 0.02
+            },
+            {
+              "t": 2.31,
+              "x": 200,
+              "angle": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 86.095,
+      "end": 88.044,
+      "layers": [
+        {
+          "id": "math-tex-29",
+          "type": "image",
+          "path": "math_assets/eq_10.png",
+          "x": 80,
+          "y": 80,
+          "w": 420
+        },
+        {
+          "type": "pose",
+          "pose": 2,
+          "x": 700,
+          "y": 60,
+          "w": 420
+        },
+        {
+          "id": "prop-29",
+          "type": "image",
+          "path": "@b1/idea-bulb-crayon.png",
+          "x": 200,
+          "y": 320,
+          "w": 160,
+          "motion": {
+            "role": "prop",
+            "reason": "Biểu tượng chuyển động theo câu thoại"
+          },
+          "keys": [
+            {
+              "t": 0.0,
+              "x": 190,
+              "angle": -0.04
+            },
+            {
+              "t": 0.97,
+              "x": 210,
+              "angle": 0.02
+            },
+            {
+              "t": 1.75,
+              "x": 200,
+              "angle": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 88.044,
+      "end": 88.954,
+      "layers": [
+        {
+          "id": "math-tex-30",
+          "type": "image",
+          "path": "math_assets/eq_10.png",
+          "x": 80,
+          "y": 80,
+          "w": 420
+        },
+        {
+          "type": "pose",
+          "pose": 0,
+          "x": 680,
+          "y": 60,
+          "w": 420
+        },
+        {
+          "id": "prop-30",
+          "type": "image",
+          "path": "@b1/idea-note-crayon.png",
+          "x": 200,
+          "y": 320,
+          "w": 160,
+          "motion": {
+            "role": "prop",
+            "reason": "Biểu tượng chuyển động theo câu thoại"
+          },
+          "keys": [
+            {
+              "t": 0.0,
+              "x": 190,
+              "angle": -0.04
+            },
+            {
+              "t": 0.46,
+              "x": 210,
+              "angle": 0.02
+            },
+            {
+              "t": 0.71,
+              "x": 200,
+              "angle": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 88.954,
+      "end": 94.024,
+      "layers": [
+        {
+          "id": "math-tex-31",
+          "type": "image",
+          "path": "math_assets/eq_10.png",
+          "x": 80,
+          "y": 80,
+          "w": 420
+        },
+        {
+          "type": "pose",
+          "pose": 1,
+          "x": 700,
+          "y": 60,
+          "w": 420
+        },
+        {
+          "id": "prop-31",
+          "type": "image",
+          "path": "@b1/idea-bulb-crayon.png",
+          "x": 200,
+          "y": 320,
+          "w": 160,
+          "motion": {
+            "role": "prop",
+            "reason": "Biểu tượng chuyển động theo câu thoại"
+          },
+          "keys": [
+            {
+              "t": 0.0,
+              "x": 190,
+              "angle": -0.04
+            },
+            {
+              "t": 2.54,
+              "x": 210,
+              "angle": 0.02
+            },
+            {
+              "t": 4.87,
+              "x": 200,
+              "angle": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 94.024,
+      "end": 96.054,
+      "layers": [
+        {
+          "id": "math-tex-32",
+          "type": "image",
+          "path": "math_assets/eq_10.png",
+          "x": 80,
+          "y": 80,
+          "w": 420
+        },
+        {
+          "type": "pose",
+          "pose": 0,
+          "x": 720,
+          "y": 60,
+          "w": 420
+        },
+        {
+          "id": "prop-32",
+          "type": "image",
+          "path": "@b1/idea-note-crayon.png",
+          "x": 200,
+          "y": 320,
+          "w": 160,
+          "motion": {
+            "role": "prop",
+            "reason": "Biểu tượng chuyển động theo câu thoại"
+          },
+          "keys": [
+            {
+              "t": 0.0,
+              "x": 190,
+              "angle": -0.04
+            },
+            {
+              "t": 1.01,
+              "x": 210,
+              "angle": 0.02
+            },
+            {
+              "t": 1.83,
+              "x": 200,
+              "angle": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 96.054,
+      "end": 99.284,
+      "layers": [
+        {
+          "id": "math-tex-33",
+          "type": "image",
+          "path": "math_assets/eq_10.png",
+          "x": 80,
+          "y": 80,
+          "w": 420
+        },
+        {
+          "type": "pose",
+          "pose": 0,
+          "x": 680,
+          "y": 60,
+          "w": 420
+        },
+        {
+          "id": "prop-33",
+          "type": "image",
+          "path": "@b1/idea-bulb-crayon.png",
+          "x": 200,
+          "y": 320,
+          "w": 160,
+          "motion": {
+            "role": "prop",
+            "reason": "Biểu tượng chuyển động theo câu thoại"
+          },
+          "keys": [
+            {
+              "t": 0.0,
+              "x": 190,
+              "angle": -0.04
+            },
+            {
+              "t": 1.61,
+              "x": 210,
+              "angle": 0.02
+            },
+            {
+              "t": 3.03,
+              "x": 200,
+              "angle": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 99.284,
+      "end": 104.114,
+      "layers": [
+        {
+          "id": "math-tex-34",
+          "type": "image",
+          "path": "math_assets/eq_10.png",
+          "x": 80,
+          "y": 80,
+          "w": 420
+        },
+        {
+          "type": "pose",
+          "pose": 1,
+          "x": 700,
+          "y": 60,
+          "w": 420
+        },
+        {
+          "id": "prop-34",
+          "type": "image",
+          "path": "@b1/idea-note-crayon.png",
+          "x": 200,
+          "y": 320,
+          "w": 160,
+          "motion": {
+            "role": "prop",
+            "reason": "Biểu tượng chuyển động theo câu thoại"
+          },
+          "keys": [
+            {
+              "t": 0.0,
+              "x": 190,
+              "angle": -0.04
+            },
+            {
+              "t": 2.42,
+              "x": 210,
+              "angle": 0.02
+            },
+            {
+              "t": 4.63,
+              "x": 200,
+              "angle": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 104.114,
+      "end": 109.0,
+      "layers": [
+        {
+          "id": "math-tex-35",
+          "type": "image",
+          "path": "math_assets/eq_10.png",
+          "x": 80,
+          "y": 80,
+          "w": 420
+        },
+        {
+          "type": "pose",
+          "pose": 0,
+          "x": 680,
+          "y": 60,
+          "w": 420
+        },
+        {
+          "id": "prop-35",
+          "type": "image",
+          "path": "@b1/idea-bulb-crayon.png",
+          "x": 200,
+          "y": 320,
+          "w": 160,
+          "motion": {
+            "role": "prop",
+            "reason": "Biểu tượng chuyển động theo câu thoại"
+          },
+          "keys": [
+            {
+              "t": 0.0,
+              "x": 190,
+              "angle": -0.04
+            },
+            {
+              "t": 2.44,
+              "x": 210,
+              "angle": 0.02
+            },
+            {
+              "t": 4.69,
+              "x": 200,
+              "angle": 0.0
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "ambience": [
+    {
+      "path": "voice.wav",
+      "start": 0,
+      "end": 109.0,
+      "gain": 0.0001
+    }
+  ],
+  "sfx": [
+    {
+      "time": 0.2,
+      "kind": "tap",
+      "gain": 0.04
+    },
+    {
+      "time": 4.469,
+      "kind": "pop",
+      "gain": 0.04
+    },
+    {
+      "time": 7.94,
+      "kind": "paper",
+      "gain": 0.04
+    },
+    {
+      "time": 10.849,
+      "kind": "chime",
+      "gain": 0.04
+    },
+    {
+      "time": 14.16,
+      "kind": "tap",
+      "gain": 0.04
+    },
+    {
+      "time": 15.31,
+      "kind": "pop",
+      "gain": 0.04
+    },
+    {
+      "time": 17.82,
+      "kind": "paper",
+      "gain": 0.04
+    },
+    {
+      "time": 22.25,
+      "kind": "chime",
+      "gain": 0.04
+    },
+    {
+      "time": 27.079,
+      "kind": "tap",
+      "gain": 0.04
+    },
+    {
+      "time": 31.429,
+      "kind": "pop",
+      "gain": 0.04
+    },
+    {
+      "time": 34.899,
+      "kind": "paper",
+      "gain": 0.04
+    },
+    {
+      "time": 38.289,
+      "kind": "chime",
+      "gain": 0.04
+    },
+    {
+      "time": 39.92,
+      "kind": "tap",
+      "gain": 0.04
+    },
+    {
+      "time": 44.109,
+      "kind": "pop",
+      "gain": 0.04
+    },
+    {
+      "time": 46.78,
+      "kind": "paper",
+      "gain": 0.04
+    },
+    {
+      "time": 50.17,
+      "kind": "chime",
+      "gain": 0.04
+    },
+    {
+      "time": 52.679,
+      "kind": "tap",
+      "gain": 0.04
+    },
+    {
+      "time": 53.59,
+      "kind": "pop",
+      "gain": 0.04
+    },
+    {
+      "time": 55.7,
+      "kind": "paper",
+      "gain": 0.04
+    },
+    {
+      "time": 56.929,
+      "kind": "chime",
+      "gain": 0.04
+    },
+    {
+      "time": 59.039,
+      "kind": "tap",
+      "gain": 0.04
+    },
+    {
+      "time": 62.67,
+      "kind": "pop",
+      "gain": 0.04
+    },
+    {
+      "time": 65.42,
+      "kind": "paper",
+      "gain": 0.04
+    },
+    {
+      "time": 68.969,
+      "kind": "chime",
+      "gain": 0.04
+    },
+    {
+      "time": 72.439,
+      "kind": "tap",
+      "gain": 0.04
+    },
+    {
+      "time": 74.87,
+      "kind": "pop",
+      "gain": 0.04
+    },
+    {
+      "time": 80.739,
+      "kind": "paper",
+      "gain": 0.04
+    },
+    {
+      "time": 82.209,
+      "kind": "chime",
+      "gain": 0.04
+    },
+    {
+      "time": 83.76,
+      "kind": "tap",
+      "gain": 0.04
+    },
+    {
+      "time": 86.269,
+      "kind": "pop",
+      "gain": 0.04
+    },
+    {
+      "time": 88.219,
+      "kind": "paper",
+      "gain": 0.04
+    },
+    {
+      "time": 89.129,
+      "kind": "chime",
+      "gain": 0.04
+    },
+    {
+      "time": 94.2,
+      "kind": "tap",
+      "gain": 0.04
+    },
+    {
+      "time": 96.22999999999999,
+      "kind": "pop",
+      "gain": 0.04
+    },
+    {
+      "time": 99.459,
+      "kind": "paper",
+      "gain": 0.04
+    },
+    {
+      "time": 104.28999999999999,
+      "kind": "chime",
+      "gain": 0.04
+    }
+  ]
+}

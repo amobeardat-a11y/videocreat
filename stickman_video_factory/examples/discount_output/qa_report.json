@@ -1,0 +1,20 @@
+{
+  "status": "media_valid",
+  "checks": [
+    "video_stream",
+    "audio_stream",
+    "duration"
+  ],
+  "video": "video.mp4",
+  "duration_seconds": 47.0,
+  "scene_count": 3,
+  "line_count": 11,
+  "voice_rate_max": 1.0,
+  "visual_types": [
+    "compare",
+    "end",
+    "equation",
+    "steps",
+    "store"
+  ]
+}

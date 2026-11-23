@@ -1,0 +1,12 @@
+{
+  "canvas": [960, 540], "ground_y": 460, "scale": 0.85,
+  "background": "#f7f8fa", "initial_x": 285,
+  "beats": [
+    {"pose": "listen", "duration": 0.7, "to_x": 285, "transition": 0, "expression": "curious"},
+    {"pose": "count_fingers", "duration": 1.2, "to_x": 285, "transition": 0.22, "expression": "focused"},
+    {"pose": "show_two", "duration": 1.2, "to_x": 285, "transition": 0.23, "expression": "talk"},
+    {"pose": "point_down", "duration": 1.1, "to_x": 285, "transition": 0.20, "expression": "talk"},
+    {"pose": "offer_hand", "duration": 0.9, "to_x": 290, "transition": 0.20, "expression": "happy"},
+    {"pose": "nod", "duration": 0.7, "to_x": 290, "transition": 0.18, "expression": "proud"}
+  ]
+}

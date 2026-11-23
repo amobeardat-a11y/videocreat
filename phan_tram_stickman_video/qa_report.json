@@ -1,0 +1,13 @@
+{
+  "video_seconds": 300,
+  "resolution": "1280x720",
+  "fps": 18,
+  "narration_lines": 100,
+  "caption_cues": 127,
+  "illustrations": 7,
+  "new_stickman_animations": 6,
+  "stickman_library_animations": 66,
+  "video_bytes": 10281624,
+  "checks": "passed",
+  "layout": "stickman left; illustrations right"
+}

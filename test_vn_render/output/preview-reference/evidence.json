@@ -1,0 +1,551 @@
+{
+  "schema": 1,
+  "status": "pending_independent_review",
+  "style": "B1",
+  "output": "c:\\Users\\dat\\Downloads\\video genflow\\test_vn_render\\output\\preview.mp4",
+  "output_sha256": "92742b5459329c7f58f9cba333b272b806e7a546335e60f64b3ac8dec302f5cb",
+  "project_fingerprint": "95bd1098bf07405dedc44e33441a6a9c16f6f6c55f3228adfec97684b9704720",
+  "project_inputs": {
+    "file": "c:\\Users\\dat\\Downloads\\video genflow\\test_vn_render\\project.json",
+    "inputs": [
+      {
+        "path": "C:\\Users\\dat\\Downloads\\video genflow\\stickman-video-director\\skills\\directing-stickman-videos\\assets\\b1\\approved-2026-10-23-contact-sheet.png",
+        "sha256": "0bc85b4c8ca938b01d346fcca9af06e608ea56e6d82ea993860647166b7b530e"
+      },
+      {
+        "path": "C:\\Users\\dat\\Downloads\\video genflow\\stickman-video-director\\skills\\directing-stickman-videos\\assets\\b1\\approved-2026-10-23-motion-sheet.png",
+        "sha256": "7bb8664e837e44604387f258522fd2251bac5ddf7347ed02297f211dc45ced73"
+      },
+      {
+        "path": "C:\\Users\\dat\\Downloads\\video genflow\\stickman-video-director\\skills\\directing-stickman-videos\\assets\\b1\\approved-2026-10-23.mp4",
+        "sha256": "111c241a836a0c26b27df2cbff3ba5697b97460dbb873b68dd2f6eda2383b3fc"
+      },
+      {
+        "path": "C:\\Users\\dat\\Downloads\\video genflow\\stickman-video-director\\skills\\directing-stickman-videos\\assets\\b1\\approved-2026-10-24-longform-contact-sheet.jpg",
+        "sha256": "18690bd4a1d94cdc611bced722899cd0cae3f3e114120cedc79e0ab717b4c99e"
+      },
+      {
+        "path": "C:\\Users\\dat\\Downloads\\video genflow\\stickman-video-director\\skills\\directing-stickman-videos\\assets\\b1\\approved-baseline.json",
+        "sha256": "8948fb69c87d0b85f3927cd773e6afda47596ea8aeb39d031abc313fb48af2d5"
+      },
+      {
+        "path": "C:\\Users\\dat\\Downloads\\video genflow\\stickman-video-director\\skills\\directing-stickman-videos\\assets\\b1\\approved-production-standard.json",
+        "sha256": "a8ee78a831aaf31f2e37c09d34dbb3da7c8c2abac2b47a7a245843ade191b757"
+      },
+      {
+        "path": "C:\\Users\\dat\\Downloads\\video genflow\\stickman-video-director\\skills\\directing-stickman-videos\\assets\\b1\\calendar-crayon.png",
+        "sha256": "97b7fbff3f16ce18457db89db125e8eaebd97ef95537ecfabdf3a089bd4f4a2a"
+      },
+      {
+        "path": "C:\\Users\\dat\\Downloads\\video genflow\\stickman-video-director\\skills\\directing-stickman-videos\\assets\\b1\\camera-handdrawn.png",
+        "sha256": "56fb555059cab64130b3b26dc5ffa2cd0684136ccf94c6a380ce2b2fa592075b"
+      },
+      {
+        "path": "C:\\Users\\dat\\Downloads\\video genflow\\stickman-video-director\\skills\\directing-stickman-videos\\assets\\b1\\character-pose-sheet-v6.png",
+        "sha256": "94b601f640112314965525f49536f87942c577e1e5556a11503b19ed00777bb7"
+      },
+      {
+        "path": "C:\\Users\\dat\\Downloads\\video genflow\\stickman-video-director\\skills\\directing-stickman-videos\\assets\\b1\\clapper-crayon.png",
+        "sha256": "e9aa6455d6153a140fb3bcdcd8f967c9ddd76c7e0f89c0ef590a69f412d031b8"
+      },
+      {
+        "path": "C:\\Users\\dat\\Downloads\\video genflow\\stickman-video-director\\skills\\directing-stickman-videos\\assets\\b1\\idea-bulb-crayon.png",
+        "sha256": "439ac0f851ce3dc3ecace97e522c0c18bf1ffada833bff93905f9dd91b9f5db7"
+      },
+      {
+        "path": "C:\\Users\\dat\\Downloads\\video genflow\\stickman-video-director\\skills\\directing-stickman-videos\\assets\\b1\\idea-note-crayon.png",
+        "sha256": "078a53c4b1efa343bdc033371129e62dcab80e752884725202c3d7d79e3b9739"
+      },
+      {
+        "path": "C:\\Users\\dat\\Downloads\\video genflow\\stickman-video-director\\skills\\directing-stickman-videos\\assets\\b1\\open-source-crayon.png",
+        "sha256": "37a2d8c008d155670dda3af50d944144a8f6d9221c5d47c4adb64c85dba0c2ca"
+      },
+      {
+        "path": "C:\\Users\\dat\\Downloads\\video genflow\\stickman-video-director\\skills\\directing-stickman-videos\\assets\\b1\\youtube-crayon.png",
+        "sha256": "c839717057aeb3c06269eb0e83e1fdc566eb9b4b02d6485212548a21d4d043e4"
+      },
+      {
+        "path": "C:\\Users\\dat\\Downloads\\video genflow\\stickman-video-director\\skills\\directing-stickman-videos\\assets\\fonts\\NotoSans.ttf",
+        "sha256": "bfb7bb691513f12e734dc346c03a03f784912432d7e3fa8e56efcf906fe86b3d"
+      },
+      {
+        "path": "c:\\Users\\dat\\Downloads\\video genflow\\test_vn_render\\viet_font.ttf",
+        "sha256": "bfb7bb691513f12e734dc346c03a03f784912432d7e3fa8e56efcf906fe86b3d"
+      },
+      {
+        "path": "c:\\Users\\dat\\Downloads\\video genflow\\test_vn_render\\voice.wav",
+        "sha256": "d9ca5b6c03c2b17a1913d1ace524cd7cffc69b92f28e3db14eef7288c1709a42"
+      }
+    ]
+  },
+  "plan_sha256": "5c4038c0b9bfd58a2e6ad3844587ce54775ce839da504ace2c68d9da41e16ac8",
+  "scope": {
+    "start": 0,
+    "end": 11.48
+  },
+  "metadata": {
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "average_fps": 30,
+    "duration": 11.5,
+    "frames": 345,
+    "frame_timing_sha256": "af5870a1527a39a458b3202eda3ce464221d3463bf56999fcdb5f344c158db1e",
+    "max_step_error": 6.666666667529131e-7,
+    "video_codec": "h264",
+    "audio": [
+      {
+        "codec": "aac",
+        "sample_rate": 48000,
+        "channels": 1
+      }
+    ]
+  },
+  "plan": {
+    "schema": 1,
+    "style": "B1",
+    "author_id": "viet-director",
+    "capability": {
+      "environment": "Local Vietnamese test",
+      "limitations": [
+        {
+          "capability": "story-specific layered art",
+          "impact": "Test run",
+          "observed": "Fixture uses supplied engineering props"
+        }
+      ],
+      "mode": "limited"
+    },
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "scope_start": 0,
+    "scope_end": 11.48,
+    "frame_count": 345,
+    "shots": [
+      {
+        "id": "shot-0",
+        "index": 0,
+        "source_id": null,
+        "start": 0,
+        "end": 2.8,
+        "start_frame": 0,
+        "end_frame": 84,
+        "phases": {
+          "start": 0,
+          "mid": 41,
+          "end": 83
+        },
+        "shot_sha256": "4453f3b717d129f619b1b7b16f7678659ebff4bd845cb54902fcd7120c16b4be"
+      },
+      {
+        "id": "shot-1",
+        "index": 1,
+        "source_id": null,
+        "start": 2.8,
+        "end": 5.4,
+        "start_frame": 84,
+        "end_frame": 162,
+        "phases": {
+          "start": 84,
+          "mid": 122,
+          "end": 161
+        },
+        "shot_sha256": "1a4b2593a7224db99b518814313853daf39dd8ccd561968aae6ecd0661530f6e"
+      },
+      {
+        "id": "shot-2",
+        "index": 2,
+        "source_id": null,
+        "start": 5.4,
+        "end": 8.8,
+        "start_frame": 162,
+        "end_frame": 264,
+        "phases": {
+          "start": 162,
+          "mid": 212,
+          "end": 263
+        },
+        "shot_sha256": "401d4b01009cac9788d1be75d3b81f806fb95ffeec41c4b0427ad1c064b1e1d6"
+      },
+      {
+        "id": "shot-3",
+        "index": 3,
+        "source_id": null,
+        "start": 8.8,
+        "end": 11.48,
+        "start_frame": 264,
+        "end_frame": 345,
+        "phases": {
+          "start": 264,
+          "mid": 304,
+          "end": 344
+        },
+        "shot_sha256": "4e0495ff7fd550b82fef30c62bda27f5eb287f8c4e0830a915a78339c0887a24"
+      }
+    ],
+    "caption_sha256": "64b8b50a684ac75a78544ffcc2552e852a0f255af7045b0a589119ae98bbf24f",
+    "reference_ids": [
+      "b1-ryan-v4",
+      "b1-ryan-contact-sheet",
+      "b1-ryan-motion-sheet",
+      "b1-full-v4-contact-sheet"
+    ],
+    "checks": [
+      "drawing_character",
+      "semantic_acting",
+      "contact_continuity",
+      "composition_evidence",
+      "typography_captions",
+      "timing_pacing",
+      "sound"
+    ],
+    "limits": [
+      "Hashes, decoded artifacts and complete coverage establish current-media provenance, not aesthetic equivalence.",
+      "Reviewer identity, independence, actual viewing/listening and capability limitations are declarations, not authenticated facts.",
+      "Independent agent review does not imply human approval or user acceptance.",
+      "Sample-target review compares the available approved examples, not identical plots, voices, pixels or unavailable originals.",
+      "B3 endpoint geometry and authored intentions are diagnostics. Each graphic and motion event still needs actual-MP4 independent review; wrong relationships and meaningless motion cannot receive a limited-capability waiver.",
+      "The complete approved Full V4 film is unavailable in this bundle; only sampled long-form compositions are comparable."
+    ]
+  },
+  "references": [
+    {
+      "id": "b1-ryan-v4",
+      "path": "C:\\Users\\dat\\Downloads\\video genflow\\stickman-video-director\\skills\\directing-stickman-videos\\assets\\b1\\approved-2026-10-23.mp4",
+      "sha256": "111c241a836a0c26b27df2cbff3ba5697b97460dbb873b68dd2f6eda2383b3fc",
+      "kind": "video",
+      "role": "approved_baseline",
+      "duration": 21.3,
+      "has_audio": true,
+      "required_comparison": true,
+      "limitations": []
+    },
+    {
+      "id": "b1-ryan-contact-sheet",
+      "path": "C:\\Users\\dat\\Downloads\\video genflow\\stickman-video-director\\skills\\directing-stickman-videos\\assets\\b1\\approved-2026-10-23-contact-sheet.png",
+      "sha256": "0bc85b4c8ca938b01d346fcca9af06e608ea56e6d82ea993860647166b7b530e",
+      "kind": "image",
+      "role": "approved_baseline",
+      "duration": null,
+      "has_audio": false,
+      "required_comparison": false,
+      "limitations": [
+        "Static sheet cannot demonstrate continuous motion, subtitle timing or listening."
+      ]
+    },
+    {
+      "id": "b1-ryan-motion-sheet",
+      "path": "C:\\Users\\dat\\Downloads\\video genflow\\stickman-video-director\\skills\\directing-stickman-videos\\assets\\b1\\approved-2026-10-23-motion-sheet.png",
+      "sha256": "7bb8664e837e44604387f258522fd2251bac5ddf7347ed02297f211dc45ced73",
+      "kind": "image",
+      "role": "approved_baseline",
+      "duration": null,
+      "has_audio": false,
+      "required_comparison": false,
+      "limitations": [
+        "Static sheet cannot demonstrate continuous motion, subtitle timing or listening."
+      ]
+    },
+    {
+      "id": "b1-full-v4-contact-sheet",
+      "path": "C:\\Users\\dat\\Downloads\\video genflow\\stickman-video-director\\skills\\directing-stickman-videos\\assets\\b1\\approved-2026-10-24-longform-contact-sheet.jpg",
+      "sha256": "18690bd4a1d94cdc611bced722899cd0cae3f3e114120cedc79e0ab717b4c99e",
+      "kind": "image",
+      "role": "approved_longform_sampled_sheet",
+      "duration": null,
+      "has_audio": false,
+      "required_comparison": false,
+      "limitations": [
+        "Full V4 film is not bundled. This sampled sheet cannot establish continuous long-form motion or audio."
+      ]
+    }
+  ],
+  "reference_manifests": [
+    {
+      "path": "C:\\Users\\dat\\Downloads\\video genflow\\stickman-video-director\\skills\\directing-stickman-videos\\assets\\b1\\approved-baseline.json",
+      "sha256": "8948fb69c87d0b85f3927cd773e6afda47596ea8aeb39d031abc313fb48af2d5"
+    },
+    {
+      "path": "C:\\Users\\dat\\Downloads\\video genflow\\stickman-video-director\\skills\\directing-stickman-videos\\assets\\b1\\approved-production-standard.json",
+      "sha256": "a8ee78a831aaf31f2e37c09d34dbb3da7c8c2abac2b47a7a245843ade191b757"
+    }
+  ],
+  "artifacts": [
+    {
+      "id": "shot-0-start",
+      "shot": "shot-0",
+      "type": "png",
+      "phase": "start",
+      "frame_index": 0,
+      "source_time": 0,
+      "crop": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "file": "shot-0-start.png",
+      "sha256": "6c864554f5cd6d7e09dafa4773f9ad7feead5083e539793f1ef66faae783ff52"
+    },
+    {
+      "id": "shot-0-mid",
+      "shot": "shot-0",
+      "type": "png",
+      "phase": "mid",
+      "frame_index": 41,
+      "source_time": 1.366667,
+      "crop": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "file": "shot-0-mid.png",
+      "sha256": "a098fb2376c2111bb87745050481a0bdedb9103c798ca44c1ea6d38461743113"
+    },
+    {
+      "id": "shot-0-end",
+      "shot": "shot-0",
+      "type": "png",
+      "phase": "end",
+      "frame_index": 83,
+      "source_time": 2.766667,
+      "crop": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "file": "shot-0-end.png",
+      "sha256": "e14777f8a65ed3dc82afbbe70d36888fe09237997cd354fa23e728582b864207"
+    },
+    {
+      "id": "shot-0-continuous",
+      "shot": "shot-0",
+      "type": "clip",
+      "start_frame": 0,
+      "end_frame": 84,
+      "source_start": 0,
+      "source_end": 2.8,
+      "crop": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "audio": "source",
+      "file": "shot-0-continuous.mp4",
+      "sha256": "b9750b31bf5ad382b5611edb0df8177229bab651ad2053536485aad7449f2310"
+    },
+    {
+      "id": "shot-1-start",
+      "shot": "shot-1",
+      "type": "png",
+      "phase": "start",
+      "frame_index": 84,
+      "source_time": 2.8,
+      "crop": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "file": "shot-1-start.png",
+      "sha256": "1ccf8089e436c422732aafb93f92a346acb8cda9826d12f0c90f1202c5d69316"
+    },
+    {
+      "id": "shot-1-mid",
+      "shot": "shot-1",
+      "type": "png",
+      "phase": "mid",
+      "frame_index": 122,
+      "source_time": 4.066667,
+      "crop": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "file": "shot-1-mid.png",
+      "sha256": "bbda9a61bbddf866a000cdc386685ea10ad6c731bede74cb022b1a04ea64113d"
+    },
+    {
+      "id": "shot-1-end",
+      "shot": "shot-1",
+      "type": "png",
+      "phase": "end",
+      "frame_index": 161,
+      "source_time": 5.366667,
+      "crop": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "file": "shot-1-end.png",
+      "sha256": "6cf25ecdc18500fbdfc3686514f5ecb3c3679cb5350a88576c732c1881a8ae25"
+    },
+    {
+      "id": "shot-1-continuous",
+      "shot": "shot-1",
+      "type": "clip",
+      "start_frame": 84,
+      "end_frame": 162,
+      "source_start": 2.8,
+      "source_end": 5.4,
+      "crop": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "audio": "source",
+      "file": "shot-1-continuous.mp4",
+      "sha256": "c6186c616b510324e2f6eb17b9ec8fbe649bf1e1102a35264558380bb2299fca"
+    },
+    {
+      "id": "shot-2-start",
+      "shot": "shot-2",
+      "type": "png",
+      "phase": "start",
+      "frame_index": 162,
+      "source_time": 5.4,
+      "crop": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "file": "shot-2-start.png",
+      "sha256": "c7df6b826f31143754b8c00a4027466011e710327e089931705f7f555848f570"
+    },
+    {
+      "id": "shot-2-mid",
+      "shot": "shot-2",
+      "type": "png",
+      "phase": "mid",
+      "frame_index": 212,
+      "source_time": 7.066667,
+      "crop": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "file": "shot-2-mid.png",
+      "sha256": "63bb33670c1548b3bc3c2f1cb698688a662a4661f8cf1bed55356fddb308200b"
+    },
+    {
+      "id": "shot-2-end",
+      "shot": "shot-2",
+      "type": "png",
+      "phase": "end",
+      "frame_index": 263,
+      "source_time": 8.766667,
+      "crop": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "file": "shot-2-end.png",
+      "sha256": "b7e39e226b20055e557da279e58dc5f4a82feedc1513b050964061cf3e949876"
+    },
+    {
+      "id": "shot-2-continuous",
+      "shot": "shot-2",
+      "type": "clip",
+      "start_frame": 162,
+      "end_frame": 264,
+      "source_start": 5.4,
+      "source_end": 8.8,
+      "crop": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "audio": "source",
+      "file": "shot-2-continuous.mp4",
+      "sha256": "21bff16c0d9939ca42876b7fd796dcf44be3ccf8a6c11db8b3f08a028ece36d0"
+    },
+    {
+      "id": "shot-3-start",
+      "shot": "shot-3",
+      "type": "png",
+      "phase": "start",
+      "frame_index": 264,
+      "source_time": 8.8,
+      "crop": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "file": "shot-3-start.png",
+      "sha256": "350e0e3470c9859b67e66dddad21919f41b6606e787f8854f4c2640b773e217d"
+    },
+    {
+      "id": "shot-3-mid",
+      "shot": "shot-3",
+      "type": "png",
+      "phase": "mid",
+      "frame_index": 304,
+      "source_time": 10.133333,
+      "crop": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "file": "shot-3-mid.png",
+      "sha256": "2eb06591076f79e60a91f36b28c2543f56af32f727e125a5a24e0bc849842fdb"
+    },
+    {
+      "id": "shot-3-end",
+      "shot": "shot-3",
+      "type": "png",
+      "phase": "end",
+      "frame_index": 344,
+      "source_time": 11.466667,
+      "crop": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "file": "shot-3-end.png",
+      "sha256": "1d55dbcc9275ef163ee2f89ed151477003c8468d73a078ed019dfaf097a58b96"
+    },
+    {
+      "id": "shot-3-continuous",
+      "shot": "shot-3",
+      "type": "clip",
+      "start_frame": 264,
+      "end_frame": 345,
+      "source_start": 8.8,
+      "source_end": 11.5,
+      "crop": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "audio": "source",
+      "file": "shot-3-continuous.mp4",
+      "sha256": "947c54e0e3c409076982bdaf14e2ee0ed5f95383d5869f12b2b97e20f03b7d74"
+    }
+  ],
+  "evidence_dir": "c:\\Users\\dat\\Downloads\\video genflow\\test_vn_render\\output\\preview-reference",
+  "ledger_file": "c:\\Users\\dat\\Downloads\\video genflow\\test_vn_render\\output\\preview-reference\\evidence.json",
+  "template_file": "c:\\Users\\dat\\Downloads\\video genflow\\test_vn_render\\output\\preview-reference\\review-template.json",
+  "limits": [
+    "Hashes, decoded artifacts and complete coverage establish current-media provenance, not aesthetic equivalence.",
+    "Reviewer identity, independence, actual viewing/listening and capability limitations are declarations, not authenticated facts.",
+    "Independent agent review does not imply human approval or user acceptance.",
+    "Sample-target review compares the available approved examples, not identical plots, voices, pixels or unavailable originals.",
+    "B3 endpoint geometry and authored intentions are diagnostics. Each graphic and motion event still needs actual-MP4 independent review; wrong relationships and meaningless motion cannot receive a limited-capability waiver.",
+    "The complete approved Full V4 film is unavailable in this bundle; only sampled long-form compositions are comparable."
+  ]
+}

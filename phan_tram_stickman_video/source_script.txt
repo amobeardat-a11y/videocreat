@@ -1,0 +1,229 @@
+## 0:00–0:40 — MỞ ĐẦU: NGƯỜI ĐÀN ÔNG ĐÁNH BẠI TOÁN HỌC
+
+**[Hình ảnh: Một cửa hàng treo biển "SIÊU SALE 50% + GIẢM THÊM 50%". Một học sinh nhìn biển với ánh mắt phát sáng.]**
+
+Hãy tưởng tượng bạn đang đi ngang qua một cửa hàng quần áo.
+
+Và đập vào mắt bạn là dòng chữ:
+
+**"GIẢM GIÁ 50%, GIẢM THÊM 50% CHO TOÀN BỘ SẢN PHẨM!"**
+
+Khoan đã...
+
+50% cộng 50% bằng 100%.
+
+Tức là... miễn phí?
+
+Sau nhiều năm đi học, cuối cùng bạn cũng tìm ra cách dùng toán học để đánh bại chủ nghĩa tư bản.
+
+Bạn bước vào cửa hàng, chọn một chiếc áo giá một triệu đồng, tự tin mang ra quầy thanh toán.
+
+Nhưng nhân viên lại yêu cầu bạn trả 250 nghìn.
+
+Một phần tư triệu đồng!
+
+Trong khi theo tính toán của bạn, cửa hàng mới là bên phải trả tiền vì đã làm mất thời gian của một thiên tài toán học.
+
+Vậy chuyện gì đã xảy ra?
+
+Có phải cửa hàng đang lừa bạn?
+
+Hay chính bộ não của bạn vừa tự lừa mình?
+
+## 0:40–1:35 — VẤN ĐỀ KHÔNG NẰM Ở PHÉP CỘNG
+
+**[Hình ảnh: Chiếc áo giá 1.000.000 đồng, thanh giá giảm dần.]**
+
+Thực ra phép tính 50 cộng 50 bằng 100 hoàn toàn đúng.
+
+Chỉ có điều... bạn đang cộng hai thứ không nên cộng.
+
+Hãy nhìn lại chiếc áo một triệu đồng.
+
+Lần giảm đầu tiên, cửa hàng lấy đi 50% của một triệu.
+
+Tức là 500 nghìn.
+
+Chiếc áo bây giờ chỉ còn 500 nghìn.
+
+Và đây là lúc bi kịch bắt đầu.
+
+Lần giảm thứ hai, cửa hàng tiếp tục giảm 50%.
+
+Nhưng 50% của cái gì?
+
+Một triệu?
+
+Không!
+
+**50% của 500 nghìn.**
+
+Nghĩa là họ chỉ giảm thêm 250 nghìn.
+
+Cuối cùng, chiếc áo còn đúng 250 nghìn đồng.
+
+Bạn vẫn được giảm giá rất sâu, nhưng giấc mơ mua hàng miễn phí đã chính thức phá sản.
+
+Vấn đề không phải là bạn không biết cộng.
+
+Mà là bạn đã quên rằng: **phần trăm luôn phải gắn với một giá trị cụ thể.**
+
+## 1:35–2:30 — MỘT SAI LẦM CÒN NGUY HIỂM HƠN
+
+**[Hình ảnh: Một học sinh nhìn điểm kiểm tra 5/10, rồi một mũi tên tăng 20%.]**
+
+Và nếu bạn nghĩ lỗi này chỉ xuất hiện khi đi mua quần áo, thì không.
+
+Nó còn xuất hiện ở một nơi đáng sợ hơn nhiều.
+
+Bảng điểm.
+
+Giả sử bạn vừa kiểm tra Toán được 5 điểm.
+
+Sau một tuần chăm chỉ học tập, điểm số của bạn tăng 20%.
+
+Bạn vui mừng thông báo với bố mẹ rằng trình độ toán của mình đã tăng 20%.
+
+Vậy điểm mới là bao nhiêu?
+
+6 điểm.
+
+Không phải 7 điểm.
+
+Bởi vì tăng 20% nghĩa là lấy 5 cộng với 20% của 5, tức là cộng thêm 1 điểm.
+
+Nhưng có một điều thú vị.
+
+Nếu bạn từ 5 điểm lên 6 điểm, sau đó lại từ 6 điểm xuống 5 điểm...
+
+Thì bạn đã tăng 20% rồi giảm bao nhiêu phần trăm?
+
+Nếu bạn nói 20%, xin chúc mừng.
+
+Bạn vừa mắc lại đúng sai lầm lúc mua áo.
+
+Bởi vì từ 6 xuống 5 là giảm 1 điểm.
+
+Mà 1 điểm so với 6 điểm ban đầu của lần giảm, chỉ tương đương khoảng 16,67%.
+
+**[Hiện phép tính: 1 ÷ 6 × 100% ≈ 16,67%.]**
+
+Cùng thay đổi 1 điểm, nhưng tỷ lệ phần trăm khác nhau vì mốc so sánh đã khác.
+
+## 2:30–3:35 — CÁI BẪY GIẢM 20% RỒI TĂNG 20%
+
+**[Hình ảnh: Một chiếc điện thoại có giá 10 triệu đồng.]**
+
+Bây giờ, hãy thử một tình huống khác.
+
+Bạn đang muốn mua một chiếc điện thoại giá 10 triệu.
+
+Một hôm, cửa hàng bất ngờ giảm giá 20%.
+
+Bạn lập tức mua nó với giá 8 triệu.
+
+Ngày hôm sau, cửa hàng thông báo giá điện thoại tăng lại 20%.
+
+Bạn nghĩ:
+
+"Thôi xong. Giá lại quay về 10 triệu rồi."
+
+Nhưng không.
+
+Giá mới chỉ là 9 triệu 600 nghìn đồng.
+
+Bởi vì 20% của 8 triệu chỉ là 1 triệu 600 nghìn.
+
+Điều thú vị nằm ở chỗ:
+
+Nếu một đại lượng giảm 20% rồi tăng lại 20%, nó sẽ không trở về giá ban đầu.
+
+Nó sẽ thấp hơn ban đầu 4%.
+
+Và điều này không chỉ đúng với 10 triệu.
+
+Nó đúng với 100 nghìn, 1 tỷ, hay bất kỳ số dương nào.
+
+Thậm chí, nếu bạn giảm 10% rồi tăng 10%, bạn vẫn mất 1%.
+
+Giảm 30% rồi tăng 30%, bạn mất 9%.
+
+Giảm 50% rồi tăng 50%, bạn mất tới 25%.
+
+**[Hình ảnh: Biểu đồ số tiền bị mất tăng dần, nhân vật hoạt hình ôm ví khóc.]**
+
+Đó không phải sự trùng hợp.
+
+## 3:35–4:25 — ĐẰNG SAU TRÒ ĐÙA LÀ MỘT QUY LUẬT
+
+**[Hình ảnh: Bảng trắng xuất hiện.]**
+
+Giả sử bạn bắt đầu với một số tiền là 100 đồng.
+
+Bạn giảm đi \(x\%\), rồi tăng lại đúng \(x\%\).
+
+Sau lần giảm, bạn còn:
+
+\(100(1-x/100)\)
+
+Sau lần tăng, số tiền trở thành:
+
+\(100(1-x/100)(1+x/100)\)
+
+Nhân hai biểu thức này với nhau, ta được:
+
+\(100(1-x^2/10000)\)
+
+Nghĩa là bạn luôn mất đi một lượng bằng:
+
+\(x^2/100\) phần trăm của giá trị ban đầu.
+
+Chẳng hạn, nếu giảm rồi tăng 20%, bạn mất:
+
+\(20^2/100=4\%\)
+
+Nếu giảm rồi tăng 50%, bạn mất:
+
+\(50^2/100=25\%\)
+
+Vậy là bạn vừa nhìn thấy một kiến thức đại số quen thuộc:
+
+**Hằng đẳng thức hiệu hai bình phương.**
+
+Thứ mà nhiều học sinh từng nghĩ chỉ tồn tại để làm khó mình trong các bài kiểm tra, hóa ra lại có thể giải thích vì sao tiền trong ví biến mất.
+
+## 4:25–5:00 — KẾT THÚC: CÁCH KHÔNG BỊ PHẦN TRĂM LỪA
+
+**[Hình ảnh: Quay lại biển quảng cáo "GIẢM 50% + 50%".]**
+
+Vậy, sau tất cả, bạn cần nhớ điều gì?
+
+Đừng vội cộng các tỷ lệ phần trăm khi chúng được áp dụng liên tiếp.
+
+Bởi vì mỗi lần thay đổi, con số dùng để tính phần trăm cũng có thể thay đổi theo.
+
+Thay vì hỏi:
+
+"Giảm bao nhiêu phần trăm?"
+
+Hãy hỏi:
+
+**"Giảm bao nhiêu phần trăm của cái gì?"**
+
+Và trước khi kết thúc, có một câu hỏi dành cho bạn.
+
+Một chiếc áo giá 100 nghìn đồng.
+
+Cửa hàng A giảm giá một lần 40%.
+
+Cửa hàng B giảm 20%, rồi giảm tiếp 20%.
+
+Theo bạn, cửa hàng nào bán rẻ hơn?
+
+Hãy thử tính trước khi xem đáp án.
+
+Bởi vì đôi khi, thứ nguy hiểm nhất trong toán học không phải là một bài toán khó.
+
+Mà là một bài toán trông quá dễ, đến mức bạn chẳng buồn suy nghĩ.
+
+**[Màn hình đen. Dòng chữ: "Đừng để dấu % thao túng bạn."]**

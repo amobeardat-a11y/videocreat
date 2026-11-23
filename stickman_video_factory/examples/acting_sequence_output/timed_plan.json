@@ -1,0 +1,74 @@
+{
+  "title": "Tìm lại ý tưởng",
+  "cast": [
+    {
+      "id": "an",
+      "name": "An",
+      "voice_style": "comic_male",
+      "color": "orange"
+    }
+  ],
+  "duration": 18.0,
+  "scenes": [
+    {
+      "index": 0,
+      "title": "TÌM LẠI Ý TƯỞNG",
+      "start": 0.0,
+      "end": 18.0,
+      "voice_rate": 1.0
+    }
+  ],
+  "lines": [
+    {
+      "speaker": "an",
+      "text": "Khoan đã, mình vừa nghĩ ra một điều hay nhưng quên mất rồi.",
+      "acting_sequence": "search_and_discover",
+      "visual": {
+        "type": "text",
+        "headline": "Ý TƯỞNG ĐÂU RỒI?",
+        "subtext": "Tìm lại manh mối"
+      },
+      "index": 0,
+      "scene": 0,
+      "visual_start": 1.741,
+      "start": 1.741,
+      "end": 5.021,
+      "acting_end": 7.562
+    },
+    {
+      "speaker": "an",
+      "text": "À, nhớ rồi! Chỉ cần chia vấn đề thành hai bước nhỏ.",
+      "acting_sequence": "explain_with_numbers",
+      "visual": {
+        "type": "steps",
+        "title": "CHIA NHỎ VẤN ĐỀ",
+        "items": [
+          "Tìm dữ kiện",
+          "Giải từng bước"
+        ]
+      },
+      "index": 1,
+      "scene": 0,
+      "visual_start": 7.562,
+      "start": 7.562,
+      "end": 11.082,
+      "acting_end": 13.059
+    },
+    {
+      "speaker": "an",
+      "text": "Làm được rồi. Hóa ra cách này đơn giản hơn mình tưởng.",
+      "acting_sequence": "small_victory",
+      "visual": {
+        "type": "text",
+        "headline": "LÀM ĐƯỢC RỒI!",
+        "subtext": "Một chiến thắng nhỏ"
+      },
+      "index": 2,
+      "scene": 0,
+      "visual_start": 13.059,
+      "start": 13.059,
+      "end": 16.179,
+      "acting_end": 18.0
+    }
+  ]
+}

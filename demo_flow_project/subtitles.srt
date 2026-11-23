@@ -1,0 +1,16 @@
+1
+00:00:00,200 --> 00:00:04,120
+Chào các bạn, đây là video tạo bằng Google Veo kết hợp giọng đọc tiếng Việt.
+
+2
+00:00:04,519 --> 00:00:08,279
+Mô hình AI Veo mang lại chuyển động mượt mà và ánh sáng điện ảnh chuyên nghiệp.
+
+3
+00:00:08,679 --> 00:00:12,039
+Kịch bản và chuyển động được đồng bộ chuẩn xác với phụ đề tiếng Việt.
+
+4
+00:00:12,439 --> 00:00:16,679
+Bây giờ bạn có thể sản xuất video chất lượng cao mà không tốn công biên tập!
+

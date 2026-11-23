@@ -1,0 +1,1101 @@
+{
+  "version": 5,
+  "canvas": [
+    500,
+    600
+  ],
+  "background": "transparent",
+  "loop": {
+    "fps": 18,
+    "duration_seconds": 2,
+    "width": 400,
+    "sampled_frames": 36,
+    "format": "animated WebP lossless",
+    "note": "Identical frames may be merged by the WebP encoder."
+  },
+  "angles": "degrees: 0 down, +90 right, 180 up",
+  "poses": {
+    "idle": {
+      "vi": "Đứng nghỉ",
+      "category": "cảm xúc",
+      "default_expression": "happy",
+      "cycles_per_loop": 1,
+      "motion_beats": [
+        0,
+        0.25,
+        0.48,
+        0.56,
+        0.75,
+        1
+      ]
+    },
+    "talk": {
+      "vi": "Nói và minh họa",
+      "category": "hội thoại",
+      "default_expression": "talk",
+      "cycles_per_loop": 2,
+      "motion_beats": [
+        0,
+        0.25,
+        0.5,
+        0.75,
+        1
+      ]
+    },
+    "explain_open": {
+      "vi": "Giải thích hai tay",
+      "category": "hội thoại",
+      "default_expression": "talk",
+      "cycles_per_loop": 1,
+      "motion_beats": [
+        0,
+        0.28,
+        0.55,
+        0.8,
+        1
+      ]
+    },
+    "point_side": {
+      "vi": "Chỉ sang bên",
+      "category": "hội thoại",
+      "default_expression": "talk",
+      "cycles_per_loop": 1,
+      "motion_beats": [
+        0,
+        0.35,
+        0.65,
+        1
+      ]
+    },
+    "point_up": {
+      "vi": "Chỉ lên trên",
+      "category": "hội thoại",
+      "default_expression": "talk",
+      "cycles_per_loop": 1,
+      "motion_beats": [
+        0,
+        0.32,
+        0.65,
+        1
+      ]
+    },
+    "explain_up": {
+      "vi": "Nêu ý kiến",
+      "category": "hội thoại",
+      "default_expression": "talk",
+      "cycles_per_loop": 1,
+      "motion_beats": [
+        0,
+        0.3,
+        0.65,
+        1
+      ]
+    },
+    "raise_hand": {
+      "vi": "Giơ tay",
+      "category": "hội thoại",
+      "default_expression": "happy",
+      "cycles_per_loop": 1,
+      "motion_beats": [
+        0,
+        0.3,
+        0.65,
+        1
+      ]
+    },
+    "think": {
+      "vi": "Chống cằm suy nghĩ",
+      "category": "hội thoại",
+      "default_expression": "thinking",
+      "cycles_per_loop": 1,
+      "motion_beats": [
+        0,
+        0.3,
+        0.65,
+        1
+      ]
+    },
+    "idea": {
+      "vi": "Nảy ra ý tưởng",
+      "category": "hội thoại",
+      "default_expression": "excited",
+      "cycles_per_loop": 1,
+      "motion_beats": [
+        0,
+        0.35,
+        0.6,
+        1
+      ]
+    },
+    "confused": {
+      "vi": "Gãi đầu bối rối",
+      "category": "hội thoại",
+      "default_expression": "confused",
+      "cycles_per_loop": 1,
+      "motion_beats": [
+        0,
+        0.3,
+        0.65,
+        1
+      ]
+    },
+    "wave": {
+      "vi": "Vẫy tay",
+      "category": "hội thoại",
+      "default_expression": "happy",
+      "cycles_per_loop": 1,
+      "motion_beats": [
+        0,
+        0.25,
+        0.5,
+        0.75,
+        1
+      ]
+    },
+    "shrug": {
+      "vi": "Nhún vai",
+      "category": "hội thoại",
+      "default_expression": "confused",
+      "cycles_per_loop": 1,
+      "motion_beats": [
+        0,
+        0.35,
+        0.65,
+        1
+      ]
+    },
+    "arms_crossed": {
+      "vi": "Khoanh tay",
+      "category": "cảm xúc",
+      "default_expression": "skeptical",
+      "cycles_per_loop": 1,
+      "motion_beats": [
+        0,
+        0.35,
+        0.7,
+        1
+      ]
+    },
+    "hands_on_hips": {
+      "vi": "Chống nạnh",
+      "category": "cảm xúc",
+      "default_expression": "proud",
+      "cycles_per_loop": 1,
+      "motion_beats": [
+        0,
+        0.35,
+        0.7,
+        1
+      ]
+    },
+    "walk": {
+      "vi": "Đi tại chỗ",
+      "category": "di chuyển",
+      "default_expression": "happy",
+      "cycles_per_loop": 2,
+      "motion_beats": [
+        0,
+        0.25,
+        0.5,
+        0.75,
+        1
+      ]
+    },
+    "run": {
+      "vi": "Chạy tại chỗ",
+      "category": "di chuyển",
+      "default_expression": "determined",
+      "cycles_per_loop": 3,
+      "motion_beats": [
+        0,
+        0.25,
+        0.5,
+        0.75,
+        1
+      ]
+    },
+    "celebrate": {
+      "vi": "Ăn mừng",
+      "category": "cảm xúc",
+      "default_expression": "laugh",
+      "cycles_per_loop": 1,
+      "motion_beats": [
+        0,
+        0.3,
+        0.6,
+        1
+      ]
+    },
+    "bow": {
+      "vi": "Cúi chào",
+      "category": "hội thoại",
+      "default_expression": "happy",
+      "cycles_per_loop": 1,
+      "motion_beats": [
+        0,
+        0.38,
+        0.68,
+        1
+      ]
+    },
+    "facepalm": {
+      "vi": "Ôm mặt",
+      "category": "cảm xúc",
+      "default_expression": "sad",
+      "cycles_per_loop": 1,
+      "motion_beats": [
+        0,
+        0.4,
+        0.7,
+        1
+      ]
+    },
+    "surprised": {
+      "vi": "Giật mình",
+      "category": "cảm xúc",
+      "default_expression": "surprised",
+      "cycles_per_loop": 1,
+      "motion_beats": [
+        0,
+        0.3,
+        0.65,
+        1
+      ]
+    },
+    "clap": {
+      "vi": "Vỗ tay",
+      "category": "cảm xúc",
+      "default_expression": "happy",
+      "cycles_per_loop": 2,
+      "motion_beats": [
+        0,
+        0.25,
+        0.5,
+        0.75,
+        1
+      ]
+    },
+    "listen": {
+      "vi": "Chú ý lắng nghe",
+      "category": "hội thoại",
+      "default_expression": "curious",
+      "cycles_per_loop": 1,
+      "motion_beats": [
+        0,
+        0.35,
+        0.7,
+        1
+      ]
+    },
+    "nod": {
+      "vi": "Gật đầu đồng ý",
+      "category": "hội thoại",
+      "default_expression": "happy",
+      "cycles_per_loop": 1,
+      "motion_beats": [
+        0,
+        0.3,
+        0.55,
+        0.8,
+        1
+      ]
+    },
+    "shake_head": {
+      "vi": "Lắc đầu phản đối",
+      "category": "hội thoại",
+      "default_expression": "skeptical",
+      "cycles_per_loop": 1,
+      "motion_beats": [
+        0,
+        0.25,
+        0.5,
+        0.75,
+        1
+      ]
+    },
+    "reach": {
+      "vi": "Vươn tay lấy",
+      "category": "hội thoại",
+      "default_expression": "determined",
+      "cycles_per_loop": 1,
+      "motion_beats": [
+        0,
+        0.4,
+        0.7,
+        1
+      ]
+    },
+    "jump": {
+      "vi": "Nhảy lên",
+      "category": "di chuyển",
+      "default_expression": "excited",
+      "cycles_per_loop": 1,
+      "motion_beats": [
+        0,
+        0.35,
+        0.6,
+        1
+      ]
+    },
+    "dance": {
+      "vi": "Nhảy múa",
+      "category": "di chuyển",
+      "default_expression": "happy",
+      "cycles_per_loop": 1,
+      "motion_beats": [
+        0,
+        0.25,
+        0.5,
+        0.75,
+        1
+      ]
+    },
+    "stretch": {
+      "vi": "Vươn vai",
+      "category": "di chuyển",
+      "default_expression": "sleepy",
+      "cycles_per_loop": 1,
+      "motion_beats": [
+        0,
+        0.4,
+        0.7,
+        1
+      ]
+    },
+    "sneak": {
+      "vi": "Rón rén",
+      "category": "di chuyển",
+      "default_expression": "worried",
+      "cycles_per_loop": 1,
+      "motion_beats": [
+        0,
+        0.25,
+        0.5,
+        0.75,
+        1
+      ]
+    },
+    "step_back": {
+      "vi": "Lùi lại",
+      "category": "di chuyển",
+      "default_expression": "worried",
+      "cycles_per_loop": 1,
+      "motion_beats": [
+        0,
+        0.35,
+        0.7,
+        1
+      ]
+    },
+    "salute": {
+      "vi": "Chào kiểu quân lệnh",
+      "category": "hội thoại",
+      "default_expression": "proud",
+      "cycles_per_loop": 1,
+      "motion_beats": [
+        0,
+        0.28,
+        0.65,
+        1
+      ]
+    },
+    "beckon": {
+      "vi": "Ra hiệu lại gần",
+      "category": "hội thoại",
+      "default_expression": "happy",
+      "cycles_per_loop": 1,
+      "motion_beats": [
+        0,
+        0.25,
+        0.5,
+        0.75,
+        1
+      ]
+    },
+    "whisper": {
+      "vi": "Nói thầm",
+      "category": "hội thoại",
+      "default_expression": "talk",
+      "cycles_per_loop": 1,
+      "motion_beats": [
+        0,
+        0.3,
+        0.55,
+        0.8,
+        1
+      ]
+    },
+    "present_left": {
+      "vi": "Giới thiệu bên trái",
+      "category": "hội thoại",
+      "default_expression": "talk",
+      "cycles_per_loop": 1,
+      "motion_beats": [
+        0,
+        0.35,
+        0.7,
+        1
+      ]
+    },
+    "present_right": {
+      "vi": "Giới thiệu bên phải",
+      "category": "hội thoại",
+      "default_expression": "talk",
+      "cycles_per_loop": 1,
+      "motion_beats": [
+        0,
+        0.35,
+        0.7,
+        1
+      ]
+    },
+    "apologize": {
+      "vi": "Xin lỗi",
+      "category": "hội thoại",
+      "default_expression": "embarrassed",
+      "cycles_per_loop": 1,
+      "motion_beats": [
+        0,
+        0.35,
+        0.7,
+        1
+      ]
+    },
+    "plead": {
+      "vi": "Năn nỉ",
+      "category": "hội thoại",
+      "default_expression": "worried",
+      "cycles_per_loop": 1,
+      "motion_beats": [
+        0,
+        0.3,
+        0.6,
+        1
+      ]
+    },
+    "laugh_body": {
+      "vi": "Cười nghiêng người",
+      "category": "cảm xúc",
+      "default_expression": "laugh",
+      "cycles_per_loop": 1,
+      "motion_beats": [
+        0,
+        0.3,
+        0.55,
+        0.8,
+        1
+      ]
+    },
+    "cry_body": {
+      "vi": "Khóc và lau nước mắt",
+      "category": "cảm xúc",
+      "default_expression": "crying",
+      "cycles_per_loop": 1,
+      "motion_beats": [
+        0,
+        0.35,
+        0.65,
+        1
+      ]
+    },
+    "tremble": {
+      "vi": "Run rẩy",
+      "category": "cảm xúc",
+      "default_expression": "worried",
+      "cycles_per_loop": 2,
+      "motion_beats": [
+        0,
+        0.125,
+        0.25,
+        0.375,
+        0.5,
+        0.625,
+        0.75,
+        0.875,
+        1
+      ]
+    },
+    "sigh": {
+      "vi": "Thở dài",
+      "category": "cảm xúc",
+      "default_expression": "sad",
+      "cycles_per_loop": 1,
+      "motion_beats": [
+        0,
+        0.4,
+        0.7,
+        1
+      ]
+    },
+    "angry_stomp": {
+      "vi": "Giậm chân tức giận",
+      "category": "cảm xúc",
+      "default_expression": "angry",
+      "cycles_per_loop": 1,
+      "motion_beats": [
+        0,
+        0.3,
+        0.5,
+        0.75,
+        1
+      ]
+    },
+    "shy": {
+      "vi": "Ngại ngùng",
+      "category": "cảm xúc",
+      "default_expression": "embarrassed",
+      "cycles_per_loop": 1,
+      "motion_beats": [
+        0,
+        0.35,
+        0.7,
+        1
+      ]
+    },
+    "sleepy_nod": {
+      "vi": "Gật gù buồn ngủ",
+      "category": "cảm xúc",
+      "default_expression": "sleepy",
+      "cycles_per_loop": 1,
+      "motion_beats": [
+        0,
+        0.4,
+        0.65,
+        1
+      ]
+    },
+    "relieved": {
+      "vi": "Thở phào",
+      "category": "cảm xúc",
+      "default_expression": "happy",
+      "cycles_per_loop": 1,
+      "motion_beats": [
+        0,
+        0.35,
+        0.7,
+        1
+      ]
+    },
+    "march": {
+      "vi": "Bước đều tại chỗ",
+      "category": "di chuyển",
+      "default_expression": "determined",
+      "cycles_per_loop": 2,
+      "motion_beats": [
+        0,
+        0.25,
+        0.5,
+        0.75,
+        1
+      ]
+    },
+    "tiptoe": {
+      "vi": "Nhón chân",
+      "category": "di chuyển",
+      "default_expression": "curious",
+      "cycles_per_loop": 2,
+      "motion_beats": [
+        0,
+        0.25,
+        0.5,
+        0.75,
+        1
+      ]
+    },
+    "side_step": {
+      "vi": "Bước ngang tại chỗ",
+      "category": "di chuyển",
+      "default_expression": "happy",
+      "cycles_per_loop": 2,
+      "motion_beats": [
+        0,
+        0.3,
+        0.5,
+        0.8,
+        1
+      ]
+    },
+    "stumble": {
+      "vi": "Loạng choạng",
+      "category": "di chuyển",
+      "default_expression": "surprised",
+      "cycles_per_loop": 1,
+      "motion_beats": [
+        0,
+        0.25,
+        0.55,
+        0.8,
+        1
+      ]
+    },
+    "squat": {
+      "vi": "Ngồi xổm",
+      "category": "di chuyển",
+      "default_expression": "determined",
+      "cycles_per_loop": 1,
+      "motion_beats": [
+        0,
+        0.4,
+        0.7,
+        1
+      ]
+    },
+    "kneel": {
+      "vi": "Quỳ một gối",
+      "category": "di chuyển",
+      "default_expression": "neutral",
+      "cycles_per_loop": 1,
+      "motion_beats": [
+        0,
+        0.4,
+        0.7,
+        1
+      ]
+    },
+    "sit": {
+      "vi": "Ngồi, ghép ghế riêng",
+      "category": "di chuyển",
+      "default_expression": "neutral",
+      "cycles_per_loop": 1,
+      "motion_beats": [
+        0,
+        0.3,
+        0.55,
+        0.8,
+        1
+      ]
+    },
+    "hop": {
+      "vi": "Nhảy một chân",
+      "category": "di chuyển",
+      "default_expression": "excited",
+      "cycles_per_loop": 1,
+      "motion_beats": [
+        0,
+        0.35,
+        0.6,
+        1
+      ]
+    },
+    "kick": {
+      "vi": "Đá chân",
+      "category": "di chuyển",
+      "default_expression": "determined",
+      "cycles_per_loop": 1,
+      "motion_beats": [
+        0,
+        0.3,
+        0.55,
+        0.8,
+        1
+      ]
+    },
+    "push": {
+      "vi": "Đẩy vật",
+      "category": "hành động",
+      "default_expression": "determined",
+      "cycles_per_loop": 1,
+      "motion_beats": [
+        0,
+        0.4,
+        0.7,
+        1
+      ]
+    },
+    "pull": {
+      "vi": "Kéo vật",
+      "category": "hành động",
+      "default_expression": "determined",
+      "cycles_per_loop": 1,
+      "motion_beats": [
+        0,
+        0.35,
+        0.65,
+        1
+      ]
+    },
+    "stretch_side": {
+      "vi": "Nghiêng người giãn cơ",
+      "category": "hành động",
+      "default_expression": "sleepy",
+      "cycles_per_loop": 1,
+      "motion_beats": [
+        0,
+        0.4,
+        0.7,
+        1
+      ]
+    },
+    "shadow_box": {
+      "vi": "Đấm gió",
+      "category": "hành động",
+      "default_expression": "determined",
+      "cycles_per_loop": 2,
+      "motion_beats": [
+        0,
+        0.25,
+        0.5,
+        0.75,
+        1
+      ]
+    },
+    "reach_high": {
+      "vi": "Vươn lấy trên cao",
+      "category": "hành động",
+      "default_expression": "determined",
+      "cycles_per_loop": 1,
+      "motion_beats": [
+        0,
+        0.35,
+        0.65,
+        1
+      ]
+    },
+    "duck": {
+      "vi": "Cúi tránh",
+      "category": "hành động",
+      "default_expression": "worried",
+      "cycles_per_loop": 1,
+      "motion_beats": [
+        0,
+        0.3,
+        0.65,
+        1
+      ]
+    },
+    "spot_sale": {
+      "vi": "Nhìn thấy biển giảm giá",
+      "category": "hội thoại",
+      "default_expression": "excited",
+      "cycles_per_loop": 1,
+      "motion_beats": [
+        0,
+        0.28,
+        0.55,
+        0.8,
+        1
+      ]
+    },
+    "calculate_discount": {
+      "vi": "Nhẩm tính tiền giảm",
+      "category": "hội thoại",
+      "default_expression": "thinking",
+      "cycles_per_loop": 1,
+      "motion_beats": [
+        0,
+        0.3,
+        0.6,
+        0.8,
+        1
+      ]
+    },
+    "pay_cashier": {
+      "vi": "Đưa tiền ra quầy",
+      "category": "hành động",
+      "default_expression": "surprised",
+      "cycles_per_loop": 1,
+      "motion_beats": [
+        0,
+        0.35,
+        0.6,
+        1
+      ]
+    },
+    "compare_prices": {
+      "vi": "Cân nhắc hai mức giá",
+      "category": "hội thoại",
+      "default_expression": "curious",
+      "cycles_per_loop": 1,
+      "motion_beats": [
+        0,
+        0.3,
+        0.65,
+        1
+      ]
+    },
+    "write_formula": {
+      "vi": "Viết công thức lên bảng",
+      "category": "hội thoại",
+      "default_expression": "talk",
+      "cycles_per_loop": 1,
+      "motion_beats": [
+        0,
+        0.3,
+        0.55,
+        0.8,
+        1
+      ]
+    },
+    "empty_wallet": {
+      "vi": "Đau ví vì mất tiền",
+      "category": "cảm xúc",
+      "default_expression": "crying",
+      "cycles_per_loop": 1,
+      "motion_beats": [
+        0,
+        0.35,
+        0.7,
+        1
+      ]
+    },
+    "look_around": {
+      "vi": "Nhìn quanh tìm kiếm",
+      "category": "hội thoại",
+      "default_expression": "curious",
+      "cycles_per_loop": 1,
+      "motion_beats": [
+        0,
+        0.28,
+        0.57,
+        0.82,
+        1
+      ]
+    },
+    "lean_in": {
+      "vi": "Nghiêng người lắng nghe",
+      "category": "hội thoại",
+      "default_expression": "curious",
+      "cycles_per_loop": 1,
+      "motion_beats": [
+        0,
+        0.36,
+        0.68,
+        1
+      ]
+    },
+    "lean_away": {
+      "vi": "Ngả người tránh ra",
+      "category": "cảm xúc",
+      "default_expression": "worried",
+      "cycles_per_loop": 1,
+      "motion_beats": [
+        0,
+        0.32,
+        0.62,
+        1
+      ]
+    },
+    "count_fingers": {
+      "vi": "Đếm bằng ngón tay",
+      "category": "hội thoại",
+      "default_expression": "focused",
+      "cycles_per_loop": 1,
+      "motion_beats": [
+        0,
+        0.25,
+        0.5,
+        0.75,
+        1
+      ]
+    },
+    "point_down": {
+      "vi": "Chỉ xuống dưới",
+      "category": "hội thoại",
+      "default_expression": "talk",
+      "cycles_per_loop": 1,
+      "motion_beats": [
+        0,
+        0.3,
+        0.63,
+        1
+      ]
+    },
+    "show_two": {
+      "vi": "Đưa ra hai phương án",
+      "category": "hội thoại",
+      "default_expression": "talk",
+      "cycles_per_loop": 1,
+      "motion_beats": [
+        0,
+        0.3,
+        0.62,
+        1
+      ]
+    },
+    "offer_hand": {
+      "vi": "Đưa tay mời hoặc trao",
+      "category": "hội thoại",
+      "default_expression": "happy",
+      "cycles_per_loop": 1,
+      "motion_beats": [
+        0,
+        0.36,
+        0.68,
+        1
+      ]
+    },
+    "block": {
+      "vi": "Giơ tay ngăn lại",
+      "category": "cảm xúc",
+      "default_expression": "determined",
+      "cycles_per_loop": 1,
+      "motion_beats": [
+        0,
+        0.32,
+        0.63,
+        1
+      ]
+    },
+    "check_time": {
+      "vi": "Nhìn đồng hồ trên tay",
+      "category": "hội thoại",
+      "default_expression": "worried",
+      "cycles_per_loop": 1,
+      "motion_beats": [
+        0,
+        0.34,
+        0.66,
+        1
+      ]
+    },
+    "double_take": {
+      "vi": "Giật mình nhìn lại",
+      "category": "cảm xúc",
+      "default_expression": "surprised",
+      "cycles_per_loop": 1,
+      "motion_beats": [
+        0,
+        0.23,
+        0.43,
+        0.7,
+        1
+      ]
+    },
+    "flinch": {
+      "vi": "Co người vì hoảng",
+      "category": "cảm xúc",
+      "default_expression": "panic",
+      "cycles_per_loop": 1,
+      "motion_beats": [
+        0,
+        0.22,
+        0.5,
+        0.77,
+        1
+      ]
+    },
+    "wait": {
+      "vi": "Đứng đợi sốt ruột",
+      "category": "cảm xúc",
+      "default_expression": "bored",
+      "cycles_per_loop": 1,
+      "motion_beats": [
+        0,
+        0.22,
+        0.42,
+        0.62,
+        0.82,
+        1
+      ]
+    },
+    "quiet_joy": {
+      "vi": "Vui mừng nhẹ",
+      "category": "cảm xúc",
+      "default_expression": "grateful",
+      "cycles_per_loop": 1,
+      "motion_beats": [
+        0,
+        0.35,
+        0.62,
+        1
+      ]
+    },
+    "pace": {
+      "vi": "Đi qua lại suy nghĩ",
+      "category": "di chuyển",
+      "default_expression": "thinking",
+      "cycles_per_loop": 2,
+      "motion_beats": [
+        0,
+        0.25,
+        0.5,
+        0.75,
+        1
+      ]
+    }
+  },
+  "expressions": {
+    "neutral": "Bình thường",
+    "happy": "Vui",
+    "talk": "Đang nói",
+    "surprised": "Ngạc nhiên",
+    "sad": "Buồn",
+    "angry": "Giận",
+    "thinking": "Suy nghĩ",
+    "confused": "Bối rối",
+    "laugh": "Cười lớn",
+    "wink": "Nháy mắt",
+    "bored": "Chán",
+    "excited": "Hào hứng",
+    "blink": "Chớp mắt",
+    "determined": "Quyết tâm",
+    "worried": "Lo lắng",
+    "embarrassed": "Ngượng ngùng",
+    "sleepy": "Buồn ngủ",
+    "curious": "Tò mò",
+    "proud": "Tự hào",
+    "crying": "Khóc",
+    "skeptical": "Hoài nghi",
+    "focused": "Tập trung",
+    "panic": "Hoảng hốt",
+    "smirk": "Cười nhếch mép",
+    "amazed": "Kinh ngạc thích thú",
+    "grateful": "Biết ơn",
+    "frustrated": "Bực bội"
+  },
+  "effects": {
+    "none": "Không hiệu ứng",
+    "surprise": "Tia bất ngờ",
+    "thought": "Bong bóng suy nghĩ",
+    "idea": "Bật ý tưởng",
+    "speed": "Vệt tốc độ",
+    "sparkle": "Lấp lánh vui mừng",
+    "sweat": "Giọt mồ hôi lo lắng",
+    "question": "Dấu hỏi bối rối",
+    "impact": "Cú sốc mạnh",
+    "anger": "Tia giận dữ",
+    "rain": "Mưa quanh nhân vật"
+  },
+  "story_sequences": {
+    "arrival_greeting": {
+      "duration_seconds": 5.0,
+      "beats": 4
+    },
+    "confusion_to_idea": {
+      "duration_seconds": 5.2,
+      "beats": 5
+    },
+    "debate_and_agree": {
+      "duration_seconds": 5.5,
+      "beats": 6
+    },
+    "explain_and_point": {
+      "duration_seconds": 5.7,
+      "beats": 5
+    },
+    "explain_with_numbers": {
+      "duration_seconds": 5.8,
+      "beats": 6
+    },
+    "impatient_waiting": {
+      "duration_seconds": 6.3,
+      "beats": 6
+    },
+    "search_and_discover": {
+      "duration_seconds": 6.4,
+      "beats": 6
+    },
+    "small_victory": {
+      "duration_seconds": 4.8,
+      "beats": 5
+    },
+    "sudden_scary_news": {
+      "duration_seconds": 4.5,
+      "beats": 6
+    },
+    "surprise_escape": {
+      "duration_seconds": 4.9,
+      "beats": 5
+    }
+  }
+}

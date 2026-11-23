@@ -1,0 +1,431 @@
+1
+00:00:01,041 --> 00:00:03,281
+Nam: Tao vừa phát hiện một cách làm giàu.
+
+2
+00:00:04,212 --> 00:00:05,412
+Minh: Lại đa cấp à?
+
+3
+00:00:06,343 --> 00:00:09,365
+Nam: Không. Tao muốn dự đoán phí ship của đối thủ để đặt
+
+4
+00:00:09,365 --> 00:00:12,447
+Nam: giá cạnh tranh. Nhưng tao chỉ có dữ liệu của bốn đơn
+
+5
+00:00:12,447 --> 00:00:12,743
+Nam: hàng.
+
+6
+00:00:13,674 --> 00:00:14,314
+Minh: Đưa đây.
+
+7
+00:00:15,245 --> 00:00:17,565
+Nam: Đố mày đơn 5 km bao nhiêu tiền?
+
+8
+00:00:18,495 --> 00:00:19,775
+Minh: Khoảng 28 nghìn.
+
+9
+00:00:20,706 --> 00:00:22,226
+Nam: Mày hack hệ thống à?
+
+10
+00:00:23,157 --> 00:00:25,077
+Minh: Không. Linear Regression.
+
+11
+00:00:26,008 --> 00:00:28,168
+Nam: Mày vừa đọc tên một loại thuốc đúng không?
+
+12
+00:00:29,099 --> 00:00:31,957
+Minh: Hồi quy tuyến tính. Nó dùng dữ liệu để tìm ra một mối
+
+13
+00:00:31,957 --> 00:00:33,899
+Minh: quan hệ gần đúng giữa hai đại lượng.
+
+14
+00:00:36,630 --> 00:00:39,423
+Minh: Giả sử trục ngang là khoảng cách, trục dọc là phí
+
+15
+00:00:39,423 --> 00:00:41,190
+Minh: ship. Mỗi đơn hàng là một điểm.
+
+16
+00:00:42,710 --> 00:00:44,150
+Nam: Rồi AI làm gì?
+
+17
+00:00:45,670 --> 00:00:47,830
+Minh: Tìm một đường thẳng phù hợp với những điểm này.
+
+18
+00:00:49,350 --> 00:00:53,061
+Minh: x là khoảng cách. w là hệ số góc. b là hệ số chặn. Còn
+
+19
+00:00:53,061 --> 00:00:54,710
+Minh: y mũ là giá trị dự đoán.
+
+20
+00:00:56,230 --> 00:00:58,310
+Nam: Thế w và b bằng bao nhiêu?
+
+21
+00:00:59,830 --> 00:01:01,830
+Minh: Đấy là thứ mô hình phải học từ dữ liệu.
+
+22
+00:01:03,350 --> 00:01:06,870
+Nam: Tao chọn w bằng 100, b bằng 500 được không?
+
+23
+00:01:08,390 --> 00:01:11,510
+Minh: Được. Với 1 km, mày dự đoán phí ship 600 nghìn.
+
+24
+00:01:13,030 --> 00:01:14,470
+Nam: Ship bằng trực thăng à?
+
+25
+00:01:15,990 --> 00:01:18,310
+Minh: Đấy. Chọn bừa thì có thể sai rất xa.
+
+26
+00:01:20,330 --> 00:01:22,890
+Nam: Nhưng AI có mắt đâu mà biết đường nào đúng?
+
+27
+00:01:23,110 --> 00:01:26,074
+Minh: Nó không cần mắt. Nó có hàm mất mát, gọi là Loss
+
+28
+00:01:26,074 --> 00:01:26,630
+Minh: Function.
+
+29
+00:01:26,850 --> 00:01:30,466
+Minh: Giả sử đơn 2 km có phí thật là 19 nghìn, nhưng mô hình
+
+30
+00:01:30,466 --> 00:01:33,010
+Minh: dự đoán 17 nghìn. Sai lệch là 2 nghìn.
+
+31
+00:01:33,230 --> 00:01:34,190
+Nam: Sai thì sửa.
+
+32
+00:01:34,410 --> 00:01:37,391
+Minh: Nói dễ nhỉ. Có hàng triệu đơn hàng, làm sao biết sửa
+
+33
+00:01:37,391 --> 00:01:37,850
+Minh: thế nào?
+
+34
+00:01:38,070 --> 00:01:40,390
+Minh: Một cách phổ biến là dùng Mean Squared Error.
+
+35
+00:01:40,610 --> 00:01:42,370
+Nam: Sao phải bình phương sai số?
+
+36
+00:01:42,590 --> 00:01:45,381
+Minh: Vì nếu không bình phương, lỗi âm với lỗi dương có thể
+
+37
+00:01:45,381 --> 00:01:48,173
+Minh: triệt tiêu nhau. Ngoài ra, bình phương làm lỗi lớn bị
+
+38
+00:01:48,173 --> 00:01:48,910
+Minh: phạt nặng hơn.
+
+39
+00:01:49,130 --> 00:01:49,850
+Nam: Ví dụ?
+
+40
+00:01:50,070 --> 00:01:53,417
+Minh: Sai 2 thì bình phương là 4. Sai 10 thì bình phương là
+
+41
+00:01:53,417 --> 00:01:53,670
+Minh: 100.
+
+42
+00:01:53,890 --> 00:01:56,770
+Nam: À, tức là càng sai lớn càng bị phạt nặng.
+
+43
+00:01:56,990 --> 00:02:00,142
+Minh: Chính xác. Mô hình tìm w và b sao cho tổng bình phương
+
+44
+00:02:00,142 --> 00:02:01,310
+Minh: các sai số nhỏ nhất.
+
+45
+00:02:01,530 --> 00:02:04,825
+Nam: Giống cuộc đời nhỉ. Không cần hoàn hảo, chỉ cần ít sai
+
+46
+00:02:04,825 --> 00:02:05,130
+Nam: nhất.
+
+47
+00:02:05,350 --> 00:02:08,138
+Minh: Khác một chút. Cuộc đời đôi khi sai một lần là hết cơ
+
+48
+00:02:08,138 --> 00:02:09,190
+Minh: hội tính trung bình.
+
+49
+00:02:11,410 --> 00:02:14,610
+Nam: Sao đang học AI mà mày chuyển sang dạy đạo lý?
+
+50
+00:02:15,280 --> 00:02:17,590
+Nam: Nhưng cụ thể nó sửa w và b kiểu gì?
+
+51
+00:02:17,760 --> 00:02:19,580
+Minh: Một phương pháp là Gradient Descent.
+
+52
+00:02:19,750 --> 00:02:22,259
+Minh: Tưởng tượng MSE là độ cao của một ngọn đồi. Ta muốn
+
+53
+00:02:22,259 --> 00:02:23,390
+Minh: xuống vị trí thấp nhất.
+
+54
+00:02:23,560 --> 00:02:24,680
+Nam: Thế cứ chạy xuống dốc?
+
+55
+00:02:24,850 --> 00:02:27,905
+Minh: Gần như thế. Ta tính đạo hàm để biết hướng thay đổi w
+
+56
+00:02:27,905 --> 00:02:29,750
+Minh: và b làm MSE giảm, rồi cập nhật.
+
+57
+00:02:29,920 --> 00:02:30,900
+Nam: Alpha là gì?
+
+58
+00:02:31,070 --> 00:02:33,590
+Minh: Learning Rate. Nó quyết định độ lớn mỗi bước cập nhật.
+
+59
+00:02:33,760 --> 00:02:35,580
+Nam: Alpha càng lớn thì học càng nhanh?
+
+60
+00:02:35,750 --> 00:02:38,243
+Minh: Không hẳn. Lớn quá có thể nhảy qua điểm tối ưu, thậm
+
+61
+00:02:38,243 --> 00:02:40,160
+Minh: chí khiến sai số tăng hoặc không hội tụ.
+
+62
+00:02:40,330 --> 00:02:42,780
+Nam: Như đi xuống cầu thang mà nhảy một phát mười bậc?
+
+63
+00:02:42,950 --> 00:02:45,396
+Minh: Đúng. Mày sẽ học được bài học về trọng lực trước khi
+
+64
+00:02:45,396 --> 00:02:45,960
+Minh: học xong AI.
+
+65
+00:02:46,130 --> 00:02:48,672
+Minh: Với dữ liệu này, nghiệm bình phương tối thiểu là y dự
+
+66
+00:02:48,672 --> 00:02:51,070
+Minh: đoán bằng 3 phẩy 2 nhân x cộng 12. Đơn vị là nghìn
+
+67
+00:02:51,070 --> 00:02:51,310
+Minh: đồng.
+
+68
+00:02:51,480 --> 00:02:54,910
+Nam: Tức là thêm 1 km thì giá dự đoán tăng 3.200 đồng?
+
+69
+00:02:55,080 --> 00:02:57,433
+Minh: Đúng theo mô hình. Còn 12 nghìn là phí dự đoán khi
+
+70
+00:02:57,433 --> 00:02:59,974
+Minh: khoảng cách bằng 0, không nhất thiết là mức phí mở đơn
+
+71
+00:02:59,974 --> 00:03:00,680
+Minh: thật ngoài đời.
+
+72
+00:03:00,850 --> 00:03:03,090
+Nam: Và 5 km là 28 nghìn!
+
+73
+00:03:03,260 --> 00:03:04,660
+Minh: Chính xác về mặt tính toán.
+
+74
+00:03:05,572 --> 00:03:08,052
+Nam: AI nói 28 nghìn. Để xem!
+
+75
+00:03:08,514 --> 00:03:09,714
+Nam: NĂM MƯƠI LĂM NGHÌN?!
+
+76
+00:03:10,176 --> 00:03:11,776
+Nam: AI của mày ngu rồi!
+
+77
+00:03:12,238 --> 00:03:14,157
+Minh: Ngoài trời đang mưa rất to đúng không?
+
+78
+00:03:14,619 --> 00:03:15,259
+Nam: Ừ.
+
+79
+00:03:15,721 --> 00:03:17,481
+Minh: Đơn đang giờ cao điểm đúng không?
+
+80
+00:03:17,943 --> 00:03:18,503
+Nam: Ừ.
+
+81
+00:03:18,965 --> 00:03:21,660
+Minh: Dữ liệu ban đầu của mày có thông tin về trời mưa với
+
+82
+00:03:21,660 --> 00:03:22,645
+Minh: giờ cao điểm không?
+
+83
+00:03:23,107 --> 00:03:23,747
+Nam: ...Không.
+
+84
+00:03:24,209 --> 00:03:25,889
+Minh: Vậy tại sao mày đòi nó biết?
+
+85
+00:03:27,001 --> 00:03:29,741
+Minh: Mô hình chỉ được học mối liên hệ giữa khoảng cách và
+
+86
+00:03:29,741 --> 00:03:32,533
+Minh: giá. Nó chưa được cung cấp các yếu tố khác có thể tác
+
+87
+00:03:32,533 --> 00:03:33,481
+Minh: động đến phí ship.
+
+88
+00:03:33,942 --> 00:03:35,062
+Nam: Thế phải làm gì?
+
+89
+00:03:35,524 --> 00:03:38,443
+Minh: Thu thập thêm dữ liệu, thêm đặc trưng phù hợp, chẳng
+
+90
+00:03:38,443 --> 00:03:41,474
+Minh: hạn thời tiết và giờ đặt hàng. Ta có thể dùng Multiple
+
+91
+00:03:41,474 --> 00:03:42,484
+Minh: Linear Regression.
+
+92
+00:03:42,946 --> 00:03:46,066
+Nam: Vậy cứ thêm thật nhiều dữ liệu là AI sẽ biết tất cả?
+
+93
+00:03:46,528 --> 00:03:49,374
+Minh: Không. Dữ liệu tốt giúp mô hình có cơ hội dự đoán tốt
+
+94
+00:03:49,374 --> 00:03:52,113
+Minh: hơn, nhưng không bảo đảm nó đúng. Còn phải kiểm tra
+
+95
+00:03:52,113 --> 00:03:54,368
+Minh: trên dữ liệu chưa từng dùng để huấn luyện.
+
+96
+00:03:55,280 --> 00:03:57,449
+Nam: Tức là AI không thật sự hiểu giá ship?
+
+97
+00:03:57,619 --> 00:03:59,695
+Minh: Nó học những quy luật thống kê trong dữ liệu, chứ
+
+98
+00:03:59,695 --> 00:04:01,814
+Minh: không tự động hiểu toàn bộ cơ chế vận hành của thế
+
+99
+00:04:01,814 --> 00:04:02,026
+Minh: giới.
+
+100
+00:04:02,196 --> 00:04:05,210
+Nam: Thế một mô hình có MSE rất thấp vẫn có thể dự đoán
+
+101
+00:04:05,210 --> 00:04:05,451
+Nam: sai?
+
+102
+00:04:05,621 --> 00:04:07,732
+Minh: Có. Đặc biệt khi dữ liệu mới khác dữ liệu huấn luyện,
+
+103
+00:04:07,732 --> 00:04:09,485
+Minh: hoặc khi mô hình thiếu những biến cần thiết.
+
+104
+00:04:09,655 --> 00:04:12,628
+Nam: Hiểu rồi. Dữ liệu không đủ mà tự tin quá thì rất nguy
+
+105
+00:04:12,628 --> 00:04:12,909
+Nam: hiểm.
+
+106
+00:04:13,079 --> 00:04:13,554
+Minh: Đúng.
+
+107
+00:04:13,724 --> 00:04:15,486
+Nam: Giống mày lúc bảo 28 nghìn ấy.
+
+108
+00:04:17,056 --> 00:04:19,972
+Nam: Nhưng 55 nghìn tiền ship là sự thật tuyệt đối nhé!

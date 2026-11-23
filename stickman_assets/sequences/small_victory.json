@@ -1,0 +1,11 @@
+{
+  "canvas": [960, 540], "ground_y": 460, "scale": 0.85,
+  "background": "#f7f8fa", "initial_x": 300,
+  "beats": [
+    {"pose": "think", "duration": 1.2, "to_x": 300, "transition": 0, "expression": "focused", "effect": "thought"},
+    {"pose": "idea", "duration": 0.9, "to_x": 300, "transition": 0.20, "expression": "amazed", "effect": "idea"},
+    {"pose": "quiet_joy", "duration": 1.1, "to_x": 300, "transition": 0.20, "expression": "grateful", "effect": "sparkle"},
+    {"pose": "offer_hand", "duration": 0.9, "to_x": 310, "transition": 0.20, "expression": "happy"},
+    {"pose": "idle", "duration": 0.7, "to_x": 310, "transition": 0.20, "expression": "proud"}
+  ]
+}

@@ -1,0 +1,1730 @@
+{
+  "duration": 300,
+  "sample_rate": 48000,
+  "sections": [
+    {
+      "index": 0,
+      "start": 0,
+      "end": 40,
+      "title": "MỞ ĐẦU: NGƯỜI ĐÀN ÔNG ĐÁNH BẠI TOÁN HỌC",
+      "lines": [
+        {
+          "index": 0,
+          "display": "Hãy tưởng tượng bạn đang đi ngang qua một cửa hàng quần áo.",
+          "speech": "Hãy tưởng tượng bạn đang đi ngang qua một cửa hàng quần áo.",
+          "raw_duration": 2.8,
+          "section": 0,
+          "start": 0.3,
+          "end": 2.9103
+        },
+        {
+          "index": 1,
+          "display": "Và đập vào mắt bạn là dòng chữ:",
+          "speech": "Và đập vào mắt bạn là dòng chữ:",
+          "raw_duration": 1.84,
+          "section": 0,
+          "start": 3.2103,
+          "end": 4.9256
+        },
+        {
+          "index": 2,
+          "display": "\"GIẢM GIÁ 50%, GIẢM THÊM 50% CHO TOÀN BỘ SẢN PHẨM!\"",
+          "speech": "\"GIẢM GIÁ 50%, GIẢM THÊM 50% CHO TOÀN BỘ SẢN PHẨM!\"",
+          "raw_duration": 3.92,
+          "section": 0,
+          "start": 5.2256,
+          "end": 8.88
+        },
+        {
+          "index": 3,
+          "display": "Khoan đã...",
+          "speech": "Khoan đã...",
+          "raw_duration": 0.8,
+          "section": 0,
+          "start": 9.18,
+          "end": 9.9258
+        },
+        {
+          "index": 4,
+          "display": "50% cộng 50% bằng 100%.",
+          "speech": "50% cộng 50% bằng 100%.",
+          "raw_duration": 3.2,
+          "section": 0,
+          "start": 10.2258,
+          "end": 13.209
+        },
+        {
+          "index": 5,
+          "display": "Tức là... miễn phí?",
+          "speech": "Tức là... miễn phí?",
+          "raw_duration": 1.2,
+          "section": 0,
+          "start": 13.509,
+          "end": 14.6277
+        },
+        {
+          "index": 6,
+          "display": "Sau nhiều năm đi học, cuối cùng bạn cũng tìm ra cách dùng toán học để đánh bại chủ nghĩa tư bản.",
+          "speech": "Sau nhiều năm đi học, cuối cùng bạn cũng tìm ra cách dùng toán học để đánh bại chủ nghĩa tư bản.",
+          "raw_duration": 4.8,
+          "section": 0,
+          "start": 14.9277,
+          "end": 19.4025
+        },
+        {
+          "index": 7,
+          "display": "Bạn bước vào cửa hàng, chọn một chiếc áo giá một triệu đồng, tự tin mang ra quầy thanh toán.",
+          "speech": "Bạn bước vào cửa hàng, chọn một chiếc áo giá một triệu đồng, tự tin mang ra quầy thanh toán.",
+          "raw_duration": 4.56,
+          "section": 0,
+          "start": 19.7025,
+          "end": 23.9536
+        },
+        {
+          "index": 8,
+          "display": "Nhưng nhân viên lại yêu cầu bạn trả 250 nghìn.",
+          "speech": "Nhưng nhân viên lại yêu cầu bạn trả 250 nghìn.",
+          "raw_duration": 2.64,
+          "section": 0,
+          "start": 24.2536,
+          "end": 26.7147
+        },
+        {
+          "index": 9,
+          "display": "Một phần tư triệu đồng!",
+          "speech": "Một phần tư triệu đồng!",
+          "raw_duration": 1.28,
+          "section": 0,
+          "start": 27.0147,
+          "end": 28.208
+        },
+        {
+          "index": 10,
+          "display": "Trong khi theo tính toán của bạn, cửa hàng mới là bên phải trả tiền vì đã làm mất thời gian của một thiên tài toán học.",
+          "speech": "Trong khi theo tính toán của bạn, cửa hàng mới là bên phải trả tiền vì đã làm mất thời gian của một thiên tài toán học.",
+          "raw_duration": 5.6,
+          "section": 0,
+          "start": 28.508,
+          "end": 33.7286
+        },
+        {
+          "index": 11,
+          "display": "Vậy chuyện gì đã xảy ra?",
+          "speech": "Vậy chuyện gì đã xảy ra?",
+          "raw_duration": 1.6,
+          "section": 0,
+          "start": 34.0286,
+          "end": 35.5202
+        },
+        {
+          "index": 12,
+          "display": "Có phải cửa hàng đang lừa bạn?",
+          "speech": "Có phải cửa hàng đang lừa bạn?",
+          "raw_duration": 1.52,
+          "section": 0,
+          "start": 35.8202,
+          "end": 37.2372
+        },
+        {
+          "index": 13,
+          "display": "Hay chính bộ não của bạn vừa tự lừa mình?",
+          "speech": "Hay chính bộ não của bạn vừa tự lừa mình?",
+          "raw_duration": 2.32,
+          "section": 0,
+          "start": 37.5372,
+          "end": 39.7
+        }
+      ],
+      "voice_rate": 1.0727,
+      "pause_seconds": 0.3
+    },
+    {
+      "index": 1,
+      "start": 40,
+      "end": 95,
+      "title": "VẤN ĐỀ KHÔNG NẰM Ở PHÉP CỘNG",
+      "lines": [
+        {
+          "index": 14,
+          "display": "Thực ra phép tính 50 cộng 50 bằng 100 hoàn toàn đúng.",
+          "speech": "Thực ra phép tính 50 cộng 50 bằng 100 hoàn toàn đúng.",
+          "raw_duration": 3.28,
+          "section": 1,
+          "start": 40.5758,
+          "end": 44.303
+        },
+        {
+          "index": 15,
+          "display": "Chỉ có điều... bạn đang cộng hai thứ không nên cộng.",
+          "speech": "Chỉ có điều... bạn đang cộng hai thứ không nên cộng.",
+          "raw_duration": 2.4,
+          "section": 1,
+          "start": 44.8788,
+          "end": 47.6061
+        },
+        {
+          "index": 16,
+          "display": "Hãy nhìn lại chiếc áo một triệu đồng.",
+          "speech": "Hãy nhìn lại chiếc áo một triệu đồng.",
+          "raw_duration": 1.76,
+          "section": 1,
+          "start": 48.1818,
+          "end": 50.1818
+        },
+        {
+          "index": 17,
+          "display": "Lần giảm đầu tiên, cửa hàng lấy đi 50% của một triệu.",
+          "speech": "Lần giảm đầu tiên, cửa hàng lấy đi 50% của một triệu.",
+          "raw_duration": 3.36,
+          "section": 1,
+          "start": 50.7576,
+          "end": 54.5758
+        },
+        {
+          "index": 18,
+          "display": "Tức là 500 nghìn.",
+          "speech": "Tức là 500 nghìn.",
+          "raw_duration": 1.2,
+          "section": 1,
+          "start": 55.1515,
+          "end": 56.5152
+        },
+        {
+          "index": 19,
+          "display": "Chiếc áo bây giờ chỉ còn 500 nghìn.",
+          "speech": "Chiếc áo bây giờ chỉ còn 500 nghìn.",
+          "raw_duration": 2.08,
+          "section": 1,
+          "start": 57.0909,
+          "end": 59.4545
+        },
+        {
+          "index": 20,
+          "display": "Và đây là lúc bi kịch bắt đầu.",
+          "speech": "Và đây là lúc bi kịch bắt đầu.",
+          "raw_duration": 1.76,
+          "section": 1,
+          "start": 60.0303,
+          "end": 62.0303
+        },
+        {
+          "index": 21,
+          "display": "Lần giảm thứ hai, cửa hàng tiếp tục giảm 50%.",
+          "speech": "Lần giảm thứ hai, cửa hàng tiếp tục giảm 50%.",
+          "raw_duration": 3.04,
+          "section": 1,
+          "start": 62.6061,
+          "end": 66.0606
+        },
+        {
+          "index": 22,
+          "display": "Nhưng 50% của cái gì?",
+          "speech": "Nhưng 50% của cái gì?",
+          "raw_duration": 1.68,
+          "section": 1,
+          "start": 66.6364,
+          "end": 68.5455
+        },
+        {
+          "index": 23,
+          "display": "Một triệu?",
+          "speech": "Một triệu?",
+          "raw_duration": 0.72,
+          "section": 1,
+          "start": 69.1212,
+          "end": 69.9394
+        },
+        {
+          "index": 24,
+          "display": "Không!",
+          "speech": "Không!",
+          "raw_duration": 0.4,
+          "section": 1,
+          "start": 70.5152,
+          "end": 70.9697
+        },
+        {
+          "index": 25,
+          "display": "50% của 500 nghìn.",
+          "speech": "50% của 500 nghìn.",
+          "raw_duration": 1.92,
+          "section": 1,
+          "start": 71.5455,
+          "end": 73.7273
+        },
+        {
+          "index": 26,
+          "display": "Nghĩa là họ chỉ giảm thêm 250 nghìn.",
+          "speech": "Nghĩa là họ chỉ giảm thêm 250 nghìn.",
+          "raw_duration": 2.32,
+          "section": 1,
+          "start": 74.303,
+          "end": 76.9394
+        },
+        {
+          "index": 27,
+          "display": "Cuối cùng, chiếc áo còn đúng 250 nghìn đồng.",
+          "speech": "Cuối cùng, chiếc áo còn đúng 250 nghìn đồng.",
+          "raw_duration": 2.88,
+          "section": 1,
+          "start": 77.5152,
+          "end": 80.7879
+        },
+        {
+          "index": 28,
+          "display": "Bạn vẫn được giảm giá rất sâu, nhưng giấc mơ mua hàng miễn phí đã chính thức phá sản.",
+          "speech": "Bạn vẫn được giảm giá rất sâu, nhưng giấc mơ mua hàng miễn phí đã chính thức phá sản.",
+          "raw_duration": 4.56,
+          "section": 1,
+          "start": 81.3636,
+          "end": 86.5455
+        },
+        {
+          "index": 29,
+          "display": "Vấn đề không phải là bạn không biết cộng.",
+          "speech": "Vấn đề không phải là bạn không biết cộng.",
+          "raw_duration": 2.16,
+          "section": 1,
+          "start": 87.1212,
+          "end": 89.5758
+        },
+        {
+          "index": 30,
+          "display": "Mà là bạn đã quên rằng: phần trăm luôn phải gắn với một giá trị cụ thể.",
+          "speech": "Mà là bạn đã quên rằng: phần trăm luôn phải gắn với một giá trị cụ thể.",
+          "raw_duration": 3.76,
+          "section": 1,
+          "start": 90.1515,
+          "end": 94.4242
+        }
+      ],
+      "voice_rate": 0.88,
+      "pause_seconds": 0.5758
+    },
+    {
+      "index": 2,
+      "start": 95,
+      "end": 150,
+      "title": "MỘT SAI LẦM CÒN NGUY HIỂM HƠN",
+      "lines": [
+        {
+          "index": 31,
+          "display": "Và nếu bạn nghĩ lỗi này chỉ xuất hiện khi đi mua quần áo, thì không.",
+          "speech": "Và nếu bạn nghĩ lỗi này chỉ xuất hiện khi đi mua quần áo, thì không.",
+          "raw_duration": 3.76,
+          "section": 2,
+          "start": 95.3,
+          "end": 98.949
+        },
+        {
+          "index": 32,
+          "display": "Nó còn xuất hiện ở một nơi đáng sợ hơn nhiều.",
+          "speech": "Nó còn xuất hiện ở một nơi đáng sợ hơn nhiều.",
+          "raw_duration": 2.32,
+          "section": 2,
+          "start": 99.249,
+          "end": 101.5005
+        },
+        {
+          "index": 33,
+          "display": "Bảng điểm.",
+          "speech": "Bảng điểm.",
+          "raw_duration": 0.72,
+          "section": 2,
+          "start": 101.8005,
+          "end": 102.4992
+        },
+        {
+          "index": 34,
+          "display": "Giả sử bạn vừa kiểm tra Toán được 5 điểm.",
+          "speech": "Giả sử bạn vừa kiểm tra Toán được 5 điểm.",
+          "raw_duration": 2.32,
+          "section": 2,
+          "start": 102.7992,
+          "end": 105.0507
+        },
+        {
+          "index": 35,
+          "display": "Sau một tuần chăm chỉ học tập, điểm số của bạn tăng 20%.",
+          "speech": "Sau một tuần chăm chỉ học tập, điểm số của bạn tăng 20%.",
+          "raw_duration": 3.6,
+          "section": 2,
+          "start": 105.3507,
+          "end": 108.8444
+        },
+        {
+          "index": 36,
+          "display": "Bạn vui mừng thông báo với bố mẹ rằng trình độ toán của mình đã tăng 20%.",
+          "speech": "Bạn vui mừng thông báo với bố mẹ rằng trình độ toán của mình đã tăng 20%.",
+          "raw_duration": 4.48,
+          "section": 2,
+          "start": 109.1444,
+          "end": 113.4921
+        },
+        {
+          "index": 37,
+          "display": "Vậy điểm mới là bao nhiêu?",
+          "speech": "Vậy điểm mới là bao nhiêu?",
+          "raw_duration": 1.52,
+          "section": 2,
+          "start": 113.7921,
+          "end": 115.2672
+        },
+        {
+          "index": 38,
+          "display": "6 điểm.",
+          "speech": "6 điểm.",
+          "raw_duration": 0.72,
+          "section": 2,
+          "start": 115.5672,
+          "end": 116.266
+        },
+        {
+          "index": 39,
+          "display": "Không phải 7 điểm.",
+          "speech": "Không phải 7 điểm.",
+          "raw_duration": 1.2,
+          "section": 2,
+          "start": 116.566,
+          "end": 117.7306
+        },
+        {
+          "index": 40,
+          "display": "Bởi vì tăng 20% nghĩa là lấy 5 cộng với 20% của 5, tức là cộng thêm 1 điểm.",
+          "speech": "Bởi vì tăng 20% nghĩa là lấy 5 cộng với 20% của 5, tức là cộng thêm 1 điểm.",
+          "raw_duration": 5.36,
+          "section": 2,
+          "start": 118.0306,
+          "end": 123.2323
+        },
+        {
+          "index": 41,
+          "display": "Nhưng có một điều thú vị.",
+          "speech": "Nhưng có một điều thú vị.",
+          "raw_duration": 1.44,
+          "section": 2,
+          "start": 123.5323,
+          "end": 124.9298
+        },
+        {
+          "index": 42,
+          "display": "Nếu bạn từ 5 điểm lên 6 điểm, sau đó lại từ 6 điểm xuống 5 điểm...",
+          "speech": "Nếu bạn từ 5 điểm lên 6 điểm, sau đó lại từ 6 điểm xuống 5 điểm...",
+          "raw_duration": 4.0,
+          "section": 2,
+          "start": 125.2298,
+          "end": 129.1117
+        },
+        {
+          "index": 43,
+          "display": "Thì bạn đã tăng 20% rồi giảm bao nhiêu phần trăm?",
+          "speech": "Thì bạn đã tăng 20% rồi giảm bao nhiêu phần trăm?",
+          "raw_duration": 2.88,
+          "section": 2,
+          "start": 129.4117,
+          "end": 132.2066
+        },
+        {
+          "index": 44,
+          "display": "Nếu bạn nói 20%, xin chúc mừng.",
+          "speech": "Nếu bạn nói 20%, xin chúc mừng.",
+          "raw_duration": 2.4,
+          "section": 2,
+          "start": 132.5066,
+          "end": 134.8357
+        },
+        {
+          "index": 45,
+          "display": "Bạn vừa mắc lại đúng sai lầm lúc mua áo.",
+          "speech": "Bạn vừa mắc lại đúng sai lầm lúc mua áo.",
+          "raw_duration": 2.32,
+          "section": 2,
+          "start": 135.1357,
+          "end": 137.3872
+        },
+        {
+          "index": 46,
+          "display": "Bởi vì từ 6 xuống 5 là giảm 1 điểm.",
+          "speech": "Bởi vì từ 6 xuống 5 là giảm 1 điểm.",
+          "raw_duration": 2.48,
+          "section": 2,
+          "start": 137.6872,
+          "end": 140.094
+        },
+        {
+          "index": 47,
+          "display": "Mà 1 điểm so với 6 điểm ban đầu của lần giảm, chỉ tương đương khoảng 16,67%.",
+          "speech": "Mà 1 điểm so với 6 điểm ban đầu của lần giảm, chỉ tương đương khoảng 16,67%.",
+          "raw_duration": 5.04,
+          "section": 2,
+          "start": 140.394,
+          "end": 145.2852
+        },
+        {
+          "index": 48,
+          "display": "Cùng thay đổi 1 điểm, nhưng tỷ lệ phần trăm khác nhau vì mốc so sánh đã khác.",
+          "speech": "Cùng thay đổi 1 điểm, nhưng tỷ lệ phần trăm khác nhau vì mốc so sánh đã khác.",
+          "raw_duration": 4.24,
+          "section": 2,
+          "start": 145.5852,
+          "end": 149.7
+        }
+      ],
+      "voice_rate": 1.0304,
+      "pause_seconds": 0.3
+    },
+    {
+      "index": 3,
+      "start": 150,
+      "end": 215,
+      "title": "CÁI BẪY GIẢM 20% RỒI TĂNG 20%",
+      "lines": [
+        {
+          "index": 49,
+          "display": "Bây giờ, hãy thử một tình huống khác.",
+          "speech": "Bây giờ, hãy thử một tình huống khác.",
+          "raw_duration": 1.92,
+          "section": 3,
+          "start": 150.3682,
+          "end": 152.55
+        },
+        {
+          "index": 50,
+          "display": "Bạn đang muốn mua một chiếc điện thoại giá 10 triệu.",
+          "speech": "Bạn đang muốn mua một chiếc điện thoại giá 10 triệu.",
+          "raw_duration": 2.48,
+          "section": 3,
+          "start": 152.9182,
+          "end": 155.7364
+        },
+        {
+          "index": 51,
+          "display": "Một hôm, cửa hàng bất ngờ giảm giá 20%.",
+          "speech": "Một hôm, cửa hàng bất ngờ giảm giá 20%.",
+          "raw_duration": 2.8,
+          "section": 3,
+          "start": 156.1045,
+          "end": 159.2864
+        },
+        {
+          "index": 52,
+          "display": "Bạn lập tức mua nó với giá 8 triệu.",
+          "speech": "Bạn lập tức mua nó với giá 8 triệu.",
+          "raw_duration": 2.08,
+          "section": 3,
+          "start": 159.6545,
+          "end": 162.0182
+        },
+        {
+          "index": 53,
+          "display": "Ngày hôm sau, cửa hàng thông báo giá điện thoại tăng lại 20%.",
+          "speech": "Ngày hôm sau, cửa hàng thông báo giá điện thoại tăng lại 20%.",
+          "raw_duration": 3.52,
+          "section": 3,
+          "start": 162.3864,
+          "end": 166.3864
+        },
+        {
+          "index": 54,
+          "display": "Bạn nghĩ:",
+          "speech": "Bạn nghĩ:",
+          "raw_duration": 0.72,
+          "section": 3,
+          "start": 166.7545,
+          "end": 167.5727
+        },
+        {
+          "index": 55,
+          "display": "\"Thôi xong. Giá lại quay về 10 triệu rồi.\"",
+          "speech": "\"Thôi xong. Giá lại quay về 10 triệu rồi.\"",
+          "raw_duration": 2.16,
+          "section": 3,
+          "start": 167.9409,
+          "end": 170.3955
+        },
+        {
+          "index": 56,
+          "display": "Nhưng không.",
+          "speech": "Nhưng không.",
+          "raw_duration": 0.72,
+          "section": 3,
+          "start": 170.7636,
+          "end": 171.5818
+        },
+        {
+          "index": 57,
+          "display": "Giá mới chỉ là 9 triệu 600 nghìn đồng.",
+          "speech": "Giá mới chỉ là 9 triệu 600 nghìn đồng.",
+          "raw_duration": 2.32,
+          "section": 3,
+          "start": 171.95,
+          "end": 174.5864
+        },
+        {
+          "index": 58,
+          "display": "Bởi vì 20% của 8 triệu chỉ là 1 triệu 600 nghìn.",
+          "speech": "Bởi vì 20% của 8 triệu chỉ là 1 triệu 600 nghìn.",
+          "raw_duration": 3.6,
+          "section": 3,
+          "start": 174.9545,
+          "end": 179.0455
+        },
+        {
+          "index": 59,
+          "display": "Điều thú vị nằm ở chỗ:",
+          "speech": "Điều thú vị nằm ở chỗ:",
+          "raw_duration": 1.36,
+          "section": 3,
+          "start": 179.4136,
+          "end": 180.9591
+        },
+        {
+          "index": 60,
+          "display": "Nếu một đại lượng giảm 20% rồi tăng lại 20%, nó sẽ không trở về giá ban đầu.",
+          "speech": "Nếu một đại lượng giảm 20% rồi tăng lại 20%, nó sẽ không trở về giá ban đầu.",
+          "raw_duration": 5.44,
+          "section": 3,
+          "start": 181.3273,
+          "end": 187.5091
+        },
+        {
+          "index": 61,
+          "display": "Nó sẽ thấp hơn ban đầu 4%.",
+          "speech": "Nó sẽ thấp hơn ban đầu 4%.",
+          "raw_duration": 2.08,
+          "section": 3,
+          "start": 187.8773,
+          "end": 190.2409
+        },
+        {
+          "index": 62,
+          "display": "Và điều này không chỉ đúng với 10 triệu.",
+          "speech": "Và điều này không chỉ đúng với 10 triệu.",
+          "raw_duration": 2.08,
+          "section": 3,
+          "start": 190.6091,
+          "end": 192.9727
+        },
+        {
+          "index": 63,
+          "display": "Nó đúng với 100 nghìn, 1 tỷ, hay bất kỳ số dương nào.",
+          "speech": "Nó đúng với 100 nghìn, 1 tỷ, hay bất kỳ số dương nào.",
+          "raw_duration": 3.12,
+          "section": 3,
+          "start": 193.3409,
+          "end": 196.8864
+        },
+        {
+          "index": 64,
+          "display": "Thậm chí, nếu bạn giảm 10% rồi tăng 10%, bạn vẫn mất 1%.",
+          "speech": "Thậm chí, nếu bạn giảm 10% rồi tăng 10%, bạn vẫn mất 1%.",
+          "raw_duration": 4.48,
+          "section": 3,
+          "start": 197.2545,
+          "end": 202.3455
+        },
+        {
+          "index": 65,
+          "display": "Giảm 30% rồi tăng 30%, bạn mất 9%.",
+          "speech": "Giảm 30% rồi tăng 30%, bạn mất 9%.",
+          "raw_duration": 4.0,
+          "section": 3,
+          "start": 202.7136,
+          "end": 207.2591
+        },
+        {
+          "index": 66,
+          "display": "Giảm 50% rồi tăng 50%, bạn mất tới 25%.",
+          "speech": "Giảm 50% rồi tăng 50%, bạn mất tới 25%.",
+          "raw_duration": 4.4,
+          "section": 3,
+          "start": 207.6273,
+          "end": 212.6273
+        },
+        {
+          "index": 67,
+          "display": "Đó không phải sự trùng hợp.",
+          "speech": "Đó không phải sự trùng hợp.",
+          "raw_duration": 1.44,
+          "section": 3,
+          "start": 212.9955,
+          "end": 214.6318
+        }
+      ],
+      "voice_rate": 0.88,
+      "pause_seconds": 0.3682
+    },
+    {
+      "index": 4,
+      "start": 215,
+      "end": 265,
+      "title": "ĐẰNG SAU TRÒ ĐÙA LÀ MỘT QUY LUẬT",
+      "lines": [
+        {
+          "index": 68,
+          "display": "Giả sử bạn bắt đầu với một số tiền là 100 đồng.",
+          "speech": "Giả sử bạn bắt đầu với một số tiền là 100 đồng.",
+          "raw_duration": 2.8,
+          "section": 4,
+          "start": 215.3,
+          "end": 217.9458
+        },
+        {
+          "index": 69,
+          "display": "Bạn giảm đi x%, rồi tăng lại đúng x%.",
+          "speech": "Bạn giảm đi x phần trăm, rồi tăng lại đúng x phần trăm.",
+          "raw_duration": 3.2,
+          "section": 4,
+          "start": 218.2458,
+          "end": 221.2695
+        },
+        {
+          "index": 70,
+          "display": "Sau lần giảm, bạn còn:",
+          "speech": "Sau lần giảm, bạn còn:",
+          "raw_duration": 1.52,
+          "section": 4,
+          "start": 221.5695,
+          "end": 223.0058
+        },
+        {
+          "index": 71,
+          "display": "100(1-x/100)",
+          "speech": "một trăm nhân một trừ x chia một trăm",
+          "raw_duration": 2.0,
+          "section": 4,
+          "start": 223.3058,
+          "end": 225.1956
+        },
+        {
+          "index": 72,
+          "display": "Sau lần tăng, số tiền trở thành:",
+          "speech": "Sau lần tăng, số tiền trở thành:",
+          "raw_duration": 2.08,
+          "section": 4,
+          "start": 225.4956,
+          "end": 227.461
+        },
+        {
+          "index": 73,
+          "display": "100(1-x/100)(1+x/100)",
+          "speech": "một trăm nhân một trừ x chia một trăm, rồi nhân một cộng x chia một trăm",
+          "raw_duration": 3.76,
+          "section": 4,
+          "start": 227.761,
+          "end": 231.3139
+        },
+        {
+          "index": 74,
+          "display": "Nhân hai biểu thức này với nhau, ta được:",
+          "speech": "Nhân hai biểu thức này với nhau, ta được:",
+          "raw_duration": 2.0,
+          "section": 4,
+          "start": 231.6139,
+          "end": 233.5037
+        },
+        {
+          "index": 75,
+          "display": "100(1-x²/10000)",
+          "speech": "một trăm nhân một trừ x bình phương chia mười nghìn",
+          "raw_duration": 2.56,
+          "section": 4,
+          "start": 233.8037,
+          "end": 236.2227
+        },
+        {
+          "index": 76,
+          "display": "Nghĩa là bạn luôn mất đi một lượng bằng:",
+          "speech": "Nghĩa là bạn luôn mất đi một lượng bằng:",
+          "raw_duration": 1.84,
+          "section": 4,
+          "start": 236.5227,
+          "end": 238.2614
+        },
+        {
+          "index": 77,
+          "display": "x²/100 phần trăm của giá trị ban đầu.",
+          "speech": "x bình phương chia một trăm phần trăm của giá trị ban đầu.",
+          "raw_duration": 2.88,
+          "section": 4,
+          "start": 238.5614,
+          "end": 241.2827
+        },
+        {
+          "index": 78,
+          "display": "Chẳng hạn, nếu giảm rồi tăng 20%, bạn mất:",
+          "speech": "Chẳng hạn, nếu giảm rồi tăng 20%, bạn mất:",
+          "raw_duration": 2.72,
+          "section": 4,
+          "start": 241.5827,
+          "end": 244.1529
+        },
+        {
+          "index": 79,
+          "display": "20²/100=4%",
+          "speech": "hai mươi bình phương chia một trăm, bằng bốn phần trăm",
+          "raw_duration": 2.56,
+          "section": 4,
+          "start": 244.4529,
+          "end": 246.8719
+        },
+        {
+          "index": 80,
+          "display": "Nếu giảm rồi tăng 50%, bạn mất:",
+          "speech": "Nếu giảm rồi tăng 50%, bạn mất:",
+          "raw_duration": 2.4,
+          "section": 4,
+          "start": 247.1719,
+          "end": 249.4397
+        },
+        {
+          "index": 81,
+          "display": "50²/100=25%",
+          "speech": "năm mươi bình phương chia một trăm, bằng hai mươi lăm phần trăm",
+          "raw_duration": 3.12,
+          "section": 4,
+          "start": 249.7397,
+          "end": 252.6878
+        },
+        {
+          "index": 82,
+          "display": "Vậy là bạn vừa nhìn thấy một kiến thức đại số quen thuộc:",
+          "speech": "Vậy là bạn vừa nhìn thấy một kiến thức đại số quen thuộc:",
+          "raw_duration": 2.96,
+          "section": 4,
+          "start": 252.9878,
+          "end": 255.7847
+        },
+        {
+          "index": 83,
+          "display": "Hằng đẳng thức hiệu hai bình phương.",
+          "speech": "Hằng đẳng thức hiệu hai bình phương.",
+          "raw_duration": 1.76,
+          "section": 4,
+          "start": 256.0847,
+          "end": 257.7478
+        },
+        {
+          "index": 84,
+          "display": "Thứ mà nhiều học sinh từng nghĩ chỉ tồn tại để làm khó mình trong các bài kiểm tra, hóa ra lại có thể giải thích vì sao tiền trong ví biến mất.",
+          "speech": "Thứ mà nhiều học sinh từng nghĩ chỉ tồn tại để làm khó mình trong các bài kiểm tra, hóa ra lại có thể giải thích vì sao tiền trong ví biến mất.",
+          "raw_duration": 7.04,
+          "section": 4,
+          "start": 258.0478,
+          "end": 264.7
+        }
+      ],
+      "voice_rate": 1.0583,
+      "pause_seconds": 0.3
+    },
+    {
+      "index": 5,
+      "start": 265,
+      "end": 300,
+      "title": "KẾT THÚC: CÁCH KHÔNG BỊ PHẦN TRĂM LỪA",
+      "lines": [
+        {
+          "index": 85,
+          "display": "Vậy, sau tất cả, bạn cần nhớ điều gì?",
+          "speech": "Vậy, sau tất cả, bạn cần nhớ điều gì?",
+          "raw_duration": 2.24,
+          "section": 5,
+          "start": 265.3,
+          "end": 267.1667
+        },
+        {
+          "index": 86,
+          "display": "Đừng vội cộng các tỷ lệ phần trăm khi chúng được áp dụng liên tiếp.",
+          "speech": "Đừng vội cộng các tỷ lệ phần trăm khi chúng được áp dụng liên tiếp.",
+          "raw_duration": 3.52,
+          "section": 5,
+          "start": 267.4667,
+          "end": 270.4
+        },
+        {
+          "index": 87,
+          "display": "Bởi vì mỗi lần thay đổi, con số dùng để tính phần trăm cũng có thể thay đổi theo.",
+          "speech": "Bởi vì mỗi lần thay đổi, con số dùng để tính phần trăm cũng có thể thay đổi theo.",
+          "raw_duration": 4.08,
+          "section": 5,
+          "start": 270.7,
+          "end": 274.1
+        },
+        {
+          "index": 88,
+          "display": "Thay vì hỏi:",
+          "speech": "Thay vì hỏi:",
+          "raw_duration": 0.72,
+          "section": 5,
+          "start": 274.4,
+          "end": 275.0
+        },
+        {
+          "index": 89,
+          "display": "\"Giảm bao nhiêu phần trăm?\"",
+          "speech": "\"Giảm bao nhiêu phần trăm?\"",
+          "raw_duration": 1.28,
+          "section": 5,
+          "start": 275.3,
+          "end": 276.3667
+        },
+        {
+          "index": 90,
+          "display": "Hãy hỏi:",
+          "speech": "Hãy hỏi:",
+          "raw_duration": 0.64,
+          "section": 5,
+          "start": 276.6667,
+          "end": 277.2
+        },
+        {
+          "index": 91,
+          "display": "\"Giảm bao nhiêu phần trăm của cái gì?\"",
+          "speech": "\"Giảm bao nhiêu phần trăm của cái gì?\"",
+          "raw_duration": 1.84,
+          "section": 5,
+          "start": 277.5,
+          "end": 279.0333
+        },
+        {
+          "index": 92,
+          "display": "Và trước khi kết thúc, có một câu hỏi dành cho bạn.",
+          "speech": "Và trước khi kết thúc, có một câu hỏi dành cho bạn.",
+          "raw_duration": 2.56,
+          "section": 5,
+          "start": 279.3333,
+          "end": 281.4667
+        },
+        {
+          "index": 93,
+          "display": "Một chiếc áo giá 100 nghìn đồng.",
+          "speech": "Một chiếc áo giá 100 nghìn đồng.",
+          "raw_duration": 2.0,
+          "section": 5,
+          "start": 281.7667,
+          "end": 283.4333
+        },
+        {
+          "index": 94,
+          "display": "Cửa hàng A giảm giá một lần 40%.",
+          "speech": "Cửa hàng A giảm giá một lần 40%.",
+          "raw_duration": 2.48,
+          "section": 5,
+          "start": 283.7333,
+          "end": 285.8
+        },
+        {
+          "index": 95,
+          "display": "Cửa hàng B giảm 20%, rồi giảm tiếp 20%.",
+          "speech": "Cửa hàng B giảm 20%, rồi giảm tiếp 20%.",
+          "raw_duration": 3.28,
+          "section": 5,
+          "start": 286.1,
+          "end": 288.8333
+        },
+        {
+          "index": 96,
+          "display": "Theo bạn, cửa hàng nào bán rẻ hơn?",
+          "speech": "Theo bạn, cửa hàng nào bán rẻ hơn?",
+          "raw_duration": 2.08,
+          "section": 5,
+          "start": 289.1333,
+          "end": 290.8667
+        },
+        {
+          "index": 97,
+          "display": "Hãy thử tính trước khi xem đáp án.",
+          "speech": "Hãy thử tính trước khi xem đáp án.",
+          "raw_duration": 2.0,
+          "section": 5,
+          "start": 291.1667,
+          "end": 292.8333
+        },
+        {
+          "index": 98,
+          "display": "Bởi vì đôi khi, thứ nguy hiểm nhất trong toán học không phải là một bài toán khó.",
+          "speech": "Bởi vì đôi khi, thứ nguy hiểm nhất trong toán học không phải là một bài toán khó.",
+          "raw_duration": 4.0,
+          "section": 5,
+          "start": 293.1333,
+          "end": 296.4667
+        },
+        {
+          "index": 99,
+          "display": "Mà là một bài toán trông quá dễ, đến mức bạn chẳng buồn suy nghĩ.",
+          "speech": "Mà là một bài toán trông quá dễ, đến mức bạn chẳng buồn suy nghĩ.",
+          "raw_duration": 3.52,
+          "section": 5,
+          "start": 296.7667,
+          "end": 299.7
+        }
+      ],
+      "voice_rate": 1.2,
+      "pause_seconds": 0.3
+    }
+  ],
+  "captions": [
+    {
+      "start": 0.3,
+      "end": 2.55,
+      "text": "Hãy tưởng tượng bạn đang đi ngang qua một cửa hàng",
+      "line_index": 0
+    },
+    {
+      "start": 2.55,
+      "end": 2.91,
+      "text": "quần áo.",
+      "line_index": 0
+    },
+    {
+      "start": 3.21,
+      "end": 4.926,
+      "text": "Và đập vào mắt bạn là dòng chữ:",
+      "line_index": 1
+    },
+    {
+      "start": 5.226,
+      "end": 8.88,
+      "text": "\"GIẢM GIÁ 50%, GIẢM THÊM 50% CHO TOÀN BỘ SẢN PHẨM!\"",
+      "line_index": 2
+    },
+    {
+      "start": 9.18,
+      "end": 9.926,
+      "text": "Khoan đã...",
+      "line_index": 3
+    },
+    {
+      "start": 10.226,
+      "end": 13.209,
+      "text": "50% cộng 50% bằng 100%.",
+      "line_index": 4
+    },
+    {
+      "start": 13.509,
+      "end": 14.628,
+      "text": "Tức là... miễn phí?",
+      "line_index": 5
+    },
+    {
+      "start": 14.928,
+      "end": 17.377,
+      "text": "Sau nhiều năm đi học, cuối cùng bạn cũng tìm ra cách",
+      "line_index": 6
+    },
+    {
+      "start": 17.377,
+      "end": 19.403,
+      "text": "dùng toán học để đánh bại chủ nghĩa tư bản.",
+      "line_index": 6
+    },
+    {
+      "start": 19.703,
+      "end": 21.945,
+      "text": "Bạn bước vào cửa hàng, chọn một chiếc áo giá một",
+      "line_index": 7
+    },
+    {
+      "start": 21.945,
+      "end": 23.954,
+      "text": "triệu đồng, tự tin mang ra quầy thanh toán.",
+      "line_index": 7
+    },
+    {
+      "start": 24.254,
+      "end": 26.715,
+      "text": "Nhưng nhân viên lại yêu cầu bạn trả 250 nghìn.",
+      "line_index": 8
+    },
+    {
+      "start": 27.015,
+      "end": 28.208,
+      "text": "Một phần tư triệu đồng!",
+      "line_index": 9
+    },
+    {
+      "start": 28.508,
+      "end": 30.694,
+      "text": "Trong khi theo tính toán của bạn, cửa hàng mới là",
+      "line_index": 10
+    },
+    {
+      "start": 30.694,
+      "end": 32.881,
+      "text": "bên phải trả tiền vì đã làm mất thời gian của một",
+      "line_index": 10
+    },
+    {
+      "start": 32.881,
+      "end": 33.729,
+      "text": "thiên tài toán học.",
+      "line_index": 10
+    },
+    {
+      "start": 34.029,
+      "end": 35.52,
+      "text": "Vậy chuyện gì đã xảy ra?",
+      "line_index": 11
+    },
+    {
+      "start": 35.82,
+      "end": 37.237,
+      "text": "Có phải cửa hàng đang lừa bạn?",
+      "line_index": 12
+    },
+    {
+      "start": 37.537,
+      "end": 39.7,
+      "text": "Hay chính bộ não của bạn vừa tự lừa mình?",
+      "line_index": 13
+    },
+    {
+      "start": 40.576,
+      "end": 43.945,
+      "text": "Thực ra phép tính 50 cộng 50 bằng 100 hoàn toàn",
+      "line_index": 14
+    },
+    {
+      "start": 43.945,
+      "end": 44.303,
+      "text": "đúng.",
+      "line_index": 14
+    },
+    {
+      "start": 44.879,
+      "end": 47.606,
+      "text": "Chỉ có điều... bạn đang cộng hai thứ không nên cộng.",
+      "line_index": 15
+    },
+    {
+      "start": 48.182,
+      "end": 50.182,
+      "text": "Hãy nhìn lại chiếc áo một triệu đồng.",
+      "line_index": 16
+    },
+    {
+      "start": 50.758,
+      "end": 54.135,
+      "text": "Lần giảm đầu tiên, cửa hàng lấy đi 50% của một",
+      "line_index": 17
+    },
+    {
+      "start": 54.135,
+      "end": 54.576,
+      "text": "triệu.",
+      "line_index": 17
+    },
+    {
+      "start": 55.152,
+      "end": 56.515,
+      "text": "Tức là 500 nghìn.",
+      "line_index": 18
+    },
+    {
+      "start": 57.091,
+      "end": 59.455,
+      "text": "Chiếc áo bây giờ chỉ còn 500 nghìn.",
+      "line_index": 19
+    },
+    {
+      "start": 60.03,
+      "end": 62.03,
+      "text": "Và đây là lúc bi kịch bắt đầu.",
+      "line_index": 20
+    },
+    {
+      "start": 62.606,
+      "end": 66.061,
+      "text": "Lần giảm thứ hai, cửa hàng tiếp tục giảm 50%.",
+      "line_index": 21
+    },
+    {
+      "start": 66.636,
+      "end": 68.545,
+      "text": "Nhưng 50% của cái gì?",
+      "line_index": 22
+    },
+    {
+      "start": 69.121,
+      "end": 69.939,
+      "text": "Một triệu?",
+      "line_index": 23
+    },
+    {
+      "start": 70.515,
+      "end": 70.97,
+      "text": "Không!",
+      "line_index": 24
+    },
+    {
+      "start": 71.545,
+      "end": 73.727,
+      "text": "50% của 500 nghìn.",
+      "line_index": 25
+    },
+    {
+      "start": 74.303,
+      "end": 76.939,
+      "text": "Nghĩa là họ chỉ giảm thêm 250 nghìn.",
+      "line_index": 26
+    },
+    {
+      "start": 77.515,
+      "end": 80.788,
+      "text": "Cuối cùng, chiếc áo còn đúng 250 nghìn đồng.",
+      "line_index": 27
+    },
+    {
+      "start": 81.364,
+      "end": 84.325,
+      "text": "Bạn vẫn được giảm giá rất sâu, nhưng giấc mơ mua",
+      "line_index": 28
+    },
+    {
+      "start": 84.325,
+      "end": 86.545,
+      "text": "hàng miễn phí đã chính thức phá sản.",
+      "line_index": 28
+    },
+    {
+      "start": 87.121,
+      "end": 89.576,
+      "text": "Vấn đề không phải là bạn không biết cộng.",
+      "line_index": 29
+    },
+    {
+      "start": 90.152,
+      "end": 93.265,
+      "text": "Mà là bạn đã quên rằng: phần trăm luôn phải gắn với",
+      "line_index": 30
+    },
+    {
+      "start": 93.265,
+      "end": 94.424,
+      "text": "một giá trị cụ thể.",
+      "line_index": 30
+    },
+    {
+      "start": 95.3,
+      "end": 97.914,
+      "text": "Và nếu bạn nghĩ lỗi này chỉ xuất hiện khi đi mua",
+      "line_index": 31
+    },
+    {
+      "start": 97.914,
+      "end": 98.949,
+      "text": "quần áo, thì không.",
+      "line_index": 31
+    },
+    {
+      "start": 99.249,
+      "end": 101.5,
+      "text": "Nó còn xuất hiện ở một nơi đáng sợ hơn nhiều.",
+      "line_index": 32
+    },
+    {
+      "start": 101.8,
+      "end": 102.499,
+      "text": "Bảng điểm.",
+      "line_index": 33
+    },
+    {
+      "start": 102.799,
+      "end": 105.051,
+      "text": "Giả sử bạn vừa kiểm tra Toán được 5 điểm.",
+      "line_index": 34
+    },
+    {
+      "start": 105.351,
+      "end": 108.59,
+      "text": "Sau một tuần chăm chỉ học tập, điểm số của bạn tăng",
+      "line_index": 35
+    },
+    {
+      "start": 108.59,
+      "end": 108.844,
+      "text": "20%.",
+      "line_index": 35
+    },
+    {
+      "start": 109.144,
+      "end": 112.224,
+      "text": "Bạn vui mừng thông báo với bố mẹ rằng trình độ toán",
+      "line_index": 36
+    },
+    {
+      "start": 112.224,
+      "end": 113.492,
+      "text": "của mình đã tăng 20%.",
+      "line_index": 36
+    },
+    {
+      "start": 113.792,
+      "end": 115.267,
+      "text": "Vậy điểm mới là bao nhiêu?",
+      "line_index": 37
+    },
+    {
+      "start": 115.567,
+      "end": 116.266,
+      "text": "6 điểm.",
+      "line_index": 38
+    },
+    {
+      "start": 116.566,
+      "end": 117.731,
+      "text": "Không phải 7 điểm.",
+      "line_index": 39
+    },
+    {
+      "start": 118.031,
+      "end": 121.545,
+      "text": "Bởi vì tăng 20% nghĩa là lấy 5 cộng với 20% của 5,",
+      "line_index": 40
+    },
+    {
+      "start": 121.545,
+      "end": 123.232,
+      "text": "tức là cộng thêm 1 điểm.",
+      "line_index": 40
+    },
+    {
+      "start": 123.532,
+      "end": 124.93,
+      "text": "Nhưng có một điều thú vị.",
+      "line_index": 41
+    },
+    {
+      "start": 125.23,
+      "end": 128.216,
+      "text": "Nếu bạn từ 5 điểm lên 6 điểm, sau đó lại từ 6 điểm",
+      "line_index": 42
+    },
+    {
+      "start": 128.216,
+      "end": 129.112,
+      "text": "xuống 5 điểm...",
+      "line_index": 42
+    },
+    {
+      "start": 129.412,
+      "end": 132.207,
+      "text": "Thì bạn đã tăng 20% rồi giảm bao nhiêu phần trăm?",
+      "line_index": 43
+    },
+    {
+      "start": 132.507,
+      "end": 134.836,
+      "text": "Nếu bạn nói 20%, xin chúc mừng.",
+      "line_index": 44
+    },
+    {
+      "start": 135.136,
+      "end": 137.387,
+      "text": "Bạn vừa mắc lại đúng sai lầm lúc mua áo.",
+      "line_index": 45
+    },
+    {
+      "start": 137.687,
+      "end": 140.094,
+      "text": "Bởi vì từ 6 xuống 5 là giảm 1 điểm.",
+      "line_index": 46
+    },
+    {
+      "start": 140.394,
+      "end": 143.59,
+      "text": "Mà 1 điểm so với 6 điểm ban đầu của lần giảm, chỉ",
+      "line_index": 47
+    },
+    {
+      "start": 143.59,
+      "end": 145.285,
+      "text": "tương đương khoảng 16,67%.",
+      "line_index": 47
+    },
+    {
+      "start": 145.585,
+      "end": 148.184,
+      "text": "Cùng thay đổi 1 điểm, nhưng tỷ lệ phần trăm khác",
+      "line_index": 48
+    },
+    {
+      "start": 148.184,
+      "end": 149.7,
+      "text": "nhau vì mốc so sánh đã khác.",
+      "line_index": 48
+    },
+    {
+      "start": 150.368,
+      "end": 152.55,
+      "text": "Bây giờ, hãy thử một tình huống khác.",
+      "line_index": 49
+    },
+    {
+      "start": 152.918,
+      "end": 155.736,
+      "text": "Bạn đang muốn mua một chiếc điện thoại giá 10 triệu.",
+      "line_index": 50
+    },
+    {
+      "start": 156.105,
+      "end": 159.286,
+      "text": "Một hôm, cửa hàng bất ngờ giảm giá 20%.",
+      "line_index": 51
+    },
+    {
+      "start": 159.655,
+      "end": 162.018,
+      "text": "Bạn lập tức mua nó với giá 8 triệu.",
+      "line_index": 52
+    },
+    {
+      "start": 162.386,
+      "end": 165.853,
+      "text": "Ngày hôm sau, cửa hàng thông báo giá điện thoại tăng",
+      "line_index": 53
+    },
+    {
+      "start": 165.853,
+      "end": 166.386,
+      "text": "lại 20%.",
+      "line_index": 53
+    },
+    {
+      "start": 166.755,
+      "end": 167.573,
+      "text": "Bạn nghĩ:",
+      "line_index": 54
+    },
+    {
+      "start": 167.941,
+      "end": 170.395,
+      "text": "\"Thôi xong. Giá lại quay về 10 triệu rồi.\"",
+      "line_index": 55
+    },
+    {
+      "start": 170.764,
+      "end": 171.582,
+      "text": "Nhưng không.",
+      "line_index": 56
+    },
+    {
+      "start": 171.95,
+      "end": 174.586,
+      "text": "Giá mới chỉ là 9 triệu 600 nghìn đồng.",
+      "line_index": 57
+    },
+    {
+      "start": 174.955,
+      "end": 179.045,
+      "text": "Bởi vì 20% của 8 triệu chỉ là 1 triệu 600 nghìn.",
+      "line_index": 58
+    },
+    {
+      "start": 179.414,
+      "end": 180.959,
+      "text": "Điều thú vị nằm ở chỗ:",
+      "line_index": 59
+    },
+    {
+      "start": 181.327,
+      "end": 185.448,
+      "text": "Nếu một đại lượng giảm 20% rồi tăng lại 20%, nó sẽ",
+      "line_index": 60
+    },
+    {
+      "start": 185.448,
+      "end": 187.509,
+      "text": "không trở về giá ban đầu.",
+      "line_index": 60
+    },
+    {
+      "start": 187.877,
+      "end": 190.241,
+      "text": "Nó sẽ thấp hơn ban đầu 4%.",
+      "line_index": 61
+    },
+    {
+      "start": 190.609,
+      "end": 192.973,
+      "text": "Và điều này không chỉ đúng với 10 triệu.",
+      "line_index": 62
+    },
+    {
+      "start": 193.341,
+      "end": 196.614,
+      "text": "Nó đúng với 100 nghìn, 1 tỷ, hay bất kỳ số dương",
+      "line_index": 63
+    },
+    {
+      "start": 196.614,
+      "end": 196.886,
+      "text": "nào.",
+      "line_index": 63
+    },
+    {
+      "start": 197.255,
+      "end": 202.068,
+      "text": "Thậm chí, nếu bạn giảm 10% rồi tăng 10%, bạn vẫn mất",
+      "line_index": 64
+    },
+    {
+      "start": 202.068,
+      "end": 202.345,
+      "text": "1%.",
+      "line_index": 64
+    },
+    {
+      "start": 202.714,
+      "end": 207.259,
+      "text": "Giảm 30% rồi tăng 30%, bạn mất 9%.",
+      "line_index": 65
+    },
+    {
+      "start": 207.627,
+      "end": 212.627,
+      "text": "Giảm 50% rồi tăng 50%, bạn mất tới 25%.",
+      "line_index": 66
+    },
+    {
+      "start": 212.995,
+      "end": 214.632,
+      "text": "Đó không phải sự trùng hợp.",
+      "line_index": 67
+    },
+    {
+      "start": 215.3,
+      "end": 217.946,
+      "text": "Giả sử bạn bắt đầu với một số tiền là 100 đồng.",
+      "line_index": 68
+    },
+    {
+      "start": 218.246,
+      "end": 221.269,
+      "text": "Bạn giảm đi x%, rồi tăng lại đúng x%.",
+      "line_index": 69
+    },
+    {
+      "start": 221.569,
+      "end": 223.006,
+      "text": "Sau lần giảm, bạn còn:",
+      "line_index": 70
+    },
+    {
+      "start": 223.306,
+      "end": 225.196,
+      "text": "100(1-x/100)",
+      "line_index": 71
+    },
+    {
+      "start": 225.496,
+      "end": 227.461,
+      "text": "Sau lần tăng, số tiền trở thành:",
+      "line_index": 72
+    },
+    {
+      "start": 227.761,
+      "end": 231.314,
+      "text": "100(1-x/100)(1+x/100)",
+      "line_index": 73
+    },
+    {
+      "start": 231.614,
+      "end": 233.504,
+      "text": "Nhân hai biểu thức này với nhau, ta được:",
+      "line_index": 74
+    },
+    {
+      "start": 233.804,
+      "end": 236.223,
+      "text": "100(1-x²/10000)",
+      "line_index": 75
+    },
+    {
+      "start": 236.523,
+      "end": 238.261,
+      "text": "Nghĩa là bạn luôn mất đi một lượng bằng:",
+      "line_index": 76
+    },
+    {
+      "start": 238.561,
+      "end": 241.283,
+      "text": "x²/100 phần trăm của giá trị ban đầu.",
+      "line_index": 77
+    },
+    {
+      "start": 241.583,
+      "end": 244.153,
+      "text": "Chẳng hạn, nếu giảm rồi tăng 20%, bạn mất:",
+      "line_index": 78
+    },
+    {
+      "start": 244.453,
+      "end": 246.872,
+      "text": "20²/100=4%",
+      "line_index": 79
+    },
+    {
+      "start": 247.172,
+      "end": 249.44,
+      "text": "Nếu giảm rồi tăng 50%, bạn mất:",
+      "line_index": 80
+    },
+    {
+      "start": 249.74,
+      "end": 252.688,
+      "text": "50²/100=25%",
+      "line_index": 81
+    },
+    {
+      "start": 252.988,
+      "end": 255.485,
+      "text": "Vậy là bạn vừa nhìn thấy một kiến thức đại số quen",
+      "line_index": 82
+    },
+    {
+      "start": 255.485,
+      "end": 255.785,
+      "text": "thuộc:",
+      "line_index": 82
+    },
+    {
+      "start": 256.085,
+      "end": 257.748,
+      "text": "Hằng đẳng thức hiệu hai bình phương.",
+      "line_index": 83
+    },
+    {
+      "start": 258.048,
+      "end": 260.407,
+      "text": "Thứ mà nhiều học sinh từng nghĩ chỉ tồn tại để làm",
+      "line_index": 84
+    },
+    {
+      "start": 260.407,
+      "end": 262.766,
+      "text": "khó mình trong các bài kiểm tra, hóa ra lại có thể",
+      "line_index": 84
+    },
+    {
+      "start": 262.766,
+      "end": 264.7,
+      "text": "giải thích vì sao tiền trong ví biến mất.",
+      "line_index": 84
+    },
+    {
+      "start": 265.3,
+      "end": 267.167,
+      "text": "Vậy, sau tất cả, bạn cần nhớ điều gì?",
+      "line_index": 85
+    },
+    {
+      "start": 267.467,
+      "end": 269.733,
+      "text": "Đừng vội cộng các tỷ lệ phần trăm khi chúng được áp",
+      "line_index": 86
+    },
+    {
+      "start": 269.733,
+      "end": 270.4,
+      "text": "dụng liên tiếp.",
+      "line_index": 86
+    },
+    {
+      "start": 270.7,
+      "end": 272.783,
+      "text": "Bởi vì mỗi lần thay đổi, con số dùng để tính phần",
+      "line_index": 87
+    },
+    {
+      "start": 272.783,
+      "end": 274.1,
+      "text": "trăm cũng có thể thay đổi theo.",
+      "line_index": 87
+    },
+    {
+      "start": 274.4,
+      "end": 275.0,
+      "text": "Thay vì hỏi:",
+      "line_index": 88
+    },
+    {
+      "start": 275.3,
+      "end": 276.367,
+      "text": "\"Giảm bao nhiêu phần trăm?\"",
+      "line_index": 89
+    },
+    {
+      "start": 276.667,
+      "end": 277.2,
+      "text": "Hãy hỏi:",
+      "line_index": 90
+    },
+    {
+      "start": 277.5,
+      "end": 279.033,
+      "text": "\"Giảm bao nhiêu phần trăm của cái gì?\"",
+      "line_index": 91
+    },
+    {
+      "start": 279.333,
+      "end": 281.467,
+      "text": "Và trước khi kết thúc, có một câu hỏi dành cho bạn.",
+      "line_index": 92
+    },
+    {
+      "start": 281.767,
+      "end": 283.433,
+      "text": "Một chiếc áo giá 100 nghìn đồng.",
+      "line_index": 93
+    },
+    {
+      "start": 283.733,
+      "end": 285.8,
+      "text": "Cửa hàng A giảm giá một lần 40%.",
+      "line_index": 94
+    },
+    {
+      "start": 286.1,
+      "end": 288.833,
+      "text": "Cửa hàng B giảm 20%, rồi giảm tiếp 20%.",
+      "line_index": 95
+    },
+    {
+      "start": 289.133,
+      "end": 290.867,
+      "text": "Theo bạn, cửa hàng nào bán rẻ hơn?",
+      "line_index": 96
+    },
+    {
+      "start": 291.167,
+      "end": 292.833,
+      "text": "Hãy thử tính trước khi xem đáp án.",
+      "line_index": 97
+    },
+    {
+      "start": 293.133,
+      "end": 295.175,
+      "text": "Bởi vì đôi khi, thứ nguy hiểm nhất trong toán học",
+      "line_index": 98
+    },
+    {
+      "start": 295.175,
+      "end": 296.467,
+      "text": "không phải là một bài toán khó.",
+      "line_index": 98
+    },
+    {
+      "start": 296.767,
+      "end": 299.058,
+      "text": "Mà là một bài toán trông quá dễ, đến mức bạn chẳng",
+      "line_index": 99
+    },
+    {
+      "start": 299.058,
+      "end": 299.7,
+      "text": "buồn suy nghĩ.",
+      "line_index": 99
+    }
+  ]
+}

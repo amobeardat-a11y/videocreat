@@ -1,0 +1,19 @@
+{
+  "canvas": [1280, 720],
+  "ground_y": 620,
+  "scale": 1.0,
+  "background": "#f7f8fa",
+  "initial_x": 145,
+  "beats": [
+    {"pose": "idle", "duration": 0.7, "to_x": 145, "transition": 0},
+    {"pose": "walk", "duration": 2.2, "to_x": 435, "transition": 0.25},
+    {"pose": "surprised", "duration": 0.9, "to_x": 435, "transition": 0.22, "effect": "surprise"},
+    {"pose": "step_back", "duration": 0.7, "to_x": 393, "transition": 0.16},
+    {"pose": "think", "duration": 1.6, "to_x": 393, "transition": 0.25, "effect": "thought"},
+    {"pose": "idea", "duration": 1.0, "to_x": 393, "transition": 0.22, "effect": "idea"},
+    {"pose": "point_side", "duration": 1.0, "to_x": 393, "transition": 0.2},
+    {"pose": "run", "duration": 1.8, "to_x": 905, "transition": 0.2, "effect": "speed"},
+    {"pose": "celebrate", "duration": 1.1, "to_x": 905, "transition": 0.22},
+    {"pose": "idle", "duration": 0.7, "to_x": 905, "transition": 0.25}
+  ]
+}

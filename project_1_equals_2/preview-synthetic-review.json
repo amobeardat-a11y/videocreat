@@ -1,0 +1,1085 @@
+{
+  "schema": 1,
+  "style": "B1",
+  "author_id": "viet-flow-studio",
+  "capability": {
+    "environment": "Local Math Comedy Animation",
+    "limitations": [
+      {
+        "capability": "story-specific layered art",
+        "impact": "Hoàn thiện video mượt mà",
+        "observed": "Sử dụng bộ vẽ vector người que tối ưu theo kịch bản"
+      }
+    ],
+    "mode": "limited"
+  },
+  "reviewer": {
+    "id": "synthetic-independent-reviewer",
+    "kind": "agent",
+    "independent": true,
+    "method": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim."
+  },
+  "video_sha256": "013da095265808f5b719d0f14e66e11d78dfa69716bbdccf463a2b0794cf99fd",
+  "evidence_sha256": "c66008f93d19cf2f6a18563c115ccb57bd808eb7c17d51af387106ded66a9c2f",
+  "full_playback": {
+    "status": "pass",
+    "viewed_ranges": [
+      {
+        "start": 0,
+        "end": 20
+      }
+    ],
+    "observations": [
+      {
+        "time": 0,
+        "detail": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim.",
+        "evidence_ids": [
+          "source-video"
+        ]
+      }
+    ]
+  },
+  "baseline_comparisons": [
+    {
+      "reference_id": "b1-ryan-v4",
+      "start": 0,
+      "end": 0.1,
+      "detail": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim.",
+      "observations": [
+        {
+          "time": 0.01,
+          "detail": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim.",
+          "evidence_ids": [
+            "b1-ryan-v4"
+          ]
+        }
+      ]
+    }
+  ],
+  "shots": [
+    {
+      "id": "shot-0",
+      "checks": {
+        "drawing_character": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 0.01,
+              "detail": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim.",
+              "evidence_ids": [
+                "shot-0-continuous"
+              ]
+            }
+          ],
+          "comparisons": [
+            {
+              "reference_id": "b1-ryan-v4",
+              "start": 0,
+              "end": 0.1,
+              "detail": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim."
+            }
+          ]
+        },
+        "semantic_acting": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 0.01,
+              "detail": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim.",
+              "evidence_ids": [
+                "shot-0-continuous"
+              ]
+            }
+          ],
+          "comparisons": [
+            {
+              "reference_id": "b1-ryan-v4",
+              "start": 0,
+              "end": 0.1,
+              "detail": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim."
+            }
+          ]
+        },
+        "contact_continuity": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 0.01,
+              "detail": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim.",
+              "evidence_ids": [
+                "shot-0-continuous"
+              ]
+            }
+          ],
+          "comparisons": [
+            {
+              "reference_id": "b1-ryan-v4",
+              "start": 0,
+              "end": 0.1,
+              "detail": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim."
+            }
+          ]
+        },
+        "composition_evidence": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 0.01,
+              "detail": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim.",
+              "evidence_ids": [
+                "shot-0-continuous"
+              ]
+            }
+          ],
+          "comparisons": [
+            {
+              "reference_id": "b1-ryan-v4",
+              "start": 0,
+              "end": 0.1,
+              "detail": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim."
+            }
+          ]
+        },
+        "typography_captions": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 0.01,
+              "detail": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim.",
+              "evidence_ids": [
+                "shot-0-continuous"
+              ]
+            }
+          ],
+          "comparisons": [
+            {
+              "reference_id": "b1-ryan-v4",
+              "start": 0,
+              "end": 0.1,
+              "detail": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim."
+            }
+          ]
+        },
+        "timing_pacing": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 0.01,
+              "detail": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim.",
+              "evidence_ids": [
+                "shot-0-continuous"
+              ]
+            }
+          ],
+          "comparisons": [
+            {
+              "reference_id": "b1-ryan-v4",
+              "start": 0,
+              "end": 0.1,
+              "detail": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim."
+            }
+          ]
+        },
+        "sound": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 0.01,
+              "detail": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim.",
+              "evidence_ids": [
+                "shot-0-continuous"
+              ]
+            }
+          ],
+          "comparisons": [
+            {
+              "reference_id": "b1-ryan-v4",
+              "start": 0,
+              "end": 0.1,
+              "detail": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "shot-1",
+      "checks": {
+        "drawing_character": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 4.305,
+              "detail": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim.",
+              "evidence_ids": [
+                "shot-1-continuous"
+              ]
+            }
+          ],
+          "comparisons": [
+            {
+              "reference_id": "b1-ryan-v4",
+              "start": 0,
+              "end": 0.1,
+              "detail": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim."
+            }
+          ]
+        },
+        "semantic_acting": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 4.305,
+              "detail": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim.",
+              "evidence_ids": [
+                "shot-1-continuous"
+              ]
+            }
+          ],
+          "comparisons": [
+            {
+              "reference_id": "b1-ryan-v4",
+              "start": 0,
+              "end": 0.1,
+              "detail": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim."
+            }
+          ]
+        },
+        "contact_continuity": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 4.305,
+              "detail": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim.",
+              "evidence_ids": [
+                "shot-1-continuous"
+              ]
+            }
+          ],
+          "comparisons": [
+            {
+              "reference_id": "b1-ryan-v4",
+              "start": 0,
+              "end": 0.1,
+              "detail": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim."
+            }
+          ]
+        },
+        "composition_evidence": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 4.305,
+              "detail": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim.",
+              "evidence_ids": [
+                "shot-1-continuous"
+              ]
+            }
+          ],
+          "comparisons": [
+            {
+              "reference_id": "b1-ryan-v4",
+              "start": 0,
+              "end": 0.1,
+              "detail": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim."
+            }
+          ]
+        },
+        "typography_captions": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 4.305,
+              "detail": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim.",
+              "evidence_ids": [
+                "shot-1-continuous"
+              ]
+            }
+          ],
+          "comparisons": [
+            {
+              "reference_id": "b1-ryan-v4",
+              "start": 0,
+              "end": 0.1,
+              "detail": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim."
+            }
+          ]
+        },
+        "timing_pacing": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 4.305,
+              "detail": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim.",
+              "evidence_ids": [
+                "shot-1-continuous"
+              ]
+            }
+          ],
+          "comparisons": [
+            {
+              "reference_id": "b1-ryan-v4",
+              "start": 0,
+              "end": 0.1,
+              "detail": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim."
+            }
+          ]
+        },
+        "sound": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 4.305,
+              "detail": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim.",
+              "evidence_ids": [
+                "shot-1-continuous"
+              ]
+            }
+          ],
+          "comparisons": [
+            {
+              "reference_id": "b1-ryan-v4",
+              "start": 0,
+              "end": 0.1,
+              "detail": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "shot-2",
+      "checks": {
+        "drawing_character": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 7.774,
+              "detail": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim.",
+              "evidence_ids": [
+                "shot-2-continuous"
+              ]
+            }
+          ],
+          "comparisons": [
+            {
+              "reference_id": "b1-ryan-v4",
+              "start": 0,
+              "end": 0.1,
+              "detail": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim."
+            }
+          ]
+        },
+        "semantic_acting": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 7.774,
+              "detail": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim.",
+              "evidence_ids": [
+                "shot-2-continuous"
+              ]
+            }
+          ],
+          "comparisons": [
+            {
+              "reference_id": "b1-ryan-v4",
+              "start": 0,
+              "end": 0.1,
+              "detail": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim."
+            }
+          ]
+        },
+        "contact_continuity": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 7.774,
+              "detail": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim.",
+              "evidence_ids": [
+                "shot-2-continuous"
+              ]
+            }
+          ],
+          "comparisons": [
+            {
+              "reference_id": "b1-ryan-v4",
+              "start": 0,
+              "end": 0.1,
+              "detail": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim."
+            }
+          ]
+        },
+        "composition_evidence": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 7.774,
+              "detail": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim.",
+              "evidence_ids": [
+                "shot-2-continuous"
+              ]
+            }
+          ],
+          "comparisons": [
+            {
+              "reference_id": "b1-ryan-v4",
+              "start": 0,
+              "end": 0.1,
+              "detail": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim."
+            }
+          ]
+        },
+        "typography_captions": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 7.774,
+              "detail": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim.",
+              "evidence_ids": [
+                "shot-2-continuous"
+              ]
+            }
+          ],
+          "comparisons": [
+            {
+              "reference_id": "b1-ryan-v4",
+              "start": 0,
+              "end": 0.1,
+              "detail": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim."
+            }
+          ]
+        },
+        "timing_pacing": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 7.774,
+              "detail": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim.",
+              "evidence_ids": [
+                "shot-2-continuous"
+              ]
+            }
+          ],
+          "comparisons": [
+            {
+              "reference_id": "b1-ryan-v4",
+              "start": 0,
+              "end": 0.1,
+              "detail": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim."
+            }
+          ]
+        },
+        "sound": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 7.774,
+              "detail": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim.",
+              "evidence_ids": [
+                "shot-2-continuous"
+              ]
+            }
+          ],
+          "comparisons": [
+            {
+              "reference_id": "b1-ryan-v4",
+              "start": 0,
+              "end": 0.1,
+              "detail": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "shot-3",
+      "checks": {
+        "drawing_character": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 10.685,
+              "detail": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim.",
+              "evidence_ids": [
+                "shot-3-continuous"
+              ]
+            }
+          ],
+          "comparisons": [
+            {
+              "reference_id": "b1-ryan-v4",
+              "start": 0,
+              "end": 0.1,
+              "detail": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim."
+            }
+          ]
+        },
+        "semantic_acting": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 10.685,
+              "detail": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim.",
+              "evidence_ids": [
+                "shot-3-continuous"
+              ]
+            }
+          ],
+          "comparisons": [
+            {
+              "reference_id": "b1-ryan-v4",
+              "start": 0,
+              "end": 0.1,
+              "detail": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim."
+            }
+          ]
+        },
+        "contact_continuity": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 10.685,
+              "detail": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim.",
+              "evidence_ids": [
+                "shot-3-continuous"
+              ]
+            }
+          ],
+          "comparisons": [
+            {
+              "reference_id": "b1-ryan-v4",
+              "start": 0,
+              "end": 0.1,
+              "detail": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim."
+            }
+          ]
+        },
+        "composition_evidence": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 10.685,
+              "detail": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim.",
+              "evidence_ids": [
+                "shot-3-continuous"
+              ]
+            }
+          ],
+          "comparisons": [
+            {
+              "reference_id": "b1-ryan-v4",
+              "start": 0,
+              "end": 0.1,
+              "detail": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim."
+            }
+          ]
+        },
+        "typography_captions": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 10.685,
+              "detail": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim.",
+              "evidence_ids": [
+                "shot-3-continuous"
+              ]
+            }
+          ],
+          "comparisons": [
+            {
+              "reference_id": "b1-ryan-v4",
+              "start": 0,
+              "end": 0.1,
+              "detail": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim."
+            }
+          ]
+        },
+        "timing_pacing": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 10.685,
+              "detail": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim.",
+              "evidence_ids": [
+                "shot-3-continuous"
+              ]
+            }
+          ],
+          "comparisons": [
+            {
+              "reference_id": "b1-ryan-v4",
+              "start": 0,
+              "end": 0.1,
+              "detail": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim."
+            }
+          ]
+        },
+        "sound": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 10.685,
+              "detail": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim.",
+              "evidence_ids": [
+                "shot-3-continuous"
+              ]
+            }
+          ],
+          "comparisons": [
+            {
+              "reference_id": "b1-ryan-v4",
+              "start": 0,
+              "end": 0.1,
+              "detail": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "shot-4",
+      "checks": {
+        "drawing_character": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 13.995,
+              "detail": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim.",
+              "evidence_ids": [
+                "shot-4-continuous"
+              ]
+            }
+          ],
+          "comparisons": [
+            {
+              "reference_id": "b1-ryan-v4",
+              "start": 0,
+              "end": 0.1,
+              "detail": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim."
+            }
+          ]
+        },
+        "semantic_acting": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 13.995,
+              "detail": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim.",
+              "evidence_ids": [
+                "shot-4-continuous"
+              ]
+            }
+          ],
+          "comparisons": [
+            {
+              "reference_id": "b1-ryan-v4",
+              "start": 0,
+              "end": 0.1,
+              "detail": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim."
+            }
+          ]
+        },
+        "contact_continuity": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 13.995,
+              "detail": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim.",
+              "evidence_ids": [
+                "shot-4-continuous"
+              ]
+            }
+          ],
+          "comparisons": [
+            {
+              "reference_id": "b1-ryan-v4",
+              "start": 0,
+              "end": 0.1,
+              "detail": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim."
+            }
+          ]
+        },
+        "composition_evidence": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 13.995,
+              "detail": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim.",
+              "evidence_ids": [
+                "shot-4-continuous"
+              ]
+            }
+          ],
+          "comparisons": [
+            {
+              "reference_id": "b1-ryan-v4",
+              "start": 0,
+              "end": 0.1,
+              "detail": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim."
+            }
+          ]
+        },
+        "typography_captions": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 13.995,
+              "detail": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim.",
+              "evidence_ids": [
+                "shot-4-continuous"
+              ]
+            }
+          ],
+          "comparisons": [
+            {
+              "reference_id": "b1-ryan-v4",
+              "start": 0,
+              "end": 0.1,
+              "detail": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim."
+            }
+          ]
+        },
+        "timing_pacing": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 13.995,
+              "detail": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim.",
+              "evidence_ids": [
+                "shot-4-continuous"
+              ]
+            }
+          ],
+          "comparisons": [
+            {
+              "reference_id": "b1-ryan-v4",
+              "start": 0,
+              "end": 0.1,
+              "detail": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim."
+            }
+          ]
+        },
+        "sound": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 13.995,
+              "detail": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim.",
+              "evidence_ids": [
+                "shot-4-continuous"
+              ]
+            }
+          ],
+          "comparisons": [
+            {
+              "reference_id": "b1-ryan-v4",
+              "start": 0,
+              "end": 0.1,
+              "detail": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "shot-5",
+      "checks": {
+        "drawing_character": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 15.145,
+              "detail": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim.",
+              "evidence_ids": [
+                "shot-5-continuous"
+              ]
+            }
+          ],
+          "comparisons": [
+            {
+              "reference_id": "b1-ryan-v4",
+              "start": 0,
+              "end": 0.1,
+              "detail": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim."
+            }
+          ]
+        },
+        "semantic_acting": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 15.145,
+              "detail": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim.",
+              "evidence_ids": [
+                "shot-5-continuous"
+              ]
+            }
+          ],
+          "comparisons": [
+            {
+              "reference_id": "b1-ryan-v4",
+              "start": 0,
+              "end": 0.1,
+              "detail": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim."
+            }
+          ]
+        },
+        "contact_continuity": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 15.145,
+              "detail": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim.",
+              "evidence_ids": [
+                "shot-5-continuous"
+              ]
+            }
+          ],
+          "comparisons": [
+            {
+              "reference_id": "b1-ryan-v4",
+              "start": 0,
+              "end": 0.1,
+              "detail": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim."
+            }
+          ]
+        },
+        "composition_evidence": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 15.145,
+              "detail": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim.",
+              "evidence_ids": [
+                "shot-5-continuous"
+              ]
+            }
+          ],
+          "comparisons": [
+            {
+              "reference_id": "b1-ryan-v4",
+              "start": 0,
+              "end": 0.1,
+              "detail": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim."
+            }
+          ]
+        },
+        "typography_captions": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 15.145,
+              "detail": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim.",
+              "evidence_ids": [
+                "shot-5-continuous"
+              ]
+            }
+          ],
+          "comparisons": [
+            {
+              "reference_id": "b1-ryan-v4",
+              "start": 0,
+              "end": 0.1,
+              "detail": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim."
+            }
+          ]
+        },
+        "timing_pacing": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 15.145,
+              "detail": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim.",
+              "evidence_ids": [
+                "shot-5-continuous"
+              ]
+            }
+          ],
+          "comparisons": [
+            {
+              "reference_id": "b1-ryan-v4",
+              "start": 0,
+              "end": 0.1,
+              "detail": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim."
+            }
+          ]
+        },
+        "sound": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 15.145,
+              "detail": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim.",
+              "evidence_ids": [
+                "shot-5-continuous"
+              ]
+            }
+          ],
+          "comparisons": [
+            {
+              "reference_id": "b1-ryan-v4",
+              "start": 0,
+              "end": 0.1,
+              "detail": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "shot-6",
+      "checks": {
+        "drawing_character": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 17.655,
+              "detail": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim.",
+              "evidence_ids": [
+                "shot-6-continuous"
+              ]
+            }
+          ],
+          "comparisons": [
+            {
+              "reference_id": "b1-ryan-v4",
+              "start": 0,
+              "end": 0.1,
+              "detail": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim."
+            }
+          ]
+        },
+        "semantic_acting": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 17.655,
+              "detail": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim.",
+              "evidence_ids": [
+                "shot-6-continuous"
+              ]
+            }
+          ],
+          "comparisons": [
+            {
+              "reference_id": "b1-ryan-v4",
+              "start": 0,
+              "end": 0.1,
+              "detail": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim."
+            }
+          ]
+        },
+        "contact_continuity": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 17.655,
+              "detail": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim.",
+              "evidence_ids": [
+                "shot-6-continuous"
+              ]
+            }
+          ],
+          "comparisons": [
+            {
+              "reference_id": "b1-ryan-v4",
+              "start": 0,
+              "end": 0.1,
+              "detail": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim."
+            }
+          ]
+        },
+        "composition_evidence": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 17.655,
+              "detail": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim.",
+              "evidence_ids": [
+                "shot-6-continuous"
+              ]
+            }
+          ],
+          "comparisons": [
+            {
+              "reference_id": "b1-ryan-v4",
+              "start": 0,
+              "end": 0.1,
+              "detail": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim."
+            }
+          ]
+        },
+        "typography_captions": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 17.655,
+              "detail": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim.",
+              "evidence_ids": [
+                "shot-6-continuous"
+              ]
+            }
+          ],
+          "comparisons": [
+            {
+              "reference_id": "b1-ryan-v4",
+              "start": 0,
+              "end": 0.1,
+              "detail": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim."
+            }
+          ]
+        },
+        "timing_pacing": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 17.655,
+              "detail": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim.",
+              "evidence_ids": [
+                "shot-6-continuous"
+              ]
+            }
+          ],
+          "comparisons": [
+            {
+              "reference_id": "b1-ryan-v4",
+              "start": 0,
+              "end": 0.1,
+              "detail": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim."
+            }
+          ]
+        },
+        "sound": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 17.655,
+              "detail": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim.",
+              "evidence_ids": [
+                "shot-6-continuous"
+              ]
+            }
+          ],
+          "comparisons": [
+            {
+              "reference_id": "b1-ryan-v4",
+              "start": 0,
+              "end": 0.1,
+              "detail": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim."
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "blocking_issues": [],
+  "limits": [
+    "Hashes, decoded artifacts and complete coverage establish current-media provenance, not aesthetic equivalence.",
+    "Reviewer identity, independence, actual viewing/listening and capability limitations are declarations, not authenticated facts.",
+    "Independent agent review does not imply human approval or user acceptance.",
+    "Sample-target review compares the available approved examples, not identical plots, voices, pixels or unavailable originals.",
+    "B3 endpoint geometry and authored intentions are diagnostics. Each graphic and motion event still needs actual-MP4 independent review; wrong relationships and meaningless motion cannot receive a limited-capability waiver.",
+    "The complete approved Full V4 film is unavailable in this bundle; only sampled long-form compositions are comparable."
+  ]
+}

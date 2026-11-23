@@ -1,0 +1,12 @@
+{
+  "canvas": [960, 540], "ground_y": 460, "scale": 0.85,
+  "background": "#f7f8fa", "initial_x": 235,
+  "beats": [
+    {"pose": "idle", "duration": 0.6, "to_x": 235, "transition": 0, "expression": "neutral"},
+    {"pose": "check_time", "duration": 1.1, "to_x": 235, "transition": 0.22, "expression": "worried", "effect": "sweat"},
+    {"pose": "wait", "duration": 1.2, "to_x": 235, "transition": 0.20, "expression": "bored"},
+    {"pose": "pace", "duration": 1.6, "to_x": 355, "transition": 0.22, "expression": "frustrated", "effect": "anger"},
+    {"pose": "check_time", "duration": 0.9, "to_x": 355, "transition": 0.19, "expression": "focused"},
+    {"pose": "relieved", "duration": 0.9, "to_x": 355, "transition": 0.19, "expression": "grateful"}
+  ]
+}

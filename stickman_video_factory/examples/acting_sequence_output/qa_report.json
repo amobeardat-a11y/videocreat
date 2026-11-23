@@ -1,0 +1,29 @@
+{
+  "status": "media_valid",
+  "checks": [
+    "video_stream",
+    "audio_stream",
+    "duration"
+  ],
+  "video": "video.mp4",
+  "duration_seconds": 18.0,
+  "scene_count": 1,
+  "line_count": 3,
+  "voice_rate_max": 1.0,
+  "acting_sequences": [
+    "explain_with_numbers",
+    "search_and_discover",
+    "small_victory"
+  ],
+  "vfx_used": [
+    "idea",
+    "question",
+    "sparkle",
+    "surprise",
+    "thought"
+  ],
+  "visual_types": [
+    "steps",
+    "text"
+  ]
+}

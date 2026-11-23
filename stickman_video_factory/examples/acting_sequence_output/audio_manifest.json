@@ -1,0 +1,19 @@
+{
+  "entries": {
+    "000": {
+      "sha256": "55f55e3b62b437556c3c353303db9503820a4d37a9a621546e29a8ca71ee1bdc",
+      "voice": "Adam bựa",
+      "spoken": "Khoan đã, mình vừa nghĩ ra một điều hay nhưng quên mất rồi."
+    },
+    "001": {
+      "sha256": "b7e459dc173bc324bc3774828bbe3bd7b713150ce703701a9dbc4728de8fbcd8",
+      "voice": "Adam bựa",
+      "spoken": "À, nhớ rồi! Chỉ cần chia vấn đề thành hai bước nhỏ."
+    },
+    "002": {
+      "sha256": "4fd99af8ef952b2c4ddbffbdbb6733003f9e0a6b3de0d21d124f30419d4be8f0",
+      "voice": "Adam bựa",
+      "spoken": "Làm được rồi. Hóa ra cách này đơn giản hơn mình tưởng."
+    }
+  }
+}

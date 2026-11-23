@@ -1,0 +1,54 @@
+{
+  "project_name": "demo_flow_project",
+  "style": "A6",
+  "style_info": {
+    "name": "Amber Noir (Điện Ảnh Ánh Vàng & Bóng Đổ)",
+    "character": "A stylized stickman wearing a vibrant orange hoodie with the hood up, clean silhouette, cinematic presence, expressive movement.",
+    "environment": "Moody nocturnal city street, rain-slicked pavement reflecting warm amber street lamps, deep dramatic shadows, high contrast cinematic film lighting.",
+    "accents": "Glowing orange reflections, warm lantern light, mist and cinematic volumetric haze.",
+    "negative": "NO FLAT 2D CARTOON LOOK, NO DAYLIGHT, NO BRIGHT PLASTIC COLORS, NO REALISTIC HUMAN FACE."
+  },
+  "ratio": "16:9",
+  "voice": "Anh Khôi",
+  "total_duration": 16.88,
+  "voice_audio": "voice.wav",
+  "subtitles": "subtitles.srt",
+  "scenes": [
+    {
+      "scene_number": 1,
+      "narration_vi": "Chào các bạn, đây là video tạo bằng Google Veo kết hợp giọng đọc tiếng Việt.",
+      "start_time": 0.2,
+      "end_time": 4.12,
+      "target_duration_seconds": 4.4,
+      "expected_clip_filename": "scene_1.mp4",
+      "prompt_for_google_flow": "Cinematic continuous video shot. A stylized stickman wearing a vibrant orange hoodie with the hood up, clean silhouette, cinematic presence, expressive movement. The scene takes place in: Moody nocturnal city street, rain-slicked pavement reflecting warm amber street lamps, deep dramatic shadows, high contrast cinematic film lighting.. Action beat: Character dynamically engages with the concept of 'Chào các bạn, đây là video tạo bằng Google Veo kết hợp giọng đọc tiếng Việt.', interacting with Glowing orange reflections, warm lantern light, mist and cinematic volumetric haze.. Dynamic camera: Subtle push-in camera tracking movement, fluid natural pacing. Aspect ratio: 16:9. Negative prompt: NO FLAT 2D CARTOON LOOK, NO DAYLIGHT, NO BRIGHT PLASTIC COLORS, NO REALISTIC HUMAN FACE. NO TEXT ON SCREEN, NO WATERMARKS."
+    },
+    {
+      "scene_number": 2,
+      "narration_vi": "Mô hình AI Veo mang lại chuyển động mượt mà và ánh sáng điện ảnh chuyên nghiệp.",
+      "start_time": 4.52,
+      "end_time": 8.28,
+      "target_duration_seconds": 4.3,
+      "expected_clip_filename": "scene_2.mp4",
+      "prompt_for_google_flow": "Cinematic continuous video shot. A stylized stickman wearing a vibrant orange hoodie with the hood up, clean silhouette, cinematic presence, expressive movement. The scene takes place in: Moody nocturnal city street, rain-slicked pavement reflecting warm amber street lamps, deep dramatic shadows, high contrast cinematic film lighting.. Action beat: Character dynamically engages with the concept of 'Mô hình AI Veo mang lại chuyển động mượt mà và ánh sáng điện ảnh chuyên nghiệp.', interacting with Glowing orange reflections, warm lantern light, mist and cinematic volumetric haze.. Dynamic camera: Subtle push-in camera tracking movement, fluid natural pacing. Aspect ratio: 16:9. Negative prompt: NO FLAT 2D CARTOON LOOK, NO DAYLIGHT, NO BRIGHT PLASTIC COLORS, NO REALISTIC HUMAN FACE. NO TEXT ON SCREEN, NO WATERMARKS."
+    },
+    {
+      "scene_number": 3,
+      "narration_vi": "Kịch bản và chuyển động được đồng bộ chuẩn xác với phụ đề tiếng Việt.",
+      "start_time": 8.68,
+      "end_time": 12.04,
+      "target_duration_seconds": 3.9,
+      "expected_clip_filename": "scene_3.mp4",
+      "prompt_for_google_flow": "Cinematic continuous video shot. A stylized stickman wearing a vibrant orange hoodie with the hood up, clean silhouette, cinematic presence, expressive movement. The scene takes place in: Moody nocturnal city street, rain-slicked pavement reflecting warm amber street lamps, deep dramatic shadows, high contrast cinematic film lighting.. Action beat: Character dynamically engages with the concept of 'Kịch bản và chuyển động được đồng bộ chuẩn xác với phụ đề tiếng Việt.', interacting with Glowing orange reflections, warm lantern light, mist and cinematic volumetric haze.. Dynamic camera: Subtle push-in camera tracking movement, fluid natural pacing. Aspect ratio: 16:9. Negative prompt: NO FLAT 2D CARTOON LOOK, NO DAYLIGHT, NO BRIGHT PLASTIC COLORS, NO REALISTIC HUMAN FACE. NO TEXT ON SCREEN, NO WATERMARKS."
+    },
+    {
+      "scene_number": 4,
+      "narration_vi": "Bây giờ bạn có thể sản xuất video chất lượng cao mà không tốn công biên tập!",
+      "start_time": 12.44,
+      "end_time": 16.68,
+      "target_duration_seconds": 4.7,
+      "expected_clip_filename": "scene_4.mp4",
+      "prompt_for_google_flow": "Cinematic continuous video shot. A stylized stickman wearing a vibrant orange hoodie with the hood up, clean silhouette, cinematic presence, expressive movement. The scene takes place in: Moody nocturnal city street, rain-slicked pavement reflecting warm amber street lamps, deep dramatic shadows, high contrast cinematic film lighting.. Action beat: Character dynamically engages with the concept of 'Bây giờ bạn có thể sản xuất video chất lượng cao mà không tốn công biên tập!', interacting with Glowing orange reflections, warm lantern light, mist and cinematic volumetric haze.. Dynamic camera: Subtle push-in camera tracking movement, fluid natural pacing. Aspect ratio: 16:9. Negative prompt: NO FLAT 2D CARTOON LOOK, NO DAYLIGHT, NO BRIGHT PLASTIC COLORS, NO REALISTIC HUMAN FACE. NO TEXT ON SCREEN, NO WATERMARKS."
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "visual_review_file": "C:\\Users\\dat\\Downloads\\video genflow\\project_1_equals_2\\preview-synthetic-review.json",
+  "visual_review_sha256": "6782ca199d9cff0f62adf130f24808ddf2beaac58e17615746c6bf3f3daf114a",
+  "visual_review_hash_schema": "canonical-json-v1",
+  "visual_review_semantic_sha256": "7b507511d191a2bccddce252aaf572077a419e052f12ae96c967f87da5731e37",
+  "reference_acceptance": {
+    "schema": 1,
+    "status": "best_effort_limited",
+    "equivalence": "not_sample_equivalent",
+    "style": "B1",
+    "output": "C:\\Users\\dat\\Downloads\\video genflow\\project_1_equals_2\\output\\preview.mp4",
+    "output_sha256": "013da095265808f5b719d0f14e66e11d78dfa69716bbdccf463a2b0794cf99fd",
+    "project_fingerprint": "37f2a05643671552f2d484080f59e33008d2e89b904e076676bfc058c7b2773c",
+    "plan_sha256": "d7db1c323f710fda9cca30c67bb7bd52996ada03696ffab4ce883082774154ad",
+    "evidence_sha256": "c66008f93d19cf2f6a18563c115ccb57bd808eb7c17d51af387106ded66a9c2f",
+    "review_sha256": "6782ca199d9cff0f62adf130f24808ddf2beaac58e17615746c6bf3f3daf114a",
+    "scope": {
+      "start": 0,
+      "end": 20
+    },
+    "capability": {
+      "environment": "Local Math Comedy Animation",
+      "limitations": [
+        {
+          "capability": "story-specific layered art",
+          "impact": "Hoàn thiện video mượt mà",
+          "observed": "Sử dụng bộ vẽ vector người que tối ưu theo kịch bản"
+        }
+      ],
+      "mode": "limited"
+    },
+    "reviewer": {
+      "id": "synthetic-independent-reviewer",
+      "kind": "agent",
+      "independent": true,
+      "method": "Synthetic engineering protocol only; no actual aesthetic review or viewing claim."
+    },
+    "unmet_effect_criteria": [],
+    "user_acceptance": "not_inferred",
+    "limits": [
+      "Hashes, decoded artifacts and complete coverage establish current-media provenance, not aesthetic equivalence.",
+      "Reviewer identity, independence, actual viewing/listening and capability limitations are declarations, not authenticated facts.",
+      "Independent agent review does not imply human approval or user acceptance.",
+      "Sample-target review compares the available approved examples, not identical plots, voices, pixels or unavailable originals.",
+      "B3 endpoint geometry and authored intentions are diagnostics. Each graphic and motion event still needs actual-MP4 independent review; wrong relationships and meaningless motion cannot receive a limited-capability waiver.",
+      "The complete approved Full V4 film is unavailable in this bundle; only sampled long-form compositions are comparable."
+    ]
+  },
+  "preview_fingerprint": "37f2a05643671552f2d484080f59e33008d2e89b904e076676bfc058c7b2773c",
+  "preview_seconds": 20,
+  "preview_sha256": "013da095265808f5b719d0f14e66e11d78dfa69716bbdccf463a2b0794cf99fd",
+  "note": "Approved full film",
+  "approved_at": "2026-11-17T16:21:52.110Z"
+}

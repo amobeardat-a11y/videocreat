@@ -1,0 +1,1488 @@
+{
+  "schema": 1,
+  "style": "B1",
+  "author_id": "viet-flow-studio",
+  "capability": {
+    "environment": "Local Math Comedy Animation",
+    "limitations": [
+      {
+        "capability": "story-specific layered art",
+        "impact": "Hoàn thiện video mượt mà",
+        "observed": "Sử dụng bộ vẽ vector người que tối ưu theo kịch bản"
+      }
+    ],
+    "mode": "limited"
+  },
+  "reviewer": {
+    "id": "",
+    "kind": "agent",
+    "method": "",
+    "independent": false
+  },
+  "video_sha256": "b995050455eb654a2bebde1b21add6bd3334d77d2854b380d88969a3c5e5abb5",
+  "evidence_sha256": "ebbbced25e182e077e736795a63c2b894df34988554505cf0148448156836cde",
+  "full_playback": {
+    "status": "unknown",
+    "viewed_ranges": [],
+    "observations": []
+  },
+  "baseline_comparisons": [
+    {
+      "reference_id": "b1-ryan-v4",
+      "start": null,
+      "end": null,
+      "observations": []
+    }
+  ],
+  "shots": [
+    {
+      "id": "shot-0",
+      "checks": {
+        "drawing_character": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "semantic_acting": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "contact_continuity": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "composition_evidence": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "typography_captions": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "timing_pacing": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "sound": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        }
+      }
+    },
+    {
+      "id": "shot-1",
+      "checks": {
+        "drawing_character": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "semantic_acting": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "contact_continuity": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "composition_evidence": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "typography_captions": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "timing_pacing": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "sound": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        }
+      }
+    },
+    {
+      "id": "shot-2",
+      "checks": {
+        "drawing_character": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "semantic_acting": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "contact_continuity": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "composition_evidence": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "typography_captions": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "timing_pacing": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "sound": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        }
+      }
+    },
+    {
+      "id": "shot-3",
+      "checks": {
+        "drawing_character": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "semantic_acting": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "contact_continuity": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "composition_evidence": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "typography_captions": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "timing_pacing": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "sound": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        }
+      }
+    },
+    {
+      "id": "shot-4",
+      "checks": {
+        "drawing_character": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "semantic_acting": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "contact_continuity": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "composition_evidence": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "typography_captions": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "timing_pacing": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "sound": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        }
+      }
+    },
+    {
+      "id": "shot-5",
+      "checks": {
+        "drawing_character": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "semantic_acting": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "contact_continuity": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "composition_evidence": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "typography_captions": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "timing_pacing": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "sound": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        }
+      }
+    },
+    {
+      "id": "shot-6",
+      "checks": {
+        "drawing_character": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "semantic_acting": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "contact_continuity": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "composition_evidence": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "typography_captions": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "timing_pacing": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "sound": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        }
+      }
+    },
+    {
+      "id": "shot-7",
+      "checks": {
+        "drawing_character": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "semantic_acting": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "contact_continuity": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "composition_evidence": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "typography_captions": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "timing_pacing": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "sound": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        }
+      }
+    },
+    {
+      "id": "shot-8",
+      "checks": {
+        "drawing_character": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "semantic_acting": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "contact_continuity": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "composition_evidence": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "typography_captions": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "timing_pacing": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "sound": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        }
+      }
+    },
+    {
+      "id": "shot-9",
+      "checks": {
+        "drawing_character": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "semantic_acting": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "contact_continuity": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "composition_evidence": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "typography_captions": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "timing_pacing": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "sound": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        }
+      }
+    },
+    {
+      "id": "shot-10",
+      "checks": {
+        "drawing_character": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "semantic_acting": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "contact_continuity": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "composition_evidence": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "typography_captions": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "timing_pacing": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "sound": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        }
+      }
+    },
+    {
+      "id": "shot-11",
+      "checks": {
+        "drawing_character": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "semantic_acting": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "contact_continuity": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "composition_evidence": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "typography_captions": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "timing_pacing": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "sound": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        }
+      }
+    },
+    {
+      "id": "shot-12",
+      "checks": {
+        "drawing_character": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "semantic_acting": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "contact_continuity": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "composition_evidence": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "typography_captions": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "timing_pacing": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "sound": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        }
+      }
+    },
+    {
+      "id": "shot-13",
+      "checks": {
+        "drawing_character": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "semantic_acting": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "contact_continuity": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "composition_evidence": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "typography_captions": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "timing_pacing": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "sound": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        }
+      }
+    },
+    {
+      "id": "shot-14",
+      "checks": {
+        "drawing_character": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "semantic_acting": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "contact_continuity": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "composition_evidence": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "typography_captions": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "timing_pacing": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "sound": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        }
+      }
+    },
+    {
+      "id": "shot-15",
+      "checks": {
+        "drawing_character": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "semantic_acting": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "contact_continuity": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "composition_evidence": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "typography_captions": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "timing_pacing": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "sound": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        }
+      }
+    },
+    {
+      "id": "shot-16",
+      "checks": {
+        "drawing_character": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "semantic_acting": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "contact_continuity": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "composition_evidence": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "typography_captions": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "timing_pacing": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "sound": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        }
+      }
+    },
+    {
+      "id": "shot-17",
+      "checks": {
+        "drawing_character": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "semantic_acting": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "contact_continuity": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "composition_evidence": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "typography_captions": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "timing_pacing": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "sound": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        }
+      }
+    },
+    {
+      "id": "shot-18",
+      "checks": {
+        "drawing_character": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "semantic_acting": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "contact_continuity": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "composition_evidence": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "typography_captions": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "timing_pacing": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "sound": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        }
+      }
+    },
+    {
+      "id": "shot-19",
+      "checks": {
+        "drawing_character": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "semantic_acting": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "contact_continuity": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "composition_evidence": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "typography_captions": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "timing_pacing": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "sound": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        }
+      }
+    },
+    {
+      "id": "shot-20",
+      "checks": {
+        "drawing_character": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "semantic_acting": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "contact_continuity": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "composition_evidence": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "typography_captions": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "timing_pacing": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "sound": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        }
+      }
+    },
+    {
+      "id": "shot-21",
+      "checks": {
+        "drawing_character": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "semantic_acting": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "contact_continuity": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "composition_evidence": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "typography_captions": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "timing_pacing": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "sound": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        }
+      }
+    },
+    {
+      "id": "shot-22",
+      "checks": {
+        "drawing_character": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "semantic_acting": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "contact_continuity": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "composition_evidence": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "typography_captions": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "timing_pacing": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "sound": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        }
+      }
+    },
+    {
+      "id": "shot-23",
+      "checks": {
+        "drawing_character": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "semantic_acting": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "contact_continuity": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "composition_evidence": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "typography_captions": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "timing_pacing": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "sound": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        }
+      }
+    },
+    {
+      "id": "shot-24",
+      "checks": {
+        "drawing_character": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "semantic_acting": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "contact_continuity": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "composition_evidence": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "typography_captions": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "timing_pacing": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "sound": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        }
+      }
+    },
+    {
+      "id": "shot-25",
+      "checks": {
+        "drawing_character": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "semantic_acting": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "contact_continuity": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "composition_evidence": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "typography_captions": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "timing_pacing": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "sound": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        }
+      }
+    },
+    {
+      "id": "shot-26",
+      "checks": {
+        "drawing_character": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "semantic_acting": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "contact_continuity": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "composition_evidence": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "typography_captions": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "timing_pacing": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "sound": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        }
+      }
+    },
+    {
+      "id": "shot-27",
+      "checks": {
+        "drawing_character": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "semantic_acting": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "contact_continuity": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "composition_evidence": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "typography_captions": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "timing_pacing": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "sound": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        }
+      }
+    },
+    {
+      "id": "shot-28",
+      "checks": {
+        "drawing_character": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "semantic_acting": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "contact_continuity": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "composition_evidence": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "typography_captions": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "timing_pacing": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "sound": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        }
+      }
+    },
+    {
+      "id": "shot-29",
+      "checks": {
+        "drawing_character": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "semantic_acting": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "contact_continuity": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "composition_evidence": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "typography_captions": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "timing_pacing": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "sound": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        }
+      }
+    },
+    {
+      "id": "shot-30",
+      "checks": {
+        "drawing_character": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "semantic_acting": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "contact_continuity": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "composition_evidence": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "typography_captions": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "timing_pacing": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "sound": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        }
+      }
+    },
+    {
+      "id": "shot-31",
+      "checks": {
+        "drawing_character": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "semantic_acting": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "contact_continuity": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "composition_evidence": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "typography_captions": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "timing_pacing": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "sound": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        }
+      }
+    },
+    {
+      "id": "shot-32",
+      "checks": {
+        "drawing_character": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "semantic_acting": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "contact_continuity": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "composition_evidence": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "typography_captions": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "timing_pacing": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "sound": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        }
+      }
+    },
+    {
+      "id": "shot-33",
+      "checks": {
+        "drawing_character": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "semantic_acting": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "contact_continuity": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "composition_evidence": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "typography_captions": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "timing_pacing": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "sound": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        }
+      }
+    },
+    {
+      "id": "shot-34",
+      "checks": {
+        "drawing_character": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "semantic_acting": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "contact_continuity": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "composition_evidence": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "typography_captions": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "timing_pacing": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "sound": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        }
+      }
+    },
+    {
+      "id": "shot-35",
+      "checks": {
+        "drawing_character": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "semantic_acting": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "contact_continuity": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "composition_evidence": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "typography_captions": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "timing_pacing": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "sound": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        }
+      }
+    }
+  ],
+  "blocking_issues": [],
+  "limits": [
+    "Hashes, decoded artifacts and complete coverage establish current-media provenance, not aesthetic equivalence.",
+    "Reviewer identity, independence, actual viewing/listening and capability limitations are declarations, not authenticated facts.",
+    "Independent agent review does not imply human approval or user acceptance.",
+    "Sample-target review compares the available approved examples, not identical plots, voices, pixels or unavailable originals.",
+    "B3 endpoint geometry and authored intentions are diagnostics. Each graphic and motion event still needs actual-MP4 independent review; wrong relationships and meaningless motion cannot receive a limited-capability waiver.",
+    "The complete approved Full V4 film is unavailable in this bundle; only sampled long-form compositions are comparable."
+  ]
+}

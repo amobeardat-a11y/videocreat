@@ -1,0 +1,723 @@
+{
+  "title": "AI KHÔNG BIẾT GIÁ SHIP, NHƯNG LẠI DÁM DỰ ĐOÁN?",
+  "duration": 260.312,
+  "fps": 18,
+  "scenes": [
+    {
+      "index": 0,
+      "title": "AI CÓ BIẾT ĐỌC SUY NGHĨ KHÔNG?",
+      "start": 0.0,
+      "end": 35.0,
+      "nominal_duration": 35,
+      "voice_rate": 1.0
+    },
+    {
+      "index": 1,
+      "title": "ĐƯỜNG THẲNG BIẾT SUY NGHĨ?",
+      "start": 35.0,
+      "end": 80.0,
+      "nominal_duration": 45,
+      "voice_rate": 1.0
+    },
+    {
+      "index": 2,
+      "title": "AI BIẾT MÌNH SAI BẰNG CÁCH NÀO?",
+      "start": 80.0,
+      "end": 135.0,
+      "nominal_duration": 55,
+      "voice_rate": 1.0
+    },
+    {
+      "index": 3,
+      "title": "AI HỌC NHƯ THẾ NÀO?",
+      "start": 135.0,
+      "end": 185.0,
+      "nominal_duration": 50,
+      "voice_rate": 1.143
+    },
+    {
+      "index": 4,
+      "title": "KHI AI ĐÚNG TOÁN NHƯNG SAI ĐỜI",
+      "start": 185.0,
+      "end": 235.0,
+      "nominal_duration": 50,
+      "voice_rate": 1.0
+    },
+    {
+      "index": 5,
+      "title": "CÂU KẾT",
+      "start": 235.0,
+      "end": 260.312,
+      "nominal_duration": 25,
+      "voice_rate": 1.18
+    }
+  ],
+  "lines": [
+    {
+      "index": 0,
+      "scene": 0,
+      "speaker": "Nam",
+      "text": "Tao vừa phát hiện một cách làm giàu.",
+      "visual": "desk",
+      "start": 1.041,
+      "end": 3.281
+    },
+    {
+      "index": 1,
+      "scene": 0,
+      "speaker": "Minh",
+      "text": "Lại đa cấp à?",
+      "visual": "desk",
+      "start": 4.212,
+      "end": 5.412
+    },
+    {
+      "index": 2,
+      "scene": 0,
+      "speaker": "Nam",
+      "text": "Không. Tao muốn dự đoán phí ship của đối thủ để đặt giá cạnh tranh. Nhưng tao chỉ có dữ liệu của bốn đơn hàng.",
+      "visual": "table",
+      "start": 6.343,
+      "end": 12.743
+    },
+    {
+      "index": 3,
+      "scene": 0,
+      "speaker": "Minh",
+      "text": "Đưa đây.",
+      "visual": "table",
+      "start": 13.674,
+      "end": 14.314
+    },
+    {
+      "index": 4,
+      "scene": 0,
+      "speaker": "Nam",
+      "text": "Đố mày đơn 5 km bao nhiêu tiền?",
+      "visual": "question",
+      "start": 15.245,
+      "end": 17.565
+    },
+    {
+      "index": 5,
+      "scene": 0,
+      "speaker": "Minh",
+      "text": "Khoảng 28 nghìn.",
+      "visual": "answer",
+      "start": 18.495,
+      "end": 19.775
+    },
+    {
+      "index": 6,
+      "scene": 0,
+      "speaker": "Nam",
+      "text": "Mày hack hệ thống à?",
+      "visual": "hack",
+      "start": 20.706,
+      "end": 22.226
+    },
+    {
+      "index": 7,
+      "scene": 0,
+      "speaker": "Minh",
+      "text": "Không. Linear Regression.",
+      "visual": "answer",
+      "start": 23.157,
+      "end": 25.077
+    },
+    {
+      "index": 8,
+      "scene": 0,
+      "speaker": "Nam",
+      "text": "Mày vừa đọc tên một loại thuốc đúng không?",
+      "visual": "medicine",
+      "start": 26.008,
+      "end": 28.168
+    },
+    {
+      "index": 9,
+      "scene": 0,
+      "speaker": "Minh",
+      "text": "Hồi quy tuyến tính. Nó dùng dữ liệu để tìm ra một mối quan hệ gần đúng giữa hai đại lượng.",
+      "visual": "definition",
+      "start": 29.099,
+      "end": 33.899
+    },
+    {
+      "index": 10,
+      "scene": 1,
+      "speaker": "Minh",
+      "text": "Giả sử trục ngang là khoảng cách, trục dọc là phí ship. Mỗi đơn hàng là một điểm.",
+      "visual": "scatter",
+      "start": 36.63,
+      "end": 41.19
+    },
+    {
+      "index": 11,
+      "scene": 1,
+      "speaker": "Nam",
+      "text": "Rồi AI làm gì?",
+      "visual": "scatter",
+      "start": 42.71,
+      "end": 44.15
+    },
+    {
+      "index": 12,
+      "scene": 1,
+      "speaker": "Minh",
+      "text": "Tìm một đường thẳng phù hợp với những điểm này.",
+      "visual": "line",
+      "start": 45.67,
+      "end": 47.83
+    },
+    {
+      "index": 13,
+      "scene": 1,
+      "speaker": "Minh",
+      "text": "x là khoảng cách. w là hệ số góc. b là hệ số chặn. Còn y mũ là giá trị dự đoán.",
+      "visual": "formula",
+      "start": 49.35,
+      "end": 54.71
+    },
+    {
+      "index": 14,
+      "scene": 1,
+      "speaker": "Nam",
+      "text": "Thế w và b bằng bao nhiêu?",
+      "visual": "formula",
+      "start": 56.23,
+      "end": 58.31
+    },
+    {
+      "index": 15,
+      "scene": 1,
+      "speaker": "Minh",
+      "text": "Đấy là thứ mô hình phải học từ dữ liệu.",
+      "visual": "learn",
+      "start": 59.83,
+      "end": 61.83
+    },
+    {
+      "index": 16,
+      "scene": 1,
+      "speaker": "Nam",
+      "text": "Tao chọn w bằng 100, b bằng 500 được không?",
+      "visual": "badline",
+      "start": 63.35,
+      "end": 66.87
+    },
+    {
+      "index": 17,
+      "scene": 1,
+      "speaker": "Minh",
+      "text": "Được. Với 1 km, mày dự đoán phí ship 600 nghìn.",
+      "visual": "badline",
+      "start": 68.39,
+      "end": 71.51
+    },
+    {
+      "index": 18,
+      "scene": 1,
+      "speaker": "Nam",
+      "text": "Ship bằng trực thăng à?",
+      "visual": "helicopter",
+      "start": 73.03,
+      "end": 74.47
+    },
+    {
+      "index": 19,
+      "scene": 1,
+      "speaker": "Minh",
+      "text": "Đấy. Chọn bừa thì có thể sai rất xa.",
+      "visual": "badline",
+      "start": 75.99,
+      "end": 78.31
+    },
+    {
+      "index": 20,
+      "scene": 2,
+      "speaker": "Nam",
+      "text": "Nhưng AI có mắt đâu mà biết đường nào đúng?",
+      "visual": "scatter",
+      "start": 80.33,
+      "end": 82.89
+    },
+    {
+      "index": 21,
+      "scene": 2,
+      "speaker": "Minh",
+      "text": "Nó không cần mắt. Nó có hàm mất mát, gọi là Loss Function.",
+      "visual": "loss",
+      "start": 83.11,
+      "end": 86.63
+    },
+    {
+      "index": 22,
+      "scene": 2,
+      "speaker": "Minh",
+      "text": "Giả sử đơn 2 km có phí thật là 19 nghìn, nhưng mô hình dự đoán 17 nghìn. Sai lệch là 2 nghìn.",
+      "visual": "residual",
+      "start": 86.85,
+      "end": 93.01
+    },
+    {
+      "index": 23,
+      "scene": 2,
+      "speaker": "Nam",
+      "text": "Sai thì sửa.",
+      "visual": "residual",
+      "start": 93.23,
+      "end": 94.19
+    },
+    {
+      "index": 24,
+      "scene": 2,
+      "speaker": "Minh",
+      "text": "Nói dễ nhỉ. Có hàng triệu đơn hàng, làm sao biết sửa thế nào?",
+      "visual": "many",
+      "start": 94.41,
+      "end": 97.85
+    },
+    {
+      "index": 25,
+      "scene": 2,
+      "speaker": "Minh",
+      "text": "Một cách phổ biến là dùng Mean Squared Error.",
+      "visual": "mse",
+      "start": 98.07,
+      "end": 100.39
+    },
+    {
+      "index": 26,
+      "scene": 2,
+      "speaker": "Nam",
+      "text": "Sao phải bình phương sai số?",
+      "visual": "mse",
+      "start": 100.61,
+      "end": 102.37
+    },
+    {
+      "index": 27,
+      "scene": 2,
+      "speaker": "Minh",
+      "text": "Vì nếu không bình phương, lỗi âm với lỗi dương có thể triệt tiêu nhau. Ngoài ra, bình phương làm lỗi lớn bị phạt nặng hơn.",
+      "visual": "square",
+      "start": 102.59,
+      "end": 108.91
+    },
+    {
+      "index": 28,
+      "scene": 2,
+      "speaker": "Nam",
+      "text": "Ví dụ?",
+      "visual": "square",
+      "start": 109.13,
+      "end": 109.85
+    },
+    {
+      "index": 29,
+      "scene": 2,
+      "speaker": "Minh",
+      "text": "Sai 2 thì bình phương là 4. Sai 10 thì bình phương là 100.",
+      "visual": "compare",
+      "start": 110.07,
+      "end": 113.67
+    },
+    {
+      "index": 30,
+      "scene": 2,
+      "speaker": "Nam",
+      "text": "À, tức là càng sai lớn càng bị phạt nặng.",
+      "visual": "compare",
+      "start": 113.89,
+      "end": 116.77
+    },
+    {
+      "index": 31,
+      "scene": 2,
+      "speaker": "Minh",
+      "text": "Chính xác. Mô hình tìm w và b sao cho tổng bình phương các sai số nhỏ nhất.",
+      "visual": "minimize",
+      "start": 116.99,
+      "end": 121.31
+    },
+    {
+      "index": 32,
+      "scene": 2,
+      "speaker": "Nam",
+      "text": "Giống cuộc đời nhỉ. Không cần hoàn hảo, chỉ cần ít sai nhất.",
+      "visual": "life",
+      "start": 121.53,
+      "end": 125.13
+    },
+    {
+      "index": 33,
+      "scene": 2,
+      "speaker": "Minh",
+      "text": "Khác một chút. Cuộc đời đôi khi sai một lần là hết cơ hội tính trung bình.",
+      "visual": "life",
+      "start": 125.35,
+      "end": 129.19
+    },
+    {
+      "index": 34,
+      "scene": 2,
+      "speaker": "Nam",
+      "text": "Sao đang học AI mà mày chuyển sang dạy đạo lý?",
+      "visual": "awkward",
+      "start": 131.41,
+      "end": 134.61
+    },
+    {
+      "index": 35,
+      "scene": 3,
+      "speaker": "Nam",
+      "text": "Nhưng cụ thể nó sửa w và b kiểu gì?",
+      "visual": "valley",
+      "start": 135.28,
+      "end": 137.59
+    },
+    {
+      "index": 36,
+      "scene": 3,
+      "speaker": "Minh",
+      "text": "Một phương pháp là Gradient Descent.",
+      "visual": "valley",
+      "start": 137.76,
+      "end": 139.58
+    },
+    {
+      "index": 37,
+      "scene": 3,
+      "speaker": "Minh",
+      "text": "Tưởng tượng MSE là độ cao của một ngọn đồi. Ta muốn xuống vị trí thấp nhất.",
+      "visual": "valley",
+      "start": 139.75,
+      "end": 143.39
+    },
+    {
+      "index": 38,
+      "scene": 3,
+      "speaker": "Nam",
+      "text": "Thế cứ chạy xuống dốc?",
+      "visual": "valley",
+      "start": 143.56,
+      "end": 144.68
+    },
+    {
+      "index": 39,
+      "scene": 3,
+      "speaker": "Minh",
+      "text": "Gần như thế. Ta tính đạo hàm để biết hướng thay đổi w và b làm MSE giảm, rồi cập nhật.",
+      "visual": "update",
+      "start": 144.85,
+      "end": 149.75
+    },
+    {
+      "index": 40,
+      "scene": 3,
+      "speaker": "Nam",
+      "text": "Alpha là gì?",
+      "visual": "alpha",
+      "start": 149.92,
+      "end": 150.9
+    },
+    {
+      "index": 41,
+      "scene": 3,
+      "speaker": "Minh",
+      "text": "Learning Rate. Nó quyết định độ lớn mỗi bước cập nhật.",
+      "visual": "alpha",
+      "start": 151.07,
+      "end": 153.59
+    },
+    {
+      "index": 42,
+      "scene": 3,
+      "speaker": "Nam",
+      "text": "Alpha càng lớn thì học càng nhanh?",
+      "visual": "bigstep",
+      "start": 153.76,
+      "end": 155.58
+    },
+    {
+      "index": 43,
+      "scene": 3,
+      "speaker": "Minh",
+      "text": "Không hẳn. Lớn quá có thể nhảy qua điểm tối ưu, thậm chí khiến sai số tăng hoặc không hội tụ.",
+      "visual": "bigstep",
+      "start": 155.75,
+      "end": 160.16
+    },
+    {
+      "index": 44,
+      "scene": 3,
+      "speaker": "Nam",
+      "text": "Như đi xuống cầu thang mà nhảy một phát mười bậc?",
+      "visual": "stairs",
+      "start": 160.33,
+      "end": 162.78
+    },
+    {
+      "index": 45,
+      "scene": 3,
+      "speaker": "Minh",
+      "text": "Đúng. Mày sẽ học được bài học về trọng lực trước khi học xong AI.",
+      "visual": "stairs",
+      "start": 162.95,
+      "end": 165.96
+    },
+    {
+      "index": 46,
+      "scene": 3,
+      "speaker": "Minh",
+      "text": "Với dữ liệu này, nghiệm bình phương tối thiểu là y dự đoán bằng 3 phẩy 2 nhân x cộng 12. Đơn vị là nghìn đồng.",
+      "visual": "fit",
+      "start": 166.13,
+      "end": 171.31
+    },
+    {
+      "index": 47,
+      "scene": 3,
+      "speaker": "Nam",
+      "text": "Tức là thêm 1 km thì giá dự đoán tăng 3.200 đồng?",
+      "visual": "slope",
+      "start": 171.48,
+      "end": 174.91
+    },
+    {
+      "index": 48,
+      "scene": 3,
+      "speaker": "Minh",
+      "text": "Đúng theo mô hình. Còn 12 nghìn là phí dự đoán khi khoảng cách bằng 0, không nhất thiết là mức phí mở đơn thật ngoài đời.",
+      "visual": "intercept",
+      "start": 175.08,
+      "end": 180.68
+    },
+    {
+      "index": 49,
+      "scene": 3,
+      "speaker": "Nam",
+      "text": "Và 5 km là 28 nghìn!",
+      "visual": "predict",
+      "start": 180.85,
+      "end": 183.09
+    },
+    {
+      "index": 50,
+      "scene": 3,
+      "speaker": "Minh",
+      "text": "Chính xác về mặt tính toán.",
+      "visual": "predict",
+      "start": 183.26,
+      "end": 184.66
+    },
+    {
+      "index": 51,
+      "scene": 4,
+      "speaker": "Nam",
+      "text": "AI nói 28 nghìn. Để xem!",
+      "visual": "phone",
+      "start": 185.572,
+      "end": 188.052
+    },
+    {
+      "index": 52,
+      "scene": 4,
+      "speaker": "Nam",
+      "text": "NĂM MƯƠI LĂM NGHÌN?!",
+      "visual": "shock",
+      "start": 188.514,
+      "end": 189.714
+    },
+    {
+      "index": 53,
+      "scene": 4,
+      "speaker": "Nam",
+      "text": "AI của mày ngu rồi!",
+      "visual": "shock",
+      "start": 190.176,
+      "end": 191.776
+    },
+    {
+      "index": 54,
+      "scene": 4,
+      "speaker": "Minh",
+      "text": "Ngoài trời đang mưa rất to đúng không?",
+      "visual": "rain",
+      "start": 192.238,
+      "end": 194.157
+    },
+    {
+      "index": 55,
+      "scene": 4,
+      "speaker": "Nam",
+      "text": "Ừ.",
+      "visual": "rain",
+      "start": 194.619,
+      "end": 195.259
+    },
+    {
+      "index": 56,
+      "scene": 4,
+      "speaker": "Minh",
+      "text": "Đơn đang giờ cao điểm đúng không?",
+      "visual": "rush",
+      "start": 195.721,
+      "end": 197.481
+    },
+    {
+      "index": 57,
+      "scene": 4,
+      "speaker": "Nam",
+      "text": "Ừ.",
+      "visual": "rush",
+      "start": 197.943,
+      "end": 198.503
+    },
+    {
+      "index": 58,
+      "scene": 4,
+      "speaker": "Minh",
+      "text": "Dữ liệu ban đầu của mày có thông tin về trời mưa với giờ cao điểm không?",
+      "visual": "missing",
+      "start": 198.965,
+      "end": 202.645
+    },
+    {
+      "index": 59,
+      "scene": 4,
+      "speaker": "Nam",
+      "text": "...Không.",
+      "visual": "missing",
+      "start": 203.107,
+      "end": 203.747
+    },
+    {
+      "index": 60,
+      "scene": 4,
+      "speaker": "Minh",
+      "text": "Vậy tại sao mày đòi nó biết?",
+      "visual": "missing",
+      "start": 204.209,
+      "end": 205.889
+    },
+    {
+      "index": 61,
+      "scene": 4,
+      "speaker": "Minh",
+      "text": "Mô hình chỉ được học mối liên hệ giữa khoảng cách và giá. Nó chưa được cung cấp các yếu tố khác có thể tác động đến phí ship.",
+      "visual": "features",
+      "start": 207.001,
+      "end": 213.481
+    },
+    {
+      "index": 62,
+      "scene": 4,
+      "speaker": "Nam",
+      "text": "Thế phải làm gì?",
+      "visual": "features",
+      "start": 213.942,
+      "end": 215.062
+    },
+    {
+      "index": 63,
+      "scene": 4,
+      "speaker": "Minh",
+      "text": "Thu thập thêm dữ liệu, thêm đặc trưng phù hợp, chẳng hạn thời tiết và giờ đặt hàng. Ta có thể dùng Multiple Linear Regression.",
+      "visual": "multiple",
+      "start": 215.524,
+      "end": 222.484
+    },
+    {
+      "index": 64,
+      "scene": 4,
+      "speaker": "Nam",
+      "text": "Vậy cứ thêm thật nhiều dữ liệu là AI sẽ biết tất cả?",
+      "visual": "multiple",
+      "start": 222.946,
+      "end": 226.066
+    },
+    {
+      "index": 65,
+      "scene": 4,
+      "speaker": "Minh",
+      "text": "Không. Dữ liệu tốt giúp mô hình có cơ hội dự đoán tốt hơn, nhưng không bảo đảm nó đúng. Còn phải kiểm tra trên dữ liệu chưa từng dùng để huấn luyện.",
+      "visual": "test",
+      "start": 226.528,
+      "end": 234.368
+    },
+    {
+      "index": 66,
+      "scene": 5,
+      "speaker": "Nam",
+      "text": "Tức là AI không thật sự hiểu giá ship?",
+      "visual": "summary",
+      "start": 235.28,
+      "end": 237.449
+    },
+    {
+      "index": 67,
+      "scene": 5,
+      "speaker": "Minh",
+      "text": "Nó học những quy luật thống kê trong dữ liệu, chứ không tự động hiểu toàn bộ cơ chế vận hành của thế giới.",
+      "visual": "summary",
+      "start": 237.619,
+      "end": 242.026
+    },
+    {
+      "index": 68,
+      "scene": 5,
+      "speaker": "Nam",
+      "text": "Thế một mô hình có MSE rất thấp vẫn có thể dự đoán sai?",
+      "visual": "summary",
+      "start": 242.196,
+      "end": 245.451
+    },
+    {
+      "index": 69,
+      "scene": 5,
+      "speaker": "Minh",
+      "text": "Có. Đặc biệt khi dữ liệu mới khác dữ liệu huấn luyện, hoặc khi mô hình thiếu những biến cần thiết.",
+      "visual": "summary",
+      "start": 245.621,
+      "end": 249.485
+    },
+    {
+      "index": 70,
+      "scene": 5,
+      "speaker": "Nam",
+      "text": "Hiểu rồi. Dữ liệu không đủ mà tự tin quá thì rất nguy hiểm.",
+      "visual": "summary",
+      "start": 249.655,
+      "end": 252.909
+    },
+    {
+      "index": 71,
+      "scene": 5,
+      "speaker": "Minh",
+      "text": "Đúng.",
+      "visual": "summary",
+      "start": 253.079,
+      "end": 253.554
+    },
+    {
+      "index": 72,
+      "scene": 5,
+      "speaker": "Nam",
+      "text": "Giống mày lúc bảo 28 nghìn ấy.",
+      "visual": "joke",
+      "start": 253.724,
+      "end": 255.486
+    },
+    {
+      "index": 73,
+      "scene": 5,
+      "speaker": "Nam",
+      "text": "Nhưng 55 nghìn tiền ship là sự thật tuyệt đối nhé!",
+      "visual": "end",
+      "start": 257.056,
+      "end": 259.972
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "entries": {
+    "000": {
+      "sha256": "146dfaa087092c4ead74efec2e8475fcd2348cd2f4753adbb94a05d378f2438a",
+      "voice": "Adam bựa",
+      "spoken": "Áo một trăm nghìn, giảm năm mươi phần trăm rồi tăng năm mươi phần trăm. Về giá cũ chứ?"
+    },
+    "001": {
+      "sha256": "e903eea64466d35b384005345657a0520781ff9cf4d9324cb79b75d12a600e66",
+      "voice": "Anh Khôi",
+      "spoken": "Không. Sau khi giảm, áo chỉ còn năm mươi nghìn."
+    },
+    "002": {
+      "sha256": "eeb33206bc1c890c993213ff2d482164966b6ed108888faf453f2706d06fd944",
+      "voice": "Adam bựa",
+      "spoken": "Nhưng tăng năm mươi phần trăm là thêm năm mươi nghìn mà?"
+    },
+    "003": {
+      "sha256": "146589d741b50943e498e81e18bd951540558c550b6027f728fcd311086418bb",
+      "voice": "Anh Khôi",
+      "spoken": "Năm mươi phần trăm của năm mươi nghìn là hai mươi lăm nghìn."
+    },
+    "004": {
+      "sha256": "8b2541c55bd83dc46f6de00e17e86826dd16d1c6e034b80c64f3fc36b7755572",
+      "voice": "Adam bựa",
+      "spoken": "Vậy giá cuối cùng là bảy mươi lăm nghìn?"
+    },
+    "005": {
+      "sha256": "66b63a5331eecffc406f9c44486098d0b0a80cb1b3186d554959c90c22f50c0e",
+      "voice": "Anh Khôi",
+      "spoken": "Đúng. Mỗi lần phần trăm được tính trên một mức giá khác nhau."
+    },
+    "006": {
+      "sha256": "b5f46ee1b25e8639df36dd84a0945daa995971ac781fe361177d4ddbaea30427",
+      "voice": "Adam bựa",
+      "spoken": "Thế mà tao tưởng được miễn phí!"
+    },
+    "007": {
+      "sha256": "786eef9fe83828ba461501dce716f7fad4ad0a0eba86ef27964da5e840e80087",
+      "voice": "Anh Khôi",
+      "spoken": "Giảm năm mươi phần trăm rồi tăng năm mươi phần trăm sẽ còn bảy mươi lăm phần trăm giá ban đầu."
+    },
+    "008": {
+      "sha256": "f072511e461f6b73ab8407fbf24032280b86ab305f2b72e2b4ad6870c3b5ba58",
+      "voice": "Adam bựa",
+      "spoken": "Tức là cuối cùng vẫn giảm hai mươi lăm phần trăm."
+    },
+    "009": {
+      "sha256": "b4baab620aa1b21ed384a77a7246bf1d30df6d922f9a2c101639046811546e45",
+      "voice": "Anh Khôi",
+      "spoken": "Chính xác."
+    },
+    "010": {
+      "sha256": "19b6273f5eaa33002aaf5ed972d5d0277d80f9678856cc6379246377c0001780",
+      "voice": "Adam bựa",
+      "spoken": "Toán không cho tao làm giàu dễ thế rồi!"
+    }
+  }
+}

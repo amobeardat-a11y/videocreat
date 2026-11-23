@@ -1,0 +1,24 @@
+{
+  "canvas": [1280, 720],
+  "ground_y": 562,
+  "scale": 0.8,
+  "background": "#f7f8fa",
+  "initial_x": 970,
+  "beats": [
+    {"pose": "walk", "duration": 3.2, "to_x": 1090, "transition": 0, "expression": "curious"},
+    {"pose": "spot_sale", "duration": 2.0, "to_x": 1090, "transition": 0.25, "expression": "excited"},
+    {"pose": "surprised", "duration": 4.0, "to_x": 1090, "transition": 0.25, "expression": "surprised", "effect": "surprise"},
+    {"pose": "step_back", "duration": 1.0, "to_x": 1040, "transition": 0.18, "expression": "confused"},
+    {"pose": "calculate_discount", "duration": 3.3, "to_x": 1040, "transition": 0.25, "expression": "thinking", "effect": "thought"},
+    {"pose": "idea", "duration": 1.4, "to_x": 1040, "transition": 0.22, "expression": "excited", "effect": "idea"},
+    {"pose": "celebrate", "duration": 4.8, "to_x": 1040, "transition": 0.25, "expression": "laugh"},
+    {"pose": "walk", "duration": 2.8, "to_x": 1140, "transition": 0.25, "expression": "proud"},
+    {"pose": "reach", "duration": 1.8, "to_x": 1140, "transition": 0.22, "expression": "happy"},
+    {"pose": "pay_cashier", "duration": 2.7, "to_x": 1140, "transition": 0.2, "expression": "proud"},
+    {"pose": "surprised", "duration": 1.5, "to_x": 1140, "transition": 0.22, "expression": "surprised", "effect": "surprise"},
+    {"pose": "hands_on_hips", "duration": 3.0, "to_x": 1140, "transition": 0.22, "expression": "angry"},
+    {"pose": "shrug", "duration": 2.3, "to_x": 1140, "transition": 0.22, "expression": "confused"},
+    {"pose": "think", "duration": 3.2, "to_x": 1140, "transition": 0.22, "expression": "thinking", "effect": "thought"},
+    {"pose": "confused", "duration": 3.0, "to_x": 1140, "transition": 0.22, "expression": "confused"}
+  ]
+}
