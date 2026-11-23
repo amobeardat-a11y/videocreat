@@ -40,6 +40,7 @@ def main():
         "stickman_assets/requirements.txt",
         "stickman_assets/story_animation.py",
         "stickman_assets/vfx.py",
+        "stickman_assets/illustrations.py",
         "phan_tram_stickman_video/NotoSans.ttf",
         "phan_tram_stickman_video/OFL-NotoSans.txt",
     ]
@@ -47,6 +48,11 @@ def main():
         relatives.extend([
             f"stickman_assets/sequences/{path.stem}.json",
             f"stickman_assets/sequences/{path.stem}.webp",
+        ])
+    for path in sorted((WORKSPACE / "stickman_assets" / "illustrations" / "svg").glob("*.svg")):
+        relatives.extend([
+            f"stickman_assets/illustrations/svg/{path.name}",
+            f"stickman_assets/illustrations/png/{path.stem}.png",
         ])
     files = [(WORKSPACE / relative).resolve() for relative in relatives]
     if not all(path.is_relative_to(WORKSPACE) and path.is_file() for path in files):

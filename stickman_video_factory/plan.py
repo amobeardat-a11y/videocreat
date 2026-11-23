@@ -18,6 +18,7 @@ if str(ASSET_ROOT) not in sys.path:
     sys.path.insert(0, str(ASSET_ROOT))
 from story_animation import StoryAnimation
 import vfx as VFX
+import illustrations as ILLU
 
 
 @lru_cache(maxsize=24)
@@ -30,7 +31,7 @@ def load_sequence(name: str) -> StoryAnimation:
     return StoryAnimation.from_file(path)
 
 VISUAL_TYPES = {"text", "table", "chart", "equation", "compare", "steps",
-                "phone", "valley", "image", "store", "end"}
+                "phone", "valley", "image", "illustration", "store", "end"}
 EFFECTS = set(VFX.EFFECTS)
 VOICE_STYLES = {"comic_male", "calm_male", "warm_female", "clear_female"}
 COLORS = {"orange", "teal"}
@@ -138,6 +139,9 @@ def validate_visual(visual, path):
               f"{path}.path: use a relative asset path inside the plan folder")
         check(Path(asset).suffix.lower() in (".png", ".jpg", ".jpeg", ".webp"),
               f"{path}.path: use PNG, JPG or WebP")
+    if kind == "illustration":
+        check(visual.get("name") in ILLU.ILLUSTRATIONS,
+              f"{path}.name: choose {sorted(ILLU.ILLUSTRATIONS)}")
     if "title" in visual:
         short_text(visual["title"], f"{path}.title", 50)
     if "animation_seconds" in visual:

@@ -1,0 +1,11 @@
+{
+  "canvas": [960, 540], "ground_y": 460, "scale": 0.85,
+  "background": "#f7f8fa", "initial_x": 190,
+  "beats": [
+    {"pose": "shield_eyes", "duration": 1.0, "to_x": 190, "transition": 0, "expression": "curious", "effect": "question"},
+    {"pose": "ponder_walk", "duration": 1.4, "to_x": 315, "transition": 0.20, "expression": "thinking"},
+    {"pose": "inspect_ground", "duration": 1.1, "to_x": 320, "transition": 0.20, "expression": "focused"},
+    {"pose": "measure_span", "duration": 1.2, "to_x": 320, "transition": 0.22, "expression": "focused"},
+    {"pose": "fist_pump", "duration": 1.0, "to_x": 320, "transition": 0.20, "expression": "proud", "effect": "sparkle"}
+  ]
+}

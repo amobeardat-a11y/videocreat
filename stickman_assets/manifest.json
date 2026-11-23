@@ -1,5 +1,5 @@
 {
-  "version": 5,
+  "version": 6,
   "canvas": [
     500,
     600
@@ -1012,6 +1012,103 @@
         0.75,
         1
       ]
+    },
+    "shield_eyes": {
+      "vi": "Che mắt nhìn xa",
+      "category": "hội thoại",
+      "default_expression": "curious",
+      "cycles_per_loop": 1,
+      "motion_beats": [
+        0,
+        0.3,
+        0.65,
+        1
+      ]
+    },
+    "inspect_ground": {
+      "vi": "Cúi xuống quan sát",
+      "category": "hành động",
+      "default_expression": "focused",
+      "cycles_per_loop": 1,
+      "motion_beats": [
+        0,
+        0.36,
+        0.7,
+        1
+      ]
+    },
+    "measure_span": {
+      "vi": "Đo khoảng rộng",
+      "category": "hội thoại",
+      "default_expression": "focused",
+      "cycles_per_loop": 1,
+      "motion_beats": [
+        0,
+        0.35,
+        0.7,
+        1
+      ]
+    },
+    "reassure": {
+      "vi": "Trấn an người khác",
+      "category": "hội thoại",
+      "default_expression": "grateful",
+      "cycles_per_loop": 1,
+      "motion_beats": [
+        0,
+        0.3,
+        0.65,
+        1
+      ]
+    },
+    "refuse": {
+      "vi": "Từ chối dứt khoát",
+      "category": "hội thoại",
+      "default_expression": "determined",
+      "cycles_per_loop": 1,
+      "motion_beats": [
+        0,
+        0.25,
+        0.6,
+        1
+      ]
+    },
+    "ponder_walk": {
+      "vi": "Đi chậm suy nghĩ",
+      "category": "di chuyển",
+      "default_expression": "thinking",
+      "cycles_per_loop": 2,
+      "motion_beats": [
+        0,
+        0.25,
+        0.5,
+        0.75,
+        1
+      ]
+    },
+    "call_out": {
+      "vi": "Gọi lớn",
+      "category": "hội thoại",
+      "default_expression": "talk",
+      "cycles_per_loop": 1,
+      "motion_beats": [
+        0,
+        0.27,
+        0.58,
+        1
+      ]
+    },
+    "fist_pump": {
+      "vi": "Nắm tay mừng nhẹ",
+      "category": "cảm xúc",
+      "default_expression": "proud",
+      "cycles_per_loop": 1,
+      "motion_beats": [
+        0,
+        0.32,
+        0.63,
+        1
+      ]
     }
   },
   "expressions": {
@@ -1056,10 +1153,22 @@
     "anger": "Tia giận dữ",
     "rain": "Mưa quanh nhân vật"
   },
+  "illustrations": {
+    "parcel_route": "Đường đi của kiện hàng",
+    "rainy_street": "Đường phố trời mưa",
+    "idea_lab": "Ý tưởng và nghiên cứu",
+    "calendar_clock": "Lịch và thời gian",
+    "team_talk": "Hai người trao đổi",
+    "growth_steps": "Tiến bộ từng bước"
+  },
   "story_sequences": {
     "arrival_greeting": {
       "duration_seconds": 5.0,
       "beats": 4
+    },
+    "calm_after_conflict": {
+      "duration_seconds": 5.8,
+      "beats": 6
     },
     "confusion_to_idea": {
       "duration_seconds": 5.2,
@@ -1087,6 +1196,10 @@
     },
     "small_victory": {
       "duration_seconds": 4.8,
+      "beats": 5
+    },
+    "spot_and_measure": {
+      "duration_seconds": 5.7,
       "beats": 5
     },
     "sudden_scary_news": {

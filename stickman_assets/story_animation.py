@@ -93,7 +93,7 @@ class StoryAnimation:
             state = rig.blend(previous_state, state, ease(local / beat["transition"]))
         travel = local / beat["duration"]
         # Even spacing keeps walking feet tied to travel; acting shifts settle gently.
-        if beat["pose"] not in ("walk", "run", "march", "tiptoe", "side_step", "sneak", "pace"):
+        if beat["pose"] not in ("walk", "run", "march", "tiptoe", "side_step", "sneak", "pace", "ponder_walk"):
             travel = ease(travel)
         x = beat["from_x"] + (beat["to_x"] - beat["from_x"]) * travel
         return state, x, beat["facing"], beat["effect"], local

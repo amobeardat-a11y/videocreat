@@ -1,0 +1,12 @@
+{
+  "canvas": [960, 540], "ground_y": 460, "scale": 0.85,
+  "background": "#f7f8fa", "initial_x": 320,
+  "beats": [
+    {"pose": "refuse", "duration": 1.0, "to_x": 320, "transition": 0, "expression": "angry", "effect": "anger"},
+    {"pose": "lean_away", "duration": 0.8, "to_x": 290, "transition": 0.18, "expression": "worried"},
+    {"pose": "listen", "duration": 1.1, "to_x": 290, "transition": 0.20, "expression": "curious"},
+    {"pose": "reassure", "duration": 1.2, "to_x": 305, "transition": 0.22, "expression": "grateful"},
+    {"pose": "offer_hand", "duration": 1.0, "to_x": 310, "transition": 0.20, "expression": "happy"},
+    {"pose": "nod", "duration": 0.7, "to_x": 310, "transition": 0.18, "expression": "happy"}
+  ]
+}

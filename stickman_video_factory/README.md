@@ -46,7 +46,7 @@ Có thể thêm `"effect":"question"` vào một `line` để đặt VFX chuyể
 
 ## Khả năng hiện tại
 
-Hỗ trợ một hoặc hai nhân vật và 11 kiểu hình: chữ, bảng, biểu đồ điểm/đường thẳng, công thức, so sánh, các bước, điện thoại, thung lũng sai số, cửa hàng, ảnh ngoài và màn hình kết. Có thể chọn từ 80 pose, 27 biểu cảm và 10 VFX trong `../stickman_assets/manifest.json`. ZIP kèm 10 chuỗi diễn xuất WebP/JSON trong `stickman_assets/sequences/` để dùng trực tiếp trong plan hoặc ghép riêng. `image` nhận PNG/JPG đã có khi một kịch bản cần đạo cụ hoặc bối cảnh riêng. Lệnh kiểm tra sẽ báo thiếu ảnh trước khi dựng.
+Hỗ trợ một hoặc hai nhân vật và 12 kiểu hình: chữ, bảng, biểu đồ điểm/đường thẳng, công thức, so sánh, các bước, điện thoại, thung lũng sai số, cửa hàng, hình minh họa có sẵn, ảnh ngoài và màn hình kết. Có thể chọn từ 88 pose, 27 biểu cảm, 10 VFX và 6 hình minh họa trong `../stickman_assets/manifest.json`. ZIP kèm 12 chuỗi diễn xuất WebP/JSON trong `stickman_assets/sequences/` để dùng trực tiếp trong plan hoặc ghép riêng. Với hình có sẵn, dùng `{"type":"illustration","name":"parcel_route"}`. `image` nhận PNG/JPG đã có khi một kịch bản cần ảnh riêng. Lệnh kiểm tra sẽ báo thiếu ảnh trước khi dựng.
 
 Chất lượng hình thức và nhịp dựng được giữ cố định bằng mã. `--source` đối chiếu các lượt thoại có nhãn người nói để bắt lỗi bỏ sót hoặc viết lại câu; nếu kịch bản không có nhãn thoại, có thể bỏ tùy chọn này. Nội dung mới vẫn cần xem lại số liệu, phép tính, hình được model chọn và phát âm thuật ngữ. Bộ kiểm tra không thể chứng minh một lời giải thích khoa học là đúng.
 

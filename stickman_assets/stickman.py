@@ -185,6 +185,17 @@ POSES.update({
     "pace": ("Đi qua lại suy nghĩ", dict(t=8, h=7, la=(-25, -20), ra=(25, 20), ll=(-2, 0), rl=(2, 0), e="thinking")),
 })
 
+POSES.update({
+    "shield_eyes": ("Che mắt nhìn xa", dict(t=4, h=-13, ra=(110, 245), e="curious")),
+    "inspect_ground": ("Cúi xuống quan sát", dict(t=55, h=8, ra=(40, 85), ll=(-35, 30), rl=(35, -30), e="focused")),
+    "measure_span": ("Đo khoảng rộng", dict(la=(-78, -90), ra=(78, 90), e="focused")),
+    "reassure": ("Trấn an người khác", dict(t=5, la=(-45, -110), ra=(55, 95), e="grateful")),
+    "refuse": ("Từ chối dứt khoát", dict(t=-9, la=(-20, 100), ra=(75, 85), e="determined")),
+    "ponder_walk": ("Đi chậm suy nghĩ", dict(t=11, h=8, ra=(85, 250), ll=(-2, 0), rl=(2, 0), e="thinking")),
+    "call_out": ("Gọi lớn", dict(t=8, h=-8, ra=(110, 245), la=(-30, -25), e="talk")),
+    "fist_pump": ("Nắm tay mừng nhẹ", dict(t=-5, ra=(125, 170), e="proud")),
+})
+
 
 def key(time, delta=None, face=None):
     return (time, delta or {}, face)
@@ -265,6 +276,40 @@ MOTIONS.update({
 })
 
 MOTIONS.update({
+    "shield_eyes": [key(0, {"h": 12}, "neutral"), key(.3, {"h": -12, "ra": (3, 5)}, "curious"),
+                    key(.65, {"t": 5, "h": 10}, "focused"), key(1, {"h": 12}, "neutral")],
+    "inspect_ground": [key(0, {"t": -32, "h": -8}, "curious"),
+                       key(.36, {"t": 8, "h": 8, "ra": (12, -8)}, "focused"),
+                       key(.7, {"t": 10, "h": -5}, "curious"),
+                       key(1, {"t": -32, "h": -8}, "curious")],
+    "measure_span": [key(0, {"la": (35, 30), "ra": (-35, -30)}, "neutral"),
+                     key(.35, {"la": (-9, -5), "ra": (9, 5)}, "focused"),
+                     key(.7, {"h": -6, "t": 4}, "talk"),
+                     key(1, {"la": (35, 30), "ra": (-35, -30)}, "neutral")],
+    "reassure": [key(0, {"ra": (-35, -30), "la": (18, 12)}, "worried"),
+                 key(.3, {"ra": (8, 8), "la": (-5, -5)}, "grateful"),
+                 key(.65, {"h": 6, "t": 3}, "happy"),
+                 key(1, {"ra": (-35, -30), "la": (18, 12)}, "worried")],
+    "refuse": [key(0, {"la": (45, 45), "ra": (-45, -45)}, "neutral"),
+               key(.25, {"la": (-9, -8), "ra": (9, 8), "t": -5}, "determined"),
+               key(.6, {"h": 10, "t": -8}, "angry"),
+               key(1, {"la": (45, 45), "ra": (-45, -45)}, "neutral")],
+    "ponder_walk": [key(0, {"ll": (-22, -20), "rl": (22, 20), "h": -4}, "thinking"),
+                    key(.25, {"lift": 4, "t": 3}, "focused"),
+                    key(.5, {"ll": (22, 20), "rl": (-22, -20), "h": 4}, "thinking"),
+                    key(.75, {"lift": 4, "t": -3}, "focused"),
+                    key(1, {"ll": (-22, -20), "rl": (22, 20), "h": -4}, "thinking")],
+    "call_out": [key(0, {"ra": (-35, -35), "h": 10}, "neutral"),
+                 key(.27, {"ra": (5, 4), "t": 6}, "talk"),
+                 key(.58, {"h": -8, "t": 4}, "amazed"),
+                 key(1, {"ra": (-35, -35), "h": 10}, "neutral")],
+    "fist_pump": [key(0, {"ra": (-60, -55), "lift": -7}, "neutral"),
+                  key(.32, {"ra": (8, 8), "lift": 10}, "proud"),
+                  key(.63, {"ra": (-6, -4), "lift": 6}, "happy"),
+                  key(1, {"ra": (-60, -55), "lift": -7}, "neutral")],
+})
+
+MOTIONS.update({
     "look_around": [key(0, {"h": -10, "ra": (-15, -12)}, "curious"),
                     key(.28, {"h": 18, "t": -3}, "focused"),
                     key(.57, {"h": 34, "ra": (3, 8)}, "skeptical"),
@@ -332,6 +377,7 @@ MOTIONS.update({
 
 # Fast actions repeat their authored beats within the two-second asset loop.
 MOTION_CYCLES = {"talk": 2, "walk": 2, "run": 3, "clap": 2, "march": 2, "pace": 2,
+                 "ponder_walk": 2,
                  "tiptoe": 2, "side_step": 2, "tremble": 2, "shadow_box": 2}
 
 POSE_CATEGORY = {}
@@ -339,13 +385,14 @@ for category, names in {
     "hội thoại": ("talk explain_open point_side point_up explain_up raise_hand think idea confused "
                  "wave shrug listen nod shake_head reach bow salute beckon whisper present_left "
                   "present_right apologize plead spot_sale calculate_discount compare_prices write_formula "
-                  "look_around lean_in count_fingers point_down show_two offer_hand check_time").split(),
+                   "look_around lean_in count_fingers point_down show_two offer_hand check_time "
+                   "shield_eyes measure_span reassure refuse call_out").split(),
     "cảm xúc": ("idle arms_crossed hands_on_hips celebrate facepalm surprised clap laugh_body "
                   "cry_body tremble sigh angry_stomp shy sleepy_nod relieved empty_wallet "
-                  "lean_away block double_take flinch wait quiet_joy").split(),
+                   "lean_away block double_take flinch wait quiet_joy fist_pump").split(),
     "di chuyển": ("walk run jump dance stretch sneak step_back march tiptoe side_step stumble "
-                    "squat kneel sit hop kick pace").split(),
-    "hành động": ("push pull stretch_side shadow_box reach_high duck pay_cashier").split(),
+                     "squat kneel sit hop kick pace ponder_walk").split(),
+    "hành động": ("push pull stretch_side shadow_box reach_high duck pay_cashier inspect_ground").split(),
 }.items():
     for name in names:
         if name in POSE_CATEGORY:
@@ -540,11 +587,14 @@ def clean_legacy():
 
 def package(fps=18, duration=2, width=400):
     import vfx
+    import illustrations
 
     clean_legacy()
     (ROOT / "svg" / "poses").mkdir(parents=True, exist_ok=True)
     (ROOT / "svg" / "expressions").mkdir(parents=True, exist_ok=True)
     (ROOT / "animations").mkdir(parents=True, exist_ok=True)
+    (ROOT / "illustrations" / "svg").mkdir(parents=True, exist_ok=True)
+    (ROOT / "illustrations" / "png").mkdir(parents=True, exist_ok=True)
     for name in POSES:
         (ROOT / "svg" / "poses" / f"{name}.svg").write_text(build(name), encoding="utf-8")
         export_frames(lambda phase, n=name: frame_svg(n, phase),
@@ -554,8 +604,12 @@ def package(fps=18, duration=2, width=400):
                  + face_svg(expression, 0, 0))
         (ROOT / "svg" / "expressions" / f"{expression}.svg").write_text(
             wrap(inner, "-40 -40 80 80", 320, 320), encoding="utf-8")
+    for name in illustrations.ILLUSTRATIONS:
+        art = illustrations.svg(name)
+        (ROOT / "illustrations" / "svg" / f"{name}.svg").write_text(art, encoding="utf-8")
+        raster(art, 520).save(ROOT / "illustrations" / "png" / f"{name}.png")
     manifest = {
-        "version": 5,
+        "version": 6,
         "canvas": [W, H],
         "background": "transparent",
         "loop": {"fps": fps, "duration_seconds": duration, "width": width,
@@ -569,6 +623,7 @@ def package(fps=18, duration=2, width=400):
                   for name, (label, _) in POSES.items()},
         "expressions": {name: label for name, (_, label) in FACES.items()},
         "effects": vfx.EFFECTS,
+        "illustrations": illustrations.ILLUSTRATIONS,
         "story_sequences": {
             path.stem: {
                 "duration_seconds": sum(beat["duration"] for beat in data["beats"]),
@@ -590,6 +645,9 @@ def package(fps=18, duration=2, width=400):
     catalog += [f"- `{name}` — {label}" for name, label in vfx.EFFECTS.items()
                 if name != "none"]
     catalog.append("")
+    catalog += ["## Hình minh họa", ""]
+    catalog += [f"- `{name}` — {label}" for name, label in illustrations.ILLUSTRATIONS.items()]
+    catalog.append("")
     (ROOT / "CATALOG.md").write_text("\n".join(catalog), encoding="utf-8")
 
 
@@ -598,11 +656,14 @@ def make_archive(output):
     output = Path(output).resolve()
     manifest = json.loads((ROOT / "manifest.json").read_text(encoding="utf-8"))
     files = [ROOT / name for name in ("README.md", "CATALOG.md", "requirements.txt",
-                                       "stickman.py", "story_animation.py", "vfx.py",
+                                       "stickman.py", "story_animation.py", "vfx.py", "illustrations.py",
                                        "story_demo.json", "manifest.json")]
     files += [ROOT / "animations" / f"{name}.webp" for name in manifest["poses"]]
     files += [ROOT / "svg" / "poses" / f"{name}.svg" for name in manifest["poses"]]
     files += [ROOT / "svg" / "expressions" / f"{name}.svg" for name in manifest["expressions"]]
+    for name in manifest["illustrations"]:
+        files += [ROOT / "illustrations" / folder / f"{name}.{ext}"
+                  for folder, ext in (("svg", "svg"), ("png", "png"))]
     for name in manifest["story_sequences"]:
         files += [ROOT / "sequences" / f"{name}.{ext}" for ext in ("json", "webp")]
     if not all(path.is_file() and path.is_relative_to(ROOT) for path in files):

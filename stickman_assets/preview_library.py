@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Create a short MP4 preview of the six new story animations."""
+"""Create a short MP4 preview of the expanded story animation library."""
 
 from __future__ import annotations
 
@@ -19,6 +19,8 @@ ITEMS = [
     ("impatient_waiting", "Chờ đợi sốt ruột", "Xem giờ · Gõ chân · Đi qua lại"),
     ("debate_and_agree", "Tranh luận rồi đồng ý", "Lắng nghe · Phản đối · Đồng ý"),
     ("small_victory", "Niềm vui nhỏ", "Suy nghĩ · Nảy ý · Ăn mừng nhẹ"),
+    ("spot_and_measure", "Tìm và đo đạc", "Nhìn xa · Quan sát · Đo khoảng rộng"),
+    ("calm_after_conflict", "Hòa giải", "Từ chối · Lắng nghe · Trấn an"),
 ]
 
 
@@ -45,7 +47,7 @@ def main() -> None:
                 frame = Image.new("RGB", (width, height), "#f3f7fb")
                 draw = ImageDraw.Draw(frame)
                 draw.rectangle((0, 0, width, 60), fill="#17324d")
-                draw.text((28, 16), "THƯ VIỆN NGƯỜI QUE  ·  BẢN 5", font=font_mid, fill="white")
+                draw.text((28, 16), "THƯ VIỆN NGƯỜI QUE  ·  BẢN 6", font=font_mid, fill="white")
                 draw.line((28, 462, 574, 462), fill="#cad6e1", width=2)
                 actor = webp.convert("RGBA")
                 frame.paste(actor, (0, 0), actor)
@@ -63,7 +65,7 @@ def main() -> None:
                         current_pose = beat["pose"]
                         break
                 draw.text((620, 378), f"pose: {current_pose}", font=font_small, fill="#64798a")
-                draw.text((28, 496), "80 ĐỘNG TÁC   ·   27 BIỂU CẢM   ·   10 CHUỖI   ·   10 VFX",
+                draw.text((28, 496), "88 ĐỘNG TÁC   ·   12 CHUỖI   ·   10 VFX   ·   6 HÌNH MINH HỌA",
                           font=font_small, fill="#496478")
                 process.stdin.write(frame.tobytes())
             webp.close()

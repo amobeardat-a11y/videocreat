@@ -14,7 +14,7 @@ from pathlib import Path
 
 from PIL import Image, ImageDraw, ImageFont, ImageOps
 
-from plan import RIG, VFX, load_plan, load_sequence
+from plan import RIG, VFX, ILLU, load_plan, load_sequence
 
 ROOT = Path(__file__).resolve().parent
 FONT_FILE = ROOT.parent / "phan_tram_stickman_video" / "NotoSans.ttf"
@@ -277,6 +277,11 @@ def draw_visual(image, visual, progress, plan_dir):
         draw.line((971, 331, 1040, 361, 1109, 331), fill=NAVY, width=3)
         center(draw, (1039, 390), visual.get("subtext", "SHIP?"), 24, NAVY)
         notes(draw, visual.get("notes", []), 503)
+    elif kind == "illustration":
+        visual_title(draw, title or ILLU.ILLUSTRATIONS[visual["name"]].upper())
+        art = illustration_sprite(visual["name"], round(progress * 18))
+        image.paste(art, (664, 213), art)
+        notes(draw, visual.get("notes", []), 527)
     elif kind == "image":
         path = (plan_dir / visual["path"]).resolve()
         source = Image.open(path).convert("RGBA")
@@ -286,6 +291,11 @@ def draw_visual(image, visual, progress, plan_dir):
         image.paste(source, (x, y), source)
         visual_title(draw, title)
         notes(draw, visual.get("notes", []), 509)
+
+
+@lru_cache(maxsize=120)
+def illustration_sprite(name, tick):
+    return RIG.raster(ILLU.svg(name, tick / 18), 500)
 
 
 @lru_cache(maxsize=420)

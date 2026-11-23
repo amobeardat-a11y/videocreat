@@ -24,9 +24,9 @@
       "text": "Khoan đã, mình vừa nghĩ ra một điều hay nhưng quên mất rồi.",
       "acting_sequence": "search_and_discover",
       "visual": {
-        "type": "text",
-        "headline": "Ý TƯỞNG ĐÂU RỒI?",
-        "subtext": "Tìm lại manh mối"
+        "type": "illustration",
+        "name": "idea_lab",
+        "title": "TÌM LẠI Ý TƯỞNG"
       },
       "index": 0,
       "scene": 0,
@@ -59,9 +59,9 @@
       "text": "Làm được rồi. Hóa ra cách này đơn giản hơn mình tưởng.",
       "acting_sequence": "small_victory",
       "visual": {
-        "type": "text",
-        "headline": "LÀM ĐƯỢC RỒI!",
-        "subtext": "Một chiến thắng nhỏ"
+        "type": "illustration",
+        "name": "growth_steps",
+        "title": "TIẾN BỘ TỪNG BƯỚC"
       },
       "index": 2,
       "scene": 0,
