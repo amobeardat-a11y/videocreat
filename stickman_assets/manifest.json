@@ -1,5 +1,5 @@
 {
-  "version": 6,
+  "version": 7,
   "canvas": [
     500,
     600
@@ -1159,7 +1159,13 @@
     "idea_lab": "Ý tưởng và nghiên cứu",
     "calendar_clock": "Lịch và thời gian",
     "team_talk": "Hai người trao đổi",
-    "growth_steps": "Tiến bộ từng bước"
+    "growth_steps": "Tiến bộ từng bước",
+    "data_network": "Mạng dữ liệu kết nối",
+    "balance_scale": "Cân nhắc hai lựa chọn",
+    "wallet_payment": "Thanh toán và ví tiền",
+    "search_document": "Tìm thông tin trong tài liệu",
+    "secure_lock": "Khóa bảo vệ dữ liệu",
+    "storyboard": "Khung hình dựng video"
   },
   "story_sequences": {
     "arrival_greeting": {
@@ -1190,8 +1196,16 @@
       "duration_seconds": 6.3,
       "beats": 6
     },
+    "research_to_decision": {
+      "duration_seconds": 5.7,
+      "beats": 6
+    },
     "search_and_discover": {
       "duration_seconds": 6.4,
+      "beats": 6
+    },
+    "setback_to_recovery": {
+      "duration_seconds": 5.4,
       "beats": 6
     },
     "small_victory": {

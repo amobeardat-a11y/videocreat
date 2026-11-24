@@ -609,7 +609,7 @@ def package(fps=18, duration=2, width=400):
         (ROOT / "illustrations" / "svg" / f"{name}.svg").write_text(art, encoding="utf-8")
         raster(art, 520).save(ROOT / "illustrations" / "png" / f"{name}.png")
     manifest = {
-        "version": 6,
+        "version": 7,
         "canvas": [W, H],
         "background": "transparent",
         "loop": {"fps": fps, "duration_seconds": duration, "width": width,

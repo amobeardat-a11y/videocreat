@@ -1,6 +1,6 @@
-# Stickman Assets v6
+# Stickman Assets v7
 
-Bộ người que và hình minh họa vector để dựng video. Gói có **88 động tác** dạng SVG tĩnh và WebP động, **27 biểu cảm**, **10 VFX**, **12 chuỗi diễn xuất** và **6 hình minh họa** dạng SVG/PNG. Tám động tác mới gồm nhìn xa, cúi kiểm tra, đo khoảng rộng, trấn an, từ chối, đi suy nghĩ, gọi lớn và mừng nhẹ. ZIP chỉ chứa asset sử dụng được và mã dựng; không chứa ảnh thử hoặc contact sheet.
+Bộ người que và hình minh họa vector để dựng video. Gói có **88 động tác** dạng SVG tĩnh và WebP động, **27 biểu cảm**, **10 VFX**, **14 chuỗi diễn xuất** và **12 hình minh họa** dạng SVG/PNG. Bản này thêm hình về mạng dữ liệu, cân nhắc lựa chọn, thanh toán, tra cứu tài liệu, bảo mật và dựng video; cùng hai chuỗi diễn xuất từ nghiên cứu đến quyết định và từ trở ngại đến cách giải quyết. ZIP chỉ chứa asset sử dụng được và mã dựng; không chứa ảnh thử hoặc contact sheet.
 
 ## Cấu trúc
 
@@ -12,8 +12,8 @@ Bộ người que và hình minh họa vector để dựng video. Gói có **88 
 - `stickman.py`: rig, các nhịp chuyển động và công cụ xuất video.
 - `story_animation.py`: ghép pose thành một cảnh liên tục, điều khiển vị trí, hướng nhìn, biểu cảm và hiệu ứng phản ứng.
 - `vfx.py`: vẽ hiệu ứng vector theo thời gian; mỗi VFX là một lớp riêng và có thể ghép lên bất kỳ pose nào.
-- `illustrations.py` và `illustrations/{svg,png}/*`: sáu hình minh họa không chứa chữ, dùng lại ở nhiều kịch bản.
-- `sequences/*.json` và `sequences/*.webp`: mười hai chuỗi diễn xuất ngắn, nền trong suốt, có thể dùng ngay hoặc sửa theo cảnh.
+- `illustrations.py` và `illustrations/{svg,png}/*`: mười hai hình minh họa không chứa chữ, dùng lại ở nhiều kịch bản.
+- `sequences/*.json` và `sequences/*.webp`: mười bốn chuỗi diễn xuất ngắn, nền trong suốt, có thể dùng ngay hoặc sửa theo cảnh.
 - `story_demo.json`: ví dụ dài với đi, bất ngờ, suy nghĩ, chạy và ăn mừng trong một lượt diễn.
 
 ## Sử dụng
@@ -35,7 +35,7 @@ Các động tác di chuyển như `walk`, `run`, `march`, `tiptoe`, `side_step`
 
 ## Chuỗi animation cho cảnh truyện
 
-Mỗi tệp trong `sequences/` có bản WebP nền trong suốt để ghép ngay và bản JSON để đổi nhịp diễn. Bản này thêm `spot_and_measure` (tìm rồi đo đạc) và `calm_after_conflict` (tranh cãi rồi hòa giải). Danh sách đủ 12 chuỗi nằm trong `manifest.json`. Nhân vật ở phía trái hoặc di chuyển theo cảnh, chừa khoảng trống cho hình minh họa và chữ.
+Mỗi tệp trong `sequences/` có bản WebP nền trong suốt để ghép ngay và bản JSON để đổi nhịp diễn. Bản này thêm `research_to_decision` và `setback_to_recovery`. Danh sách đủ 14 chuỗi nằm trong `manifest.json`. Nhân vật ở phía trái hoặc di chuyển theo cảnh, chừa khoảng trống cho hình minh họa và chữ.
 
 ```powershell
 python story_animation.py story_demo.json story_motion_demo.mp4 --format mp4 --fps 24 --width 1280

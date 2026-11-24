@@ -21,6 +21,8 @@ ITEMS = [
     ("small_victory", "Niềm vui nhỏ", "Suy nghĩ · Nảy ý · Ăn mừng nhẹ"),
     ("spot_and_measure", "Tìm và đo đạc", "Nhìn xa · Quan sát · Đo khoảng rộng"),
     ("calm_after_conflict", "Hòa giải", "Từ chối · Lắng nghe · Trấn an"),
+    ("research_to_decision", "Từ nghiên cứu đến quyết định", "Tìm kiếm · Cân nhắc · Chọn"),
+    ("setback_to_recovery", "Vấp ngã rồi tìm lối ra", "Bất ngờ · Suy nghĩ · Bình tĩnh"),
 ]
 
 
@@ -47,7 +49,7 @@ def main() -> None:
                 frame = Image.new("RGB", (width, height), "#f3f7fb")
                 draw = ImageDraw.Draw(frame)
                 draw.rectangle((0, 0, width, 60), fill="#17324d")
-                draw.text((28, 16), "THƯ VIỆN NGƯỜI QUE  ·  BẢN 6", font=font_mid, fill="white")
+                draw.text((28, 16), "THƯ VIỆN NGƯỜI QUE  ·  BẢN 7", font=font_mid, fill="white")
                 draw.line((28, 462, 574, 462), fill="#cad6e1", width=2)
                 actor = webp.convert("RGBA")
                 frame.paste(actor, (0, 0), actor)
@@ -65,7 +67,7 @@ def main() -> None:
                         current_pose = beat["pose"]
                         break
                 draw.text((620, 378), f"pose: {current_pose}", font=font_small, fill="#64798a")
-                draw.text((28, 496), "88 ĐỘNG TÁC   ·   12 CHUỖI   ·   10 VFX   ·   6 HÌNH MINH HỌA",
+                draw.text((28, 496), "88 ĐỘNG TÁC   ·   14 CHUỖI   ·   10 VFX   ·   12 HÌNH MINH HỌA",
                           font=font_small, fill="#496478")
                 process.stdin.write(frame.tobytes())
             webp.close()

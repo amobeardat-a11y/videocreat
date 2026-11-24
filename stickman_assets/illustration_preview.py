@@ -22,6 +22,12 @@ PAIRS = [
     ("ponder_walk", "calendar_clock", "Suy nghĩ về thời gian"),
     ("call_out", "team_talk", "Trao đổi với người khác"),
     ("fist_pump", "growth_steps", "Tiến bộ từng bước"),
+    ("think", "data_network", "Kết nối dữ liệu"),
+    ("show_two", "balance_scale", "Cân nhắc lựa chọn"),
+    ("pay_cashier", "wallet_payment", "Thanh toán"),
+    ("look_around", "search_document", "Tra cứu tài liệu"),
+    ("block", "secure_lock", "Bảo vệ thông tin"),
+    ("present_right", "storyboard", "Dựng câu chuyện"),
 ]
 
 
@@ -47,7 +53,7 @@ def main():
                 frame = rig.raster(sequence.svg(t), 960).convert("RGB")
                 draw = ImageDraw.Draw(frame)
                 draw.rectangle((0, 0, 960, 65), fill="#17324d")
-                draw.text((28, 18), f"{number:02d} / 06  ·  {caption}",
+                draw.text((28, 18), f"{number:02d} / {len(PAIRS):02d}  ·  {caption}",
                           font=font_title, fill="white")
                 draw.rounded_rectangle((408, 107, 944, 430), radius=23,
                                        fill="white", outline="#d7e3ec", width=2)

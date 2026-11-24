@@ -123,3 +123,9 @@ Mỗi tên có SVG tĩnh trong `svg/poses/` và WebP động trong `animations/`
 - `calendar_clock` — Lịch và thời gian
 - `team_talk` — Hai người trao đổi
 - `growth_steps` — Tiến bộ từng bước
+- `data_network` — Mạng dữ liệu kết nối
+- `balance_scale` — Cân nhắc hai lựa chọn
+- `wallet_payment` — Thanh toán và ví tiền
+- `search_document` — Tìm thông tin trong tài liệu
+- `secure_lock` — Khóa bảo vệ dữ liệu
+- `storyboard` — Khung hình dựng video
